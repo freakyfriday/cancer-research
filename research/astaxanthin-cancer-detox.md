@@ -527,8 +527,8 @@ Colon cancer creates a **particularly toxic local environment**:
 ## Key References
 
 1. Ambati RR, et al. *"[Astaxanthin: sources, extraction, stability, biological activities and its commercial applications--a review](https://pubmed.ncbi.nlm.nih.gov/24402174/)"* Mar Drugs. 2014.
-2. Yuan JP, et al. *"[Potential health-promoting effects of astaxanthin: A high-value carotenoid mostly from microalgae.](https://scholar.google.com/scholar?q=potential+health+promoting+effects+astaxanthin+high-value+carotenoid)"* Mol Nutr Food Res. 2011.
-3. Dose J, et al. *"[Free radical scavenging and cellular antioxidant properties of astaxanthin.](https://scholar.google.com/scholar?q=free+radical+scavenging+cellular+antioxidant+properties+astaxanthin)"* Int J Mol Sci. 2016.
+2. Yuan JP, et al. *"[Potential health-promoting effects of astaxanthin: A high-value carotenoid mostly from microalgae.](https://pubmed.ncbi.nlm.nih.gov/21207519/)"* Mol Nutr Food Res. 2011. (NIH/PubMed)
+3. Dose J, et al. *"[Free radical scavenging and cellular antioxidant properties of astaxanthin.](https://pubmed.ncbi.nlm.nih.gov/26784174/)"* Int J Mol Sci. 2016. (NIH/PubMed)
 4. Nagendraprabhu P, Sudhandiran G. *"[Astaxanthin inhibits tumor invasion by decreasing extracellular matrix production and induces apoptosis in experimental rat colon carcinogenesis by modulating the expressions of ERK-2, NFkB and COX-2](https://pubmed.ncbi.nlm.nih.gov/19876598/)"* BMC Cancer. 2011.
 5. Kavitha K, et al. *"[Astaxanthin inhibits NF-κB and Wnt/β-catenin signaling pathways via inactivation of Erk/MAPK and PI3K/Akt to induce intrinsic apoptosis in a hamster model of oral cancer](https://pubmed.ncbi.nlm.nih.gov/23726989/)"* Int Immunopharmacol. 2013.
 6. Palozza P, et al. *"[Growth-inhibitory effects of the astaxanthin-rich alga Haematococcus pluvialis in human colon cancer cells.](https://pubmed.ncbi.nlm.nih.gov/19423215/)"* Cancer Lett. 2009.

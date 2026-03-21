@@ -180,10 +180,10 @@ Red Light Therapy (660nm / 850nm)
 
 ## Key References
 
-1. Hamblin MR. *"[Mechanisms and applications of the anti-inflammatory effects of photobiomodulation.](https://scholar.google.com/scholar?q=Hamblin+mechanisms+applications+anti-inflammatory+effects+photobiomodulation+AIMS+Biophysics)"* AIMS Biophysics. (NIH/PMC)
+1. Hamblin MR. *"[Mechanisms and applications of the anti-inflammatory effects of photobiomodulation.](https://pubmed.ncbi.nlm.nih.gov/28748217/)"* AIMS Biophysics. (NIH/PubMed)
 2. Karu TI. *"[Multiple roles of cytochrome c oxidase in mammalian cells under action of red and IR-A radiation.](https://pubmed.ncbi.nlm.nih.gov/20681024/)"* IUBMB Life. (NIH/PMC)
 3. Hamblin MR. *"[Photobiomodulation and cancer: What is the truth?](https://pubmed.ncbi.nlm.nih.gov/29466089/)"* Photomed Laser Surg (2018). (NIH/PMC)
-4. Zecha JA, et al. *"[Low-level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer.](https://scholar.google.com/scholar?q=Zecha+low-level+laser+therapy+photobiomodulation+side+effects+chemoradiation+head+neck+cancer)"* Supportive Care in Cancer. (NIH/PMC)
+4. Zecha JA, et al. *"[Low level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer, part 1.](https://pubmed.ncbi.nlm.nih.gov/26984240/)"* Supportive Care in Cancer. (NIH/PubMed)
 5. Ferraresi C, et al. *"[Photobiomodulation in human muscle tissue: an advantage in sports performance?](https://pubmed.ncbi.nlm.nih.gov/27874264/)"* J Biophotonics. (NIH/PMC)
 
 ---

@@ -364,13 +364,13 @@ MONITOR: B12, folate, homocysteine, MMA at baseline
 ## Key References
 
 1. Yamashiki M, et al. *"[Inhibition of proliferation of human hepatoma cells and stimulation of natural killer cell cytotoxicity by methylcobalamin.](https://scholar.google.com/scholar?q=inhibition+proliferation+human+hepatoma+cells+stimulation+natural+killer)"* Int J Clin Pharmacol Ther. 1999.
-2. Fenech M. *"[Folate (vitamin B9) and vitamin B12 and their function in the maintenance of nuclear and mitochondrial genome integrity.](https://scholar.google.com/scholar?q=folate+vitamin+B9+vitamin+B12+function+maintenance+nuclear+acid)"* Mutat Res. 2012.
-3. Zhang M, et al. *"[Methylcobalamin: a potential vitamin of pain killer.](https://scholar.google.com/scholar?q=Zhang+methylcobalamin+potential+vitamin+pain+killer+Neural+Plasticity+2013)"* Neural Plast. 2013.
-4. Schloss JM, et al. *"[Nutraceuticals and chemotherapy-induced peripheral neuropathy (CIPN): a systematic review.](https://scholar.google.com/scholar?q=nutraceuticals+chemotherapy-induced+peripheral+neuropathy+CIPN+systematic)"* Clin Nutr. 2013.
-5. Selhub J, et al. *"[B vitamins, homocysteine, and neurocognitive function in the elderly.](https://scholar.google.com/scholar?q=B+vitamins+homocysteine+neurocognitive+function+elderly)"* Am J Clin Nutr. 2007.
-6. Ehrlich M. *"[DNA hypomethylation in cancer cells.](https://scholar.google.com/scholar?q=DNA+hypomethylation+cancer+cells)"* Epigenomics. 2009.
-7. Toyota M, et al. *"[CpG island methylator phenotype in colorectal cancer.](https://scholar.google.com/scholar?q=CpG+island+methylator+phenotype+colorectal+cancer)"* PNAS. 1999.
-8. Herman JG, et al. *"[Methylation-specific PCR: a novel PCR assay for methylation status of CpG islands.](https://scholar.google.com/scholar?q=methylation-specific+PCR+novel+assay+methylation+status+CpG+islands)"* PNAS. 1996.
+2. Fenech M. *"[Folate (vitamin B9) and vitamin B12 and their function in the maintenance of nuclear and mitochondrial genome integrity.](https://pubmed.ncbi.nlm.nih.gov/22093367/)"* Mutat Res. 2012. (NIH/PubMed)
+3. Zhang M, et al. *"[Methylcobalamin: a potential vitamin of pain killer.](https://pubmed.ncbi.nlm.nih.gov/24455309/)"* Neural Plast. 2013. (NIH/PubMed)
+4. Schloss JM, et al. *"[Nutraceuticals and chemotherapy-induced peripheral neuropathy (CIPN): a systematic review.](https://pubmed.ncbi.nlm.nih.gov/23647723/)"* Clin Nutr. 2013. (NIH/PubMed)
+5. Selhub J, et al. *"[B vitamins, homocysteine, and neurocognitive function in the elderly.](https://pubmed.ncbi.nlm.nih.gov/10681269/)"* Am J Clin Nutr. 2000. (NIH/PubMed)
+6. Ehrlich M. *"[DNA hypomethylation in cancer cells.](https://pubmed.ncbi.nlm.nih.gov/20495664/)"* Epigenomics. 2009. (NIH/PubMed)
+7. Toyota M, et al. *"[CpG island methylator phenotype in colorectal cancer.](https://pubmed.ncbi.nlm.nih.gov/10411935/)"* PNAS. 1999. (NIH/PubMed)
+8. Herman JG, et al. *"[Methylation-specific PCR: a novel PCR assay for methylation status of CpG islands.](https://pubmed.ncbi.nlm.nih.gov/8790415/)"* PNAS. 1996. (NIH/PubMed)
 9. Sibani S, et al. *"[Studies of methionine cycle intermediates (SAM, SAH), DNA methylation and the impact of folate deficiency on tumor numbers in Min mice.](https://scholar.google.com/scholar?q=studies+methionine+cycle+intermediates+SAM+SAH+DNA+methylation)"* Carcinogenesis. 2002.
 10. Okada K, et al. *"[Methylcobalamin increases Erk1/2 and Akt activities through the methylation cycle and promotes nerve regeneration in a rat sciatic nerve injury model.](https://scholar.google.com/scholar?q=methylcobalamin+increases+Erk1+Akt+activities+methylation+cycle)"* Exp Neurol. 2010.
 11. Cascinu S, et al. *"[Neuroprotective effect of reduced glutathione on oxaliplatin-based chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/12177109/)"* J Clin Oncol. 2002.

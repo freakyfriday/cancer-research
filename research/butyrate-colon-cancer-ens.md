@@ -439,9 +439,9 @@ Butyrate is primarily produced *in situ* by gut bacteria fermenting dietary fibr
 7. Singh N, et al. *"[Activation of Gpr109a, receptor for niacin and the commensal metabolite butyrate, suppresses colonic inflammation and carcinogenesis.](https://pubmed.ncbi.nlm.nih.gov/24412617/)"* Immunity. (NIH/PMC)
 8. Furusawa Y, et al. *"[Commensal microbe-derived butyrate induces the differentiation of colonic regulatory T cells.](https://pubmed.ncbi.nlm.nih.gov/24226770/)"* Nature. (NIH/PMC)
 9. Chen J, Bhatt DL, et al. *"[Butyrate produced by commensal bacteria promotes intestinal barrier integrity.](https://scholar.google.com/scholar?q=butyrate+produced+commensal+bacteria+promotes+intestinal+barrier+integrity)"* Frontiers Immunol. (Frontiers)
-10. Binder HJ. *"[Role of colonic short-chain fatty acid transport in diarrhea.](https://scholar.google.com/scholar?q=role+colonic+short-chain+fatty+acid+transport+diarrhea)"* Annu Rev Physiol. (NIH/PMC)
+10. Binder HJ. *"[Role of colonic short-chain fatty acid transport in diarrhea.](https://pubmed.ncbi.nlm.nih.gov/20148677/)"* Annu Rev Physiol. (NIH/PubMed)
 11. Spencer NJ, Hu H. *"[Enteric nervous system: sensory transduction, neural circuits and gastrointestinal motility.](https://pubmed.ncbi.nlm.nih.gov/32152479/)"* Nat Rev Gastroenterol Hepatol. (NIH/PMC)
-12. Mirzaei R, et al. *"[Role of short-chain fatty acids in the interplay between gut microbiota and intestinal immunity and cancer.](https://scholar.google.com/scholar?q=role+short-chain+fatty+acids+interplay+gut+microbiota+intestinal)"* J Cell Physiol. (NIH/PMC)
+12. Mirzaei R, et al. *"[Role of microbiota-derived short-chain fatty acids in cancer development and prevention.](https://pubmed.ncbi.nlm.nih.gov/33906079/)"* Biomed Pharmacother. (NIH/PubMed)
 
 ---
 

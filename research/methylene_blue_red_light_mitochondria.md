@@ -152,7 +152,7 @@ NORMAL CELLS:
 1. Atamna H, et al. *"[Methylene blue delays cellular senescence and enhances key mitochondrial biochemical pathways.](https://pubmed.ncbi.nlm.nih.gov/17928358/)"* FASEB J.
 2. Dos Santos AF, et al. *"[Distinct photo-oxidation-induced cell death pathways lead to selective killing of human breast cancer cells](https://pubmed.ncbi.nlm.nih.gov/33318476/)"* BMC Cancer.
 3. da Veiga Moreira J, et al. *"[Methylene Blue Metabolic Therapy Restrains In Vivo Ovarian Tumor Growth](https://pubmed.ncbi.nlm.nih.gov/38254843/)"* Cancer Letters (2024).
-4. Hamblin MR. *"[Mechanisms and applications of the anti-inflammatory effects of photobiomodulation.](https://scholar.google.com/scholar?q=Hamblin+mechanisms+applications+anti-inflammatory+effects+photobiomodulation+AIMS+Biophysics)"* AIMS Biophysics.
+4. Hamblin MR. *"[Mechanisms and applications of the anti-inflammatory effects of photobiomodulation.](https://pubmed.ncbi.nlm.nih.gov/28748217/)"* AIMS Biophysics. (NIH/PubMed)
 5. Karu TI. *"[Multiple roles of cytochrome c oxidase in mammalian cells under action of red and IR-A radiation.](https://pubmed.ncbi.nlm.nih.gov/20681024/)"* IUBMB Life.
 6. Tardivo JP, et al. *"[Methylene blue in photodynamic therapy: From basic mechanisms to clinical applications.](https://pubmed.ncbi.nlm.nih.gov/25048768/)"* Photodiagnosis Photodyn Ther.
 7. Hamblin MR. *"[Photobiomodulation and cancer: What is the truth?](https://pubmed.ncbi.nlm.nih.gov/29466089/)"* Photomed Laser Surg (2018).

@@ -396,7 +396,7 @@ adequate field strength with accurate frequencies. Use as COMPLEMENTARY therapy 
 2. Kirson ED, et al. *"[Disruption of cancer cell replication by alternating electric fields.](https://pubmed.ncbi.nlm.nih.gov/15126372/)"* Cancer Research (2004).
 3. Stupp R, et al. *"[Effect of Tumor-Treating Fields Plus Maintenance Temozolomide vs Maintenance Temozolomide Alone on Survival in Patients With Glioblastoma: A Randomized Clinical Trial (EF-14).](https://pubmed.ncbi.nlm.nih.gov/29260225/)"* JAMA (2017).
 4. Zimmerman JW, et al. *"[Targeted treatment of cancer with radiofrequency electromagnetic fields amplitude-modulated at tumor-specific frequencies.](https://pubmed.ncbi.nlm.nih.gov/24206915/)"* Chinese Journal of Cancer (2013).
-5. Barbault A, et al. *"[Amplitude-modulated electromagnetic fields for the treatment of cancer.](https://scholar.google.com/scholar?q=Barbault+amplitude-modulated+electromagnetic+fields+treatment+cancer+Bioelectromagnetics+2009)"* Bioelectromagnetics (2009).
+5. Barbault A, et al. *"[Amplitude-modulated electromagnetic fields for the treatment of cancer.](https://pubmed.ncbi.nlm.nih.gov/19366446/)"* Bioelectromagnetics (2009). (NIH/PubMed)
 6. Costa FP, et al. *"[Treatment of advanced hepatocellular carcinoma with very low levels of amplitude-modulated electromagnetic fields.](https://pubmed.ncbi.nlm.nih.gov/21829195/)"* British Journal of Cancer (2011).
 7. Holland AE. *"[Shattering Cancer with Resonant Frequencies.](https://www.youtube.com/watch?v=1w0_kazbb_U)"* TEDxSkidmoreCollege.
 8. Novobiotronics Research Lab. *"[Oscillating Pulsed Electric Field (OPEF) effects on cancer cells.](https://scholar.google.com/scholar?q=oscillating+pulsed+electric+field+OPEF+effects+cancer+cells)"* (Multiple publications).

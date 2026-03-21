@@ -255,7 +255,7 @@ Green Tea EGCG
 ## Key References
 
 1. Singh BN, Shankar S, Srivastava RK. *"[Green tea catechin, epigallocatechin-3-gallate (EGCG): mechanisms, perspectives and clinical applications.](https://pubmed.ncbi.nlm.nih.gov/21827739/)"* Biochem Pharmacol. (NIH/PMC)
-2. Yang CS, Wang H. *"[Cancer preventive activities of tea catechins.](https://scholar.google.com/scholar?q=Yang+CS+Wang+cancer+preventive+activities+tea+catechins)"* Molecules. (MDPI)
+2. Yang CS, Wang H. *"[Cancer preventive activities of tea catechins.](https://pubmed.ncbi.nlm.nih.gov/27941682/)"* Molecules. (NIH/PubMed)
 3. Fang MZ, et al. *"[Tea polyphenol (-)-epigallocatechin-3-gallate inhibits DNA methyltransferase and reactivates methylation-silenced genes in cancer cell lines.](https://pubmed.ncbi.nlm.nih.gov/14633667/)"* Cancer Research. (AACR)
 4. Jung YD, Ellis LM. *"[Inhibition of tumour invasion and angiogenesis by epigallocatechin gallate (EGCG), a major component of green tea.](https://pubmed.ncbi.nlm.nih.gov/11846837/)"* Int J Exp Pathol. (NIH/PMC)
 5. Zhou Y, et al. *"[EGCG modulates the tumor microenvironment and enhances immunotherapy.](https://scholar.google.com/scholar?q=EGCG+modulates+tumor+microenvironment+enhances+immunotherapy)"* Frontiers in Immunology (2024).

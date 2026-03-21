@@ -62,9 +62,9 @@
 - [x] URL verified: ✅
 
 **9.** Plovier H, et al. *"A purified membrane protein from Akkermansia muciniphila or the pasteurised bacterium improves metabolism in obese and diabetic mice."*
-- **URL:** https://scholar.google.com/scholar?q=Plovier+purified+membrane+protein+Akkermansia+muciniphila+pasteurised+bacterium+improves+metabolism+obese+diabetic+mice+Nature+Medicine
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/27892954/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **10.** Santoni M, et al. *"Re: Gut Microbiome Influences Efficacy of PD-1-based Immunotherapy Against Epithelial Tumors"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/29891391/
@@ -114,14 +114,14 @@
 - [x] URL verified: ✅
 
 **2.** Yuan JP, et al. *"Potential health-promoting effects of astaxanthin: A high-value carotenoid mostly from microalgae."*
-- **URL:** https://scholar.google.com/scholar?q=potential+health+promoting+effects+astaxanthin+high-value+carotenoid
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/21207519/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **3.** Dose J, et al. *"Free radical scavenging and cellular antioxidant properties of astaxanthin."*
-- **URL:** https://scholar.google.com/scholar?q=free+radical+scavenging+cellular+antioxidant+properties+astaxanthin
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/26784174/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **4.** Nagendraprabhu P, Sudhandiran G. *"Astaxanthin inhibits tumor invasion by decreasing extracellular matrix production and induces apoptosis in experimental rat colon carcinogenesis by modulating the expressions of ERK-2, NFkB and COX-2"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/19876598/
@@ -224,19 +224,19 @@
 - [ ] URL verified: 🔗
 
 **10.** Binder HJ. *"Role of colonic short-chain fatty acid transport in diarrhea."*
-- **URL:** https://scholar.google.com/scholar?q=role+colonic+short-chain+fatty+acid+transport+diarrhea
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/20148677/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **11.** Spencer NJ, Hu H. *"Enteric nervous system: sensory transduction, neural circuits and gastrointestinal motility."*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/32152479/
 - [x] Reference name correct: ✅
 - [x] URL verified: ✅
 
-**12.** Mirzaei R, et al. *"Role of short-chain fatty acids in the interplay between gut microbiota and intestinal immunity and cancer."*
-- **URL:** https://scholar.google.com/scholar?q=role+short-chain+fatty+acids+interplay+gut+microbiota+intestinal
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+**12.** Mirzaei R, et al. *"Role of microbiota-derived short-chain fatty acids in cancer development and prevention."*
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/33906079/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 ---
 
@@ -270,9 +270,9 @@
 - [x] URL verified: ✅
 
 **2.** Yang CS, Wang H. *"Cancer preventive activities of tea catechins."*
-- **URL:** https://scholar.google.com/scholar?q=Yang+CS+Wang+cancer+preventive+activities+tea+catechins
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/27941682/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **3.** Fang MZ, et al. *"Tea polyphenol (-)-epigallocatechin-3-gallate inhibits DNA methyltransferase and reactivates methylation-silenced genes in cancer cell lines."*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/14633667/
@@ -687,39 +687,39 @@
 - [ ] URL verified: 🔗
 
 **2.** Fenech M. *"Folate (vitamin B9) and vitamin B12 and their function in the maintenance of nuclear and mitochondrial genome integrity."*
-- **URL:** https://scholar.google.com/scholar?q=folate+vitamin+B9+vitamin+B12+function+maintenance+nuclear+acid
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/22093367/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **3.** Zhang M, et al. *"Methylcobalamin: a potential vitamin of pain killer."*
-- **URL:** https://scholar.google.com/scholar?q=Zhang+methylcobalamin+potential+vitamin+pain+killer+Neural+Plasticity+2013
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/24455309/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **4.** Schloss JM, et al. *"Nutraceuticals and chemotherapy-induced peripheral neuropathy (CIPN): a systematic review."*
-- **URL:** https://scholar.google.com/scholar?q=nutraceuticals+chemotherapy-induced+peripheral+neuropathy+CIPN+systematic
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/23647723/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **5.** Selhub J, et al. *"B vitamins, homocysteine, and neurocognitive function in the elderly."*
-- **URL:** https://scholar.google.com/scholar?q=B+vitamins+homocysteine+neurocognitive+function+elderly
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/10681269/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **6.** Ehrlich M. *"DNA hypomethylation in cancer cells."*
-- **URL:** https://scholar.google.com/scholar?q=DNA+hypomethylation+cancer+cells
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/20495664/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **7.** Toyota M, et al. *"CpG island methylator phenotype in colorectal cancer."*
-- **URL:** https://scholar.google.com/scholar?q=CpG+island+methylator+phenotype+colorectal+cancer
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/10411935/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **8.** Herman JG, et al. *"Methylation-specific PCR: a novel PCR assay for methylation status of CpG islands."*
-- **URL:** https://scholar.google.com/scholar?q=methylation-specific+PCR+novel+assay+methylation+status+CpG+islands
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/8790415/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **9.** Sibani S, et al. *"Studies of methionine cycle intermediates (SAM, SAH), DNA methylation and the impact of folate deficiency on tumor numbers in Min mice."*
 - **URL:** https://scholar.google.com/scholar?q=studies+methionine+cycle+intermediates+SAM+SAH+DNA+methylation
@@ -787,9 +787,9 @@
 - [x] URL verified: ✅
 
 **4.** Hamblin MR. *"Mechanisms and applications of the anti-inflammatory effects of photobiomodulation."*
-- **URL:** https://scholar.google.com/scholar?q=Hamblin+mechanisms+applications+anti-inflammatory+effects+photobiomodulation+AIMS+Biophysics
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/28748217/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **5.** Karu TI. *"Multiple roles of cytochrome c oxidase in mammalian cells under action of red and IR-A radiation."*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/20681024/
@@ -936,9 +936,9 @@
 **File:** `red_light_therapy_anticancer.md`
 
 **1.** Hamblin MR. *"Mechanisms and applications of the anti-inflammatory effects of photobiomodulation."*
-- **URL:** https://scholar.google.com/scholar?q=Hamblin+mechanisms+applications+anti-inflammatory+effects+photobiomodulation+AIMS+Biophysics
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/28748217/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **2.** Karu TI. *"Multiple roles of cytochrome c oxidase in mammalian cells under action of red and IR-A radiation."*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/20681024/
@@ -950,10 +950,10 @@
 - [x] Reference name correct: ✅
 - [x] URL verified: ✅
 
-**4.** Zecha JA, et al. *"Low-level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer."*
-- **URL:** https://scholar.google.com/scholar?q=Zecha+low-level+laser+therapy+photobiomodulation+side+effects+chemoradiation+head+neck+cancer
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+**4.** Zecha JA, et al. *"Low level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer, part 1."*
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/26984240/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **5.** Ferraresi C, et al. *"Photobiomodulation in human muscle tissue: an advantage in sports performance?"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/27874264/
@@ -1053,9 +1053,9 @@
 - [x] URL verified: ✅
 
 **5.** Barbault A, et al. *"Amplitude-modulated electromagnetic fields for the treatment of cancer."*
-- **URL:** https://scholar.google.com/scholar?q=Barbault+amplitude-modulated+electromagnetic+fields+treatment+cancer+Bioelectromagnetics+2009
-- [ ] Reference name correct: 🔗
-- [ ] URL verified: 🔗
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/19366446/
+- [x] Reference name correct: ✅
+- [x] URL verified: ✅
 
 **6.** Costa FP, et al. *"Treatment of advanced hepatocellular carcinoma with very low levels of amplitude-modulated electromagnetic fields."*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/21829195/
