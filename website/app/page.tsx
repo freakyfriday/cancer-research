@@ -46,17 +46,23 @@ function SupplementCard({
         </div>
         <div className="card-action">{item.action}</div>
         {item.notes && <div className="card-notes">{item.notes}</div>}
-        {item.slugs && item.slugs.length > 1 && (
-          <div className="card-notes" style={{ marginTop: 4 }}>
-            📖{" "}
-            {item.slugs.map((slug, i) => (
-              <span key={slug}>
-                {i > 0 && ", "}
-                <Link href={`/research/${slug}`} style={{ fontSize: 12 }}>
-                  Research {i + 1}
-                </Link>
-              </span>
-            ))}
+        {item.slugs && item.slugs.length > 0 && (
+          <div className="card-research">
+            {item.slugs.length === 1 ? (
+              <Link href={`/research/${item.slugs[0]}`}>📄 Research</Link>
+            ) : (
+              <>
+                📄{" "}
+                {item.slugs.map((slug, i) => (
+                  <span key={slug}>
+                    {i > 0 && ", "}
+                    <Link href={`/research/${slug}`}>
+                      Research {i + 1}
+                    </Link>
+                  </span>
+                ))}
+              </>
+            )}
           </div>
         )}
       </div>
@@ -117,7 +123,7 @@ export default function ProtocolPage() {
       <section className="hero">
         <h1>Cancer Protocol</h1>
         <p className="subtitle">
-          Weekly Schedule · Updated March 2026 · Based on 28+ research documents
+          Weekly Schedule · Updated March 2026 · Based on 32 research documents
         </p>
       </section>
 
@@ -355,7 +361,28 @@ export default function ProtocolPage() {
           <tbody>
             {synergies.map((s) => (
               <tr key={s.pair}>
-                <td><strong>{s.pair}</strong></td>
+                <td>
+                  <strong>
+                    {s.slugs && s.slugs.length > 0 ? (
+                      <Link href={`/research/${s.slugs[0]}`}>{s.pair}</Link>
+                    ) : (
+                      s.pair
+                    )}
+                  </strong>
+                  {s.slugs && s.slugs.length > 0 && (
+                    <div style={{ marginTop: 4, fontSize: 12 }}>
+                      📄{" "}
+                      {s.slugs.map((slug, i) => (
+                        <span key={slug}>
+                          {i > 0 && ", "}
+                          <Link href={`/research/${slug}`}>
+                            Research {i + 1}
+                          </Link>
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </td>
                 <td>{s.mechanism}</td>
                 <td>{s.timing}</td>
               </tr>

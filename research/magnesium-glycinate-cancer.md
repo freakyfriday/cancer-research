@@ -354,31 +354,6 @@ Research has identified a nuanced duality:
 | **With food** | Can be taken with or without food; fat absorption not required |
 | **Upper limit** | Not applicable when replacing deficiency; GI tolerance is the practical limit |
 
-### 10.2 Dietary Sources
-
-| Food | Mg per serving (approx.) |
-|---|---|
-| Pumpkin seeds (30 g) | 150 mg |
-| Dark chocolate (30 g) | 65 mg |
-| Spinach (1 cup cooked) | 157 mg |
-| Almonds (30 g) | 80 mg |
-| Black beans (1 cup) | 120 mg |
-| Avocado (1 medium) | 58 mg |
-
-### 10.3 Interactions with Other Protocol Supplements
-
-| Supplement | Interaction with Magnesium |
-|---|---|
-| **Vitamin D3** | Magnesium is required to convert vitamin D to its active form — **synergistic** |
-| **Zinc** | Compete for absorption at very high doses — separate by 2+ hours if taking >40 mg zinc |
-| **Vitamin C** | No significant interaction — **compatible** |
-| **Quercetin** | No significant interaction — **compatible** |
-| **Butyrate** | No significant interaction — magnesium may support gut health alongside butyrate |
-| **Melatonin** | Magnesium supports melatonin production — **synergistic** for sleep and immune function |
-| **Green Tea (EGCG)** | No significant interaction — **compatible** |
-| **Calcium** | Maintain Ca:Mg ratio < 2.6:1 — excess calcium antagonises magnesium absorption |
-
----
 
 ## 11. Summary — Multi-Pathway Anti-Cancer Action
 
@@ -419,6 +394,30 @@ Research has identified a nuanced duality:
       └──────────────┘  └──────────────┘  └──────────────┘
 ```
 
+### 10.2 Dietary Sources
+
+| Food | Mg per serving (approx.) |
+|---|---|
+| Pumpkin seeds (30 g) | 150 mg |
+| Dark chocolate (30 g) | 65 mg |
+| Spinach (1 cup cooked) | 157 mg |
+| Almonds (30 g) | 80 mg |
+| Black beans (1 cup) | 120 mg |
+| Avocado (1 medium) | 58 mg |
+
+### 10.3 Interactions with Other Protocol Supplements
+
+| Supplement | Interaction with Magnesium |
+|---|---|
+| **Vitamin D3** | Magnesium is required to convert vitamin D to its active form — **synergistic** |
+| **Zinc** | Compete for absorption at very high doses — separate by 2+ hours if taking >40 mg zinc |
+| **Vitamin C** | No significant interaction — **compatible** |
+| **Quercetin** | No significant interaction — **compatible** |
+| **Butyrate** | No significant interaction — magnesium may support gut health alongside butyrate |
+| **Melatonin** | Magnesium supports melatonin production — **synergistic** for sleep and immune function |
+| **Green Tea (EGCG)** | No significant interaction — **compatible** |
+| **Calcium** | Maintain Ca:Mg ratio < 2.6:1 — excess calcium antagonises magnesium absorption |
+
 ---
 
 ## Key References
@@ -434,11 +433,12 @@ Research has identified a nuanced duality:
 9. Wolf FI, et al. *"[Magnesium and tumors: ally or foe?](https://scholar.google.com/scholar?q=magnesium+tumors+ally+or+foe)"* Cancer Treatment Reviews. 2009;35(4):378–382.
 10. NCT01105169. *"[Personalized Prevention of Colorectal Cancer Trial (PPCCT).](https://scholar.google.com/scholar?q=personalized+prevention+colorectal+cancer+trial+PPCCT)"* ClinicalTrials.gov. Vanderbilt University Medical Center / NCI.
 11. Sun E, et al. *"[Magnesium treatment increases gut microbiome synthesizing vitamin D and inhibiting colorectal cancer: results from a double-blind precision-based randomized placebo-controlled trial](https://pubmed.ncbi.nlm.nih.gov/40946805/)"* medRxiv / published reports. 2023–2024.
-12. Huang Y, et al. *"[Magnesium boosts the anti-tumor immunity of CAR-T cells and checkpoint inhibitor therapy.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12798507/)"* (Referenced in Lötscher et al., Cell 2022).
+12. Huang Y, et al. *"[Magnesium boosts the anti-tumor immunity of CAR-T cells and checkpoint inhibitor therapy.](https://scholar.google.com/scholar?q=Huang+magnesium+boosts+anti-tumor+immunity+CAR-T+cells+checkpoint+inhibitor)"* (Referenced in Lötscher et al., Cell 2022).
 13. Yoshida A, et al. *"[Phosphatase of regenerating liver maintains cellular magnesium homeostasis](https://pubmed.ncbi.nlm.nih.gov/29487165/)"* Archives of Biochemistry and Biophysics. 2011;512(1):1–23.
 14. Mammoli F, et al. *"[Magnesium is a key regulator of the balance between osteoclast and osteoblast differentiation.](https://pubmed.ncbi.nlm.nih.gov/30658432/)"* Frontiers in Immunology. 2019.
 15. Wolf FI, Trapani V. *"[Magnesium and its transporters in cancer: a novel paradigm in tumour development](https://pubmed.ncbi.nlm.nih.gov/22671428/)"* Clinical Science. 2012;123(7):417–427.
 
 ---
 
+---
 *Research compiled: 14 March 2026*

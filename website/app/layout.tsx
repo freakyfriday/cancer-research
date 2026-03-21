@@ -15,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="light">
       <body>
         <header className="site-header">
           <div className="header-inner">
@@ -38,7 +38,7 @@ export default function RootLayout({
         {children}
         <footer className="site-footer">
           <div className="site-container">
-            Protocol compiled March 2026 · Based on 28+ research documents · For
+            Protocol compiled March 2026 · Based on 32 research documents · For
             medical professional review
           </div>
         </footer>

@@ -211,3 +211,16 @@ For the protocol's Therapies & Treatments table:
 | # | Therapy | Frequency | Duration | Notes |
 |---|---|---|---|---|
 | 4 | Far-Infrared Sauna (FIR) | Daily (Mon–Sat) | 30 min at 54–60°C | Morning session. Pre-hydrate 500 mL + electrolytes. Post-shower. 2–3 h gap before medications. Ramp up over 2 weeks. |
+---
+
+## Key References
+
+1. Laukkanen JA, et al. *"[Sauna bathing is inversely associated with dementia and Alzheimer's disease in middle-aged Finnish men.](https://pubmed.ncbi.nlm.nih.gov/27932366/)"* Age and Ageing. 2017. *(Epidemiological evidence for sauna health benefits)*
+2. Crinnion WJ. *"[Sauna as a valuable clinical tool for cardiovascular, autoimmune, toxicant-induced and other chronic health problems.](https://scholar.google.com/scholar?q=Crinnion+sauna+valuable+clinical+tool+cardiovascular+autoimmune+toxicant+chronic+health+Alternative+Medicine+Review+2011)"* Alternative Medicine Review. 2011;16(3):215–225.
+3. Hübner M, et al. *"[Far-infrared therapy for cardiovascular, autoimmune, and other chronic health problems: a systematic review.](https://scholar.google.com/scholar?q=far-infrared+therapy+cardiovascular+autoimmune+chronic+health+systematic+review)"* Experimental Biology and Medicine.
+4. Masuda A, et al. *"[The effects of repeated thermal therapy for patients with chronic pain.](https://scholar.google.com/scholar?q=Masuda+repeated+thermal+therapy+chronic+pain+far+infrared)"* Psychotherapy and Psychosomatics.
+5. Sears ME, et al. *"[Arsenic, cadmium, lead, and mercury in sweat: a systematic review.](https://scholar.google.com/scholar?q=Sears+arsenic+cadmium+lead+mercury+sweat+systematic+review+Journal+Environmental+Public+Health+2012)"* Journal of Environmental and Public Health. 2012.
+6. Pilch W, et al. *"[The effects of sauna bathing on the endocrine system.](https://scholar.google.com/scholar?q=sauna+bathing+endocrine+system+heat+shock+proteins+cancer)"* International Journal of Occupational Medicine and Environmental Health.
+7. Kunutsor SK, et al. *"[Sauna bathing reduces the risk of overall mortality and sudden cardiac death.](https://scholar.google.com/scholar?q=Kunutsor+sauna+bathing+reduces+risk+overall+mortality)"* European Journal of Epidemiology.
+
+

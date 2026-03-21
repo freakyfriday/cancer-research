@@ -242,3 +242,17 @@ HBOT has specific relevance to colorectal cancer:
 ## Key Takeaway
 
 > **HBOT at 3 ATA is a multi-mechanism anti-cancer therapy** that reverses tumour hypoxia, triggers ROS-mediated apoptosis, suppresses the Warburg Effect, activates anti-tumour immunity, inhibits cancer stem cells, and remodels the tumour microenvironment to improve drug penetration. Cosmetic-grade chambers at 1.75 ATA are insufficient — the therapeutic threshold for meaningful cancer impact requires hospital-grade hard-shell chambers delivering 100% oxygen at 2.5–3.0 ATA. A course of **30–60 sessions** (typically 40, 5× weekly) is needed to achieve cumulative therapeutic benefit. HBOT synergises powerfully with the ketogenic diet, IV vitamin C, melatonin, ivermectin, and benzimidazole anthelmintics already in the protocol.
+
+---
+
+## Key References
+
+1. Moen I, Stuhr LEB. *"[Hyperbaric oxygen therapy and cancer — a review.](https://scholar.google.com/scholar?q=Moen+Stuhr+hyperbaric+oxygen+therapy+cancer+review+Targeted+Oncology+2012)"* Targeted Oncology. 2012;7(4):233–242.
+2. Daruwalla J, Christophi C. *"[Hyperbaric oxygen therapy for malignancy: a review.](https://scholar.google.com/scholar?q=Daruwalla+Christophi+hyperbaric+oxygen+therapy+malignancy+review+World+Journal+Surgery+2006)"* World Journal of Surgery. 2006;30(12):2112–2131.
+3. Feldmeier JJ, et al. *"[Hyperbaric oxygen: does it promote growth or recurrence of malignancy?](https://scholar.google.com/scholar?q=Feldmeier+hyperbaric+oxygen+promote+growth+recurrence+malignancy+Undersea+Hyperbaric+Medicine+2003)"* Undersea and Hyperbaric Medicine. 2003;30(1):1–18.
+4. Poff AM, et al. *"[Targeting the Warburg effect and ketogenic diet in cancer: preclinical and clinical implications.](https://scholar.google.com/scholar?q=Poff+Warburg+effect+ketogenic+diet+hyperbaric+oxygen+cancer)"* Expert Opinion on Therapeutic Targets.
+5. Kawasoe Y, et al. *"[Hyperbaric oxygen as a chemotherapy adjuvant in the treatment of osteosarcoma.](https://scholar.google.com/scholar?q=hyperbaric+oxygen+chemotherapy+adjuvant+osteosarcoma)"* Oncology Reports.
+6. Al-Waili NS, et al. *"[Hyperbaric oxygen and malignancies: a potential role in radiotherapy, chemotherapy, tumor surgery, and phototherapy.](https://scholar.google.com/scholar?q=hyperbaric+oxygen+malignancies+radiotherapy+chemotherapy+phototherapy)"* Medical Science Monitor.
+7. Hatfield SM, et al. *"[Immunological mechanisms of the anti-tumor effects of supplemental oxygenation.](https://scholar.google.com/scholar?q=Hatfield+immunological+mechanisms+anti-tumor+effects+supplemental+oxygenation+Science+Translational+Medicine+2015)"* Science Translational Medicine. 2015;7(277).
+
+

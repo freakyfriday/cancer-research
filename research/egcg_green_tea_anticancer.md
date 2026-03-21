@@ -261,7 +261,7 @@ Green Tea EGCG
 5. Zhou Y, et al. *"[EGCG modulates the tumor microenvironment and enhances immunotherapy.](https://scholar.google.com/scholar?q=EGCG+modulates+tumor+microenvironment+enhances+immunotherapy)"* Frontiers in Immunology (2024).
 6. Deng YT, Lin JK. *"[EGCG inhibits the invasion of highly invasive CL1-5 lung cancer cells through suppressing MMP-2 expression.](https://pubmed.ncbi.nlm.nih.gov/22082235/)"* J Agric Food Chem. (NIH/PMC)
 7. Li N, et al. *"[EGCG acts as an immune checkpoint inhibitor by reducing PD-L1 expression.](https://scholar.google.com/scholar?q=EGCG+immune+checkpoint+inhibitor+PD-L1+expression)"* Molecules. (MDPI)
-8. CATCH-B Trial — ClinicalTrials.gov. Phase II EGCG for liver cancer prevention.
+8. CATCH-B Trial — *"[Phase II EGCG for liver cancer prevention.](https://clinicaltrials.gov/search?term=EGCG+liver+cancer+prevention)"* ClinicalTrials.gov.
 
 ---
 

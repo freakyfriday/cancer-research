@@ -188,12 +188,12 @@ Turkey Tail (PSK/PSP)
 
 ## Sources
 
-- National Cancer Institute (NCI) — PDQ Cancer Information Summaries: Coriolus versicolor
-- National Institutes of Health [(NIH) — Multiple PubMed studies on PSK/PSP](https://scholar.google.com/scholar?q=PSK+PSP+Trametes+versicolor+turkey+tail+cancer+immunotherapy)
-- Cochrane Systematic Reviews — Coriolus versicolor in colorectal cancer
-- American Association for Cancer Research (AACR) — PSK as TLR2 agonist
-- ASCO (American Society of Clinical Oncology) — NKG2D restoration studies
-- Mayo Clinic — Ongoing Phase 2 breast cancer trial
-- WebMD — Safety profile documentation
-- Comenius University (2023) — HPV clearance study
-- MDPI — 2025 breast cancer subtype review
+- National Cancer Institute (NCI) — *"[PDQ Cancer Information Summaries: Coriolus versicolor.](https://www.cancer.gov/about-cancer/treatment/cam/hp/mushrooms-pdq)"*
+- National Institutes of Health *"[(NIH) — Multiple PubMed studies on PSK/PSP.](https://scholar.google.com/scholar?q=PSK+PSP+Trametes+versicolor+turkey+tail+cancer+immunotherapy)"*
+- Cochrane Systematic Reviews — *"[Coriolus versicolor in colorectal cancer.](https://scholar.google.com/scholar?q=Cochrane+Coriolus+versicolor+colorectal+cancer+systematic+review)"*
+- American Association for Cancer Research (AACR) — *"[PSK as TLR2 agonist.](https://scholar.google.com/scholar?q=PSK+TLR2+agonist+turkey+tail+dendritic+cell+activation+cancer)"*
+- ASCO (American Society of Clinical Oncology) — *"[NKG2D restoration studies.](https://scholar.google.com/scholar?q=PSK+NKG2D+receptor+restoration+cancer+immune+evasion)"*
+- Mayo Clinic — *"[Ongoing Phase 2 breast cancer trial.](https://scholar.google.com/scholar?q=Mayo+Clinic+turkey+tail+Trametes+versicolor+breast+cancer+Phase+2+trial)"*
+- WebMD — *"[Safety profile documentation.](https://scholar.google.com/scholar?q=turkey+tail+mushroom+safety+tolerability+cancer+patients)"*
+- Comenius University (2023) — *"[HPV clearance study.](https://scholar.google.com/scholar?q=Comenius+University+turkey+tail+HPV+clearance+cervical)"*
+- MDPI — *"[2025 breast cancer subtype review.](https://scholar.google.com/scholar?q=Trametes+versicolor+breast+cancer+subtype+review+2025)"*

@@ -282,21 +282,7 @@ The therapeutic yoghurt integrates with several elements already in the protocol
 
 ---
 
-## 10. Key Research References
-
-1. **L. gasseri 505 + FCT synbiotic in colitis-associated CRC** — Up-regulated p53/p21/Bax, down-regulated Bcl-2/Bcl-xL, increased SCFAs, altered gut microbiota (NIH/PubMed)
-2. **L. gasseri cytokine modulation** — Decreased TNF-α, IFN-γ, IL-1β, IL-6; increased IL-4, IL-10 in CRC models (Taylor & Francis, NIH)
-3. **B. longum anti-CRC** — Suppressed proliferation/migration/invasion; enhanced CD8+ T-cell immunity; improved anti-PD-L1 efficacy (Frontiers in Immunology, NIH)
-4. **B. longum & B. breve for constipation** — Increased stool frequency, improved consistency, enhanced peristalsis via SCFA production (NIH)
-5. **L. rhamnosus GG HM0539** — Modulated TLR4/MyD88/NF-κB axis; suppressed IL-1β, TNF-α, IL-6, IL-18, COX-2, iNOS (NIH)
-6. **Fusobacterium nucleatum displacement** — Lactobacillus and Bifidobacterium spp. competitively exclude Fn via nutrient competition, bacteriocin production, and biofilm disruption (Microbiology Research, NIH, MDPI)
-7. **Davis W. "Super Gut" L. reuteri yoghurt protocol** — 36-hour fermentation at 100°F with inulin → 250B+ CFU per ½ cup (DrDavisInfiniteHealth.com)
-8. **Multi-strain co-fermentation** — Optimal overlap at 36–38°C for L. gasseri + Bifidobacterium spp. (Luvele, CulturedFoodLife)
-9. **Probiotic safety in cancer patients** — Yoghurt-based delivery considered safer than capsule supplements; bacteraemia rare but possible in severe immunosuppression (BC Cancer, Moffitt Cancer Center, NIH)
-
----
-
-## 11. Summary: How This Yoghurt Helps a Colon Cancer Patient Who Can't Evacuate
+## 10. Summary: How This Yoghurt Helps a Colon Cancer Patient Who Can't Evacuate
 
 ```
 THERAPEUTIC YOGHURT
@@ -324,3 +310,18 @@ THERAPEUTIC YOGHURT
              ├── Mucin restoration → smoother transit
              └── Reduced inflammation → less oedema/obstruction
 ```
+
+---
+
+## 11. Key Research References
+
+1. *"[L. gasseri 505 + FCT synbiotic in colitis-associated CRC — up-regulated p53/p21/Bax, down-regulated Bcl-2/Bcl-xL, increased SCFAs.](https://scholar.google.com/scholar?q=Lactobacillus+gasseri+synbiotic+colitis+associated+colorectal+cancer+p53+Bax)"* (NIH/PubMed)
+2. *"[L. gasseri cytokine modulation — decreased TNF-α, IFN-γ, IL-1β, IL-6; increased IL-4, IL-10 in CRC models.](https://scholar.google.com/scholar?q=Lactobacillus+gasseri+cytokine+modulation+TNF+IL-6+colorectal+cancer)"* (Taylor & Francis, NIH)
+3. *"[B. longum anti-CRC — suppressed proliferation/migration/invasion; enhanced CD8+ T-cell immunity; improved anti-PD-L1 efficacy.](https://scholar.google.com/scholar?q=Bifidobacterium+longum+colorectal+cancer+CD8+T-cell+anti-PD-L1)"* (Frontiers in Immunology, NIH)
+4. *"[B. longum & B. breve for constipation — increased stool frequency, improved consistency, enhanced peristalsis via SCFA production.](https://scholar.google.com/scholar?q=Bifidobacterium+longum+breve+constipation+stool+frequency+SCFA)"* (NIH)
+5. *"[L. rhamnosus GG HM0539 — modulated TLR4/MyD88/NF-κB axis; suppressed IL-1β, TNF-α, IL-6, IL-18, COX-2, iNOS.](https://scholar.google.com/scholar?q=Lactobacillus+rhamnosus+GG+HM0539+TLR4+MyD88+NF-kB)"* (NIH)
+6. *"[Fusobacterium nucleatum displacement — Lactobacillus and Bifidobacterium competitively exclude Fn via bacteriocin production and biofilm disruption.](https://scholar.google.com/scholar?q=Fusobacterium+nucleatum+displacement+Lactobacillus+Bifidobacterium+competitive+exclusion)"* (Microbiology Research, NIH, MDPI)
+7. Davis W. *"[Super Gut — L. reuteri yoghurt protocol — 36-hour fermentation at 100°F with inulin.](https://scholar.google.com/scholar?q=William+Davis+Super+Gut+L.+reuteri+yoghurt+fermentation)"* (DrDavisInfiniteHealth.com)
+8. *"[Multi-strain co-fermentation — optimal overlap at 36–38°C for L. gasseri + Bifidobacterium spp.](https://scholar.google.com/scholar?q=multi-strain+probiotic+co-fermentation+Lactobacillus+Bifidobacterium+temperature)"* (Luvele, CulturedFoodLife)
+9. *"[Probiotic safety in cancer patients — yoghurt-based delivery safer than capsule supplements; bacteraemia rare.](https://scholar.google.com/scholar?q=probiotic+safety+cancer+patients+yoghurt+bacteraemia+immunosuppression)"* (BC Cancer, Moffitt Cancer Center, NIH)
+

@@ -19,6 +19,7 @@ export interface Synergy {
   pair: string;
   mechanism: string;
   timing: string;
+  slugs?: string[];
 }
 
 export interface Interaction {
@@ -80,7 +81,7 @@ export const onWaking: Supplement[] = [
     name: "Nattovena (Nattokinase)",
     action: "Break down fibrin",
     notes: "Different mechanism (activates plasminogen→plasmin). Together = comprehensive shield destruction.",
-    slugs: ["serrapeptase-serratia-cancer"],
+    slugs: ["nattokinase-fibrinolysis-cancer"],
   },
   {
     name: "D-Serine",
@@ -310,7 +311,7 @@ export const nightMWF: Supplement[] = [
   {
     name: "Melatonin 20 mg",
     action: "Suppress tumour",
-    notes: "Cancer trial dose. Take with evening Mg Citrate.",
+    notes: "Lissoni RCT dose (with and without chemo). Take with evening Mg Citrate.",
     slugs: ["melatonin_anticancer"],
   },
 ];
@@ -359,7 +360,7 @@ export const nightTTS: Supplement[] = [
   {
     name: "Melatonin 20 mg",
     action: "Suppress tumour",
-    notes: "Cancer trial dose. Take with evening Mg Citrate.",
+    notes: "Lissoni RCT dose (with and without chemo). Take with evening Mg Citrate.",
     slugs: ["melatonin_anticancer"],
   },
 ];
@@ -434,29 +435,29 @@ export const ongoingTests: BloodTest[] = [
 // SYNERGY MAP
 // ────────────────────────────────────────────────────
 export const synergies: Synergy[] = [
-  { pair: "D-serine → IV Vit C / HBOT", mechanism: "D-serine depletes NADPH/GSH via 1C metabolism block → cancer defenceless", timing: "D-serine waking, Vit C/HBOT ≥3 hrs later" },
-  { pair: "D-serine + FBZ/MBZ", mechanism: "Serine blockade + glucose blockade = dual metabolic starvation", timing: "D-serine morning, FBZ/MBZ night" },
-  { pair: "D-serine + EGCG", mechanism: "1C input blocked (D-serine) + folate output blocked (EGCG)", timing: "D-serine morning, EGCG lunch" },
-  { pair: "D-serine + MB + RLT", mechanism: "GSH depletion → ¹O₂ not quenched → amplified photodynamic kill", timing: "D-serine waking, MB breakfast, RLT +30 min" },
-  { pair: "MB → Red Light", mechanism: "MB absorbs 665 nm → singlet oxygen → photodynamic kill", timing: "MB 30 min before RLT" },
-  { pair: "Serrapeptase → HBOT", mechanism: "Strip fibrin shield → O₂ floods exposed tumour", timing: "Waking → mid-morning" },
-  { pair: "RLT → HBOT", mechanism: "Red light primes mitochondria → HBOT maximises ROS", timing: "RLT before HBOT" },
-  { pair: "HBOT + Melatonin", mechanism: "Combo studied in colorectal cancer — inhibitory", timing: "Melatonin at night" },
-  { pair: "Chlorella → Sauna", mechanism: "Chlorella binds toxins mobilised by sweating", timing: "Chlorella 30 min before" },
-  { pair: "EGCG + Vit C", mechanism: "Vitamin C stabilises EGCG → better absorption", timing: "Same meal (lunch)" },
-  { pair: "Quercetin + EGCG", mechanism: "Quercetin inhibits COMT → ↑ intracellular EGCG", timing: "Same meal (lunch)" },
-  { pair: "Anthogenol + polyphenols", mechanism: "OPCs amplify EGCG + Quercetin + Resveratrol", timing: "Same meal (lunch)" },
-  { pair: "Resveratrol + Quercetin", mechanism: "Both activate SIRT1/AMPK; complementary epigenetics", timing: "Same meal (lunch)" },
-  { pair: "Zinc + Butyrate", mechanism: "Zinc heals mucosa + Butyrate feeds colon lining", timing: "Same meal (lunch)" },
-  { pair: "Butyrate + Marshmallow", mechanism: "Marshmallow feeds butyrate-producing bacteria", timing: "Same meal (night)" },
-  { pair: "Astaxanthin + Akkermansia", mechanism: "Astaxanthin promotes Akkermansia colonisation", timing: "Same meal (morning)" },
-  { pair: "Ivermectin + Butyrate", mechanism: "IVM triggers ICD; Butyrate reduces PD-L1", timing: "Both at night" },
-  { pair: "Fenbendazole + Ivermectin", mechanism: "Metabolic starvation + immune activation", timing: "Same meal (night)" },
-  { pair: "Serrapeptase + Nattovena", mechanism: "Different fibrinolytic mechanisms = synergy", timing: "Together (on waking)" },
-  { pair: "Nattovena → Vit C IV", mechanism: "Improved microcirculation → H₂O₂ reaches tumour better", timing: "On waking → IV day" },
-  { pair: "Molybdenum + Butyrate", mechanism: "SUOX clears sulfite → supports butyrate metabolism", timing: "Morning + lunch/night" },
-  { pair: "Sauna + Ivermectin", mechanism: "Published hyperthermia + IVM synergy", timing: "Sauna AM, IVM PM" },
-  { pair: "D-serine + Mag Citrate (not Glycinate)", mechanism: "Citrate avoids glycine → no bypass of 1C metabolism block. Citrate feeds TCA cycle instead", timing: "D-serine waking, Mg citrate AM + PM" },
+  { pair: "D-serine → IV Vit C / HBOT", mechanism: "D-serine depletes NADPH/GSH via 1C metabolism block → cancer defenceless", timing: "D-serine waking, Vit C/HBOT ≥3 hrs later", slugs: ["d-serine-cancer-metabolism", "vitamin-c-cancer", "hbot-hyperbaric-oxygen-therapy-cancer"] },
+  { pair: "D-serine + FBZ/MBZ", mechanism: "Serine blockade + glucose blockade = dual metabolic starvation", timing: "D-serine morning, FBZ/MBZ night", slugs: ["d-serine-cancer-metabolism", "fenbendazole_metabolism_disruption", "mebendazole-cancer-metabolism"] },
+  { pair: "D-serine + EGCG", mechanism: "1C input blocked (D-serine) + folate output blocked (EGCG)", timing: "D-serine morning, EGCG lunch", slugs: ["d-serine-cancer-metabolism", "egcg_green_tea_anticancer"] },
+  { pair: "D-serine + MB + RLT", mechanism: "GSH depletion → ¹O₂ not quenched → amplified photodynamic kill", timing: "D-serine waking, MB breakfast, RLT +30 min", slugs: ["d-serine-mb-rlt-combined-synergy"] },
+  { pair: "MB → Red Light", mechanism: "MB absorbs 665 nm → singlet oxygen → photodynamic kill", timing: "MB 30 min before RLT", slugs: ["methylene_blue_red_light_mitochondria"] },
+  { pair: "Serrapeptase → HBOT", mechanism: "Strip fibrin shield → O₂ floods exposed tumour", timing: "Waking → mid-morning", slugs: ["serrapeptase-serratia-cancer", "hbot-hyperbaric-oxygen-therapy-cancer"] },
+  { pair: "RLT → HBOT", mechanism: "Red light primes mitochondria → HBOT maximises ROS", timing: "RLT before HBOT", slugs: ["red_light_therapy_anticancer", "hbot-hyperbaric-oxygen-therapy-cancer"] },
+  { pair: "HBOT + Melatonin", mechanism: "Combo studied in colorectal cancer — inhibitory", timing: "Melatonin at night", slugs: ["hbot-hyperbaric-oxygen-therapy-cancer", "melatonin_anticancer"] },
+  { pair: "Chlorella → Sauna", mechanism: "Chlorella binds toxins mobilised by sweating", timing: "Chlorella 30 min before", slugs: ["chlorella-spirulina-cancer-research", "sauna-therapy-cancer-detox"] },
+  { pair: "EGCG + Vit C", mechanism: "Vitamin C stabilises EGCG → better absorption", timing: "Same meal (lunch)", slugs: ["egcg_green_tea_anticancer", "vitamin-c-cancer"] },
+  { pair: "Quercetin + EGCG", mechanism: "Quercetin inhibits COMT → ↑ intracellular EGCG", timing: "Same meal (lunch)", slugs: ["quercetin-cancer-metabolism", "egcg_green_tea_anticancer"] },
+  { pair: "Anthogenol + polyphenols", mechanism: "OPCs amplify EGCG + Quercetin + Resveratrol", timing: "Same meal (lunch)", slugs: ["anthogenol-grape-seed-opc-cancer"] },
+  { pair: "Resveratrol + Quercetin", mechanism: "Both activate SIRT1/AMPK; complementary epigenetics", timing: "Same meal (lunch)", slugs: ["resveratrol-cancer", "quercetin-cancer-metabolism"] },
+  { pair: "Zinc + Butyrate", mechanism: "Zinc heals mucosa + Butyrate feeds colon lining", timing: "Same meal (lunch)", slugs: ["zinc-l-carnosine-cancer", "butyrate-colon-cancer-ens"] },
+  { pair: "Butyrate + Marshmallow", mechanism: "Marshmallow feeds butyrate-producing bacteria", timing: "Same meal (night)", slugs: ["butyrate-colon-cancer-ens", "marshmallow-root-cancer"] },
+  { pair: "Astaxanthin + Akkermansia", mechanism: "Astaxanthin promotes Akkermansia colonisation", timing: "Same meal (morning)", slugs: ["astaxanthin-cancer-detox", "akkermansia-muciniphila-colon-cancer"] },
+  { pair: "Ivermectin + Butyrate", mechanism: "IVM triggers ICD; Butyrate reduces PD-L1", timing: "Both at night", slugs: ["ivermectin_immune_activation", "butyrate-colon-cancer-ens"] },
+  { pair: "Fenbendazole + Ivermectin", mechanism: "Metabolic starvation + immune activation", timing: "Same meal (night)", slugs: ["fenbendazole_metabolism_disruption", "ivermectin_immune_activation"] },
+  { pair: "Serrapeptase + Nattovena", mechanism: "Different fibrinolytic mechanisms = synergy", timing: "Together (on waking)", slugs: ["serrapeptase-serratia-cancer", "nattokinase-fibrinolysis-cancer"] },
+  { pair: "Nattovena → Vit C IV", mechanism: "Improved microcirculation → H₂O₂ reaches tumour better", timing: "On waking → IV day", slugs: ["nattokinase-fibrinolysis-cancer", "vitamin-c-glutathione-iv-cancer"] },
+  { pair: "Molybdenum + Butyrate", mechanism: "SUOX clears sulfite → supports butyrate metabolism", timing: "Morning + lunch/night", slugs: ["molybdenum-suox-cancer", "butyrate-colon-cancer-ens"] },
+  { pair: "Sauna + Ivermectin", mechanism: "Published hyperthermia + IVM synergy", timing: "Sauna AM, IVM PM", slugs: ["sauna-therapy-cancer-detox", "ivermectin_immune_activation"] },
+  { pair: "D-serine + Mag Citrate (not Glycinate)", mechanism: "Citrate avoids glycine → no bypass of 1C metabolism block. Citrate feeds TCA cycle instead", timing: "D-serine waking, Mg citrate AM + PM", slugs: ["d-serine-cancer-metabolism", "magnesium-citrate-peristalsis"] },
 ];
 
 // ────────────────────────────────────────────────────
@@ -489,7 +490,7 @@ export const monitoringItems: MonitoringItem[] = [
   { item: "EGCG ≥600 mg/day", monitor: "Monitor liver enzymes." },
   { item: "Molybdenum", monitor: "May lower copper — beneficial but monitor." },
   { item: "Ivermectin 120 mg/day", monitor: "Above standard dose. Fat essential. Medical supervision required." },
-  { item: "Melatonin 20 mg", monitor: "Cancer trial dose. May cause vivid dreams or morning grogginess initially — usually resolves within a week." },
+  { item: "Melatonin 20 mg", monitor: "Lissoni RCT dose (with and without chemo). May cause vivid dreams or morning grogginess initially — usually resolves within a week." },
   { item: "Serrapeptase + Drugs", monitor: "May ↑ blood levels of co-administered drugs." },
   { item: "Resveratrol >1 g/day", monitor: "GI discomfort; CYP3A4 effects increase." },
   { item: "D-serine", monitor: "Renally excreted — monitor creatinine + eGFR. If eGFR < 60, reduce or stop. Ramp: 1 g wk 1 → 2.5 g wk 3." },

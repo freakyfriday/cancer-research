@@ -235,5 +235,17 @@ Anthogenol does not work in isolation — it has **demonstrated synergies** with
 Anthogenol provides one of the **broadest multi-target anti-cancer profiles** of any single supplement in the protocol. Its unique position for colon cancer lies in the fact that unabsorbed OPCs and their microbial metabolites maintain **direct contact with the colonic epithelium**, providing both systemic and local anti-tumour effects. Combined with its synergies with resveratrol (#7), quercetin (lunch #3), EGCG (lunch #1), Vitamin C (lunch #2), and butyrate (lunch/night), Anthogenol is a cornerstone of the polyphenol strategy in this protocol.
 
 ---
+---
+
+## Key References
+
+1. Bagchi D, et al. *"[Free radicals and grape seed proanthocyanidin extract: importance in human health and disease prevention.](https://scholar.google.com/scholar?q=Bagchi+free+radicals+grape+seed+proanthocyanidin+extract+importance+human+health+disease+prevention+Toxicology+2000)"* Toxicology. 2000;148(2-3):187–197.
+2. Nandakumar V, et al. *"[Grape seed proanthocyanidins inhibit UV radiation-induced skin cancer.](https://scholar.google.com/scholar?q=grape+seed+proanthocyanidins+inhibit+UV+radiation+skin+cancer)"* Nutrition and Cancer. (NIH/PMC)
+3. Kaur M, et al. *"[Grape seed extract inhibits in vitro and in vivo growth of human colorectal carcinoma cells.](https://scholar.google.com/scholar?q=Kaur+grape+seed+extract+inhibits+in+vitro+in+vivo+growth+human+colorectal+carcinoma+Clinical+Cancer+Research+2006)"* Clinical Cancer Research. 2006;12(20):6194–6202.
+4. Agarwal C, et al. *"[Grape seed extract induces apoptotic death of human prostate carcinoma cells via caspases activation.](https://scholar.google.com/scholar?q=Agarwal+grape+seed+extract+apoptotic+death+human+prostate+carcinoma+caspases+Clinical+Cancer+Research+2002)"* Clinical Cancer Research. 2002;8(11):3512–3519.
+5. Shi J, et al. *"[Polyphenolics in grape seeds: biochemistry and functionality.](https://scholar.google.com/scholar?q=polyphenolics+grape+seeds+biochemistry+functionality+proanthocyanidin)"* Journal of Medicinal Food.
+6. Prasad R, Katiyar SK. *"[Grape seed proanthocyanidins inhibit migration potential of pancreatic cancer cells.](https://scholar.google.com/scholar?q=grape+seed+proanthocyanidins+inhibit+migration+pancreatic+cancer)"* Cancer Letters.
+7. Mantena SK, et al. *"[Grape seed proanthocyanidins induce apoptosis and inhibit metastasis of highly metastatic breast carcinoma cells.](https://scholar.google.com/scholar?q=grape+seed+proanthocyanidins+apoptosis+metastasis+breast+carcinoma)"* Carcinogenesis.
+
 
 *Research compiled: 14 March 2026. Sources: PubMed, AACR Journals, Frontiers in Oncology, Cambridge University Press, PLOS ONE, MDPI Nutrients/Molecules, ResearchGate.*

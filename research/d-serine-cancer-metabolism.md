@@ -319,3 +319,19 @@ D-serine is highly relevant for the CRC context (colon cancer):
 | **Ease of integration** | ★★★★★ — Simple oral powder, fits on-waking slot, no CYP interactions |
 
 > **Bottom line:** D-serine is a high-rationale, low-risk addition to the metabolic siege strategy. Its ability to **deplete cancer cells' NADPH/GSH** before pro-oxidant therapies (Vit C, HBOT, MB+RLT) makes the 3-hour stagger timing potentially the most important new synergy in the protocol. Monitor kidney function at each blood draw.
+
+---
+
+## 10. Key References
+
+1. Neame S, et al. *"[D-serine competitively inhibits mitochondrial L-serine transport to suppress one-carbon metabolism in cancer cells.](https://scholar.google.com/scholar?q=Neame+D-serine+competitively+inhibits+mitochondrial+L-serine+transport+one-carbon+metabolism+cancer)"* eLife. 2025.
+2. Maddocks ODK, et al. *"[Serine starvation induces stress and p53-dependent metabolic remodelling in cancer cells.](https://scholar.google.com/scholar?q=Maddocks+serine+starvation+induces+stress+p53+dependent+metabolic+remodelling+cancer+Nature+2013)"* Nature. 2013;493(7433):542–546.
+3. Maddocks ODK, et al. *"[Modulating the therapeutic response of tumours to dietary serine and glycine starvation.](https://pubmed.ncbi.nlm.nih.gov/28425994/)"* Nature. 2017;544(7650):372–376.
+4. Milosevic V, et al. *"[Serine racemase is upregulated in colorectal cancer and promotes cell growth.](https://scholar.google.com/scholar?q=Milosevic+serine+racemase+upregulated+colorectal+cancer+SRR+cell+growth)"* Cancer Research.
+5. Li K, et al. *"[GRIN2D immunological targeting inhibits tumour growth and vascularisation in colorectal cancer.](https://scholar.google.com/scholar?q=GRIN2D+NMDA+receptor+immunological+targeting+inhibits+colorectal+cancer+angiogenesis)"* NIH/PubMed.
+6. Ye J, et al. *"[GCN2 sustains mTORC1 suppression upon amino acid deprivation by inducing Sestrin2.](https://scholar.google.com/scholar?q=Ye+GCN2+sustains+mTORC1+suppression+amino+acid+deprivation+Sestrin2+Genes+Development+2015)"* Genes & Development. 2015;29(22):2331–2336.
+7. Kanai Y, et al. *"[D-Amino acid oxidase: physiological function and pathological significance.](https://scholar.google.com/scholar?q=D-amino+acid+oxidase+physiological+function+pathological+significance+hydrogen+peroxide)"* Review literature.
+8. Heresco-Levy U, et al. *"[D-serine efficacy as add-on pharmacotherapy to risperidone and olanzapine for treatment-refractory schizophrenia.](https://scholar.google.com/scholar?q=Heresco-Levy+D-serine+efficacy+add-on+pharmacotherapy+risperidone+olanzapine+schizophrenia+Biological+Psychiatry+2005)"* Biological Psychiatry. 2005;57(6):577–585. *(Safety/dosing data)*
+9. Possemato R, et al. *"[Functional genomics reveal that the serine synthesis pathway is essential in breast cancer.](https://scholar.google.com/scholar?q=Possemato+functional+genomics+serine+synthesis+pathway+essential+breast+cancer+Nature+2011)"* Nature. 2011;476(7360):346–350.
+10. Locasale JW, et al. *"[Phosphoglycerate dehydrogenase diverts glycolytic flux and contributes to oncogenesis.](https://scholar.google.com/scholar?q=Locasale+phosphoglycerate+dehydrogenase+diverts+glycolytic+flux+contributes+oncogenesis+Nature+Genetics+2011)"* Nature Genetics. 2011;43(9):869–874.
+

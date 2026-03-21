@@ -303,9 +303,10 @@ a:hover {
 .supplement-card .card-number {
   font-family: 'JetBrains Mono', monospace;
   font-size: 12px;
-  font-weight: 500;
-  color: var(--text-muted);
-  background: var(--bg-elevated);
+  font-weight: 600;
+  color: var(--accent-light);
+  background: rgba(45, 212, 168, 0.1);
+  border: 1px solid rgba(45, 212, 168, 0.2);
   width: 28px;
   height: 28px;
   display: flex;
@@ -328,13 +329,27 @@ a:hover {
 
 .supplement-card .card-name a {
   color: var(--text-primary);
-  border-bottom: 1px dashed var(--border-medium);
+  border-bottom: 1px dashed var(--accent);
   padding-bottom: 1px;
+  transition: all 0.2s ease;
+}
+
+.supplement-card .card-name a::after {
+  content: ' ↗';
+  font-size: 11px;
+  color: var(--accent);
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
 }
 
 .supplement-card .card-name a:hover {
   color: var(--accent-light);
+  border-bottom-style: solid;
   border-bottom-color: var(--accent-light);
+}
+
+.supplement-card .card-name a:hover::after {
+  opacity: 1;
 }
 
 .supplement-card .card-action {
@@ -351,6 +366,53 @@ a:hover {
 
 .supplement-card .card-badge {
   flex-shrink: 0;
+}
+
+/* Research link at bottom of card */
+.card-research {
+  font-size: 12px;
+  margin-top: 8px;
+  padding-top: 6px;
+  border-top: 1px solid var(--border-subtle);
+  color: var(--text-muted);
+}
+
+.card-research a {
+  color: var(--accent-light);
+  font-weight: 500;
+  font-size: 12px;
+  border-bottom: 1px dashed var(--accent);
+  padding-bottom: 1px;
+  transition: all 0.2s ease;
+}
+
+.card-research a:hover {
+  border-bottom-style: solid;
+  text-shadow: 0 0 8px var(--accent-glow);
+}
+
+/* Table research links (therapy steps, synergy map) */
+.data-table td a {
+  border-bottom: 1px dashed var(--accent);
+  padding-bottom: 1px;
+  transition: all 0.2s ease;
+}
+
+.data-table td a::after {
+  content: ' ↗';
+  font-size: 10px;
+  color: var(--accent);
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.data-table td a:hover {
+  border-bottom-style: solid;
+  border-bottom-color: var(--accent-light);
+}
+
+.data-table td a:hover::after {
+  opacity: 1;
 }
 
 /* ==================== BADGES ==================== */
@@ -584,19 +646,19 @@ a:hover {
   gap: 6px;
   font-size: 13px;
   font-weight: 500;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   margin-bottom: var(--space-xl);
   padding: var(--space-xs) var(--space-md);
   border-radius: var(--radius-sm);
   background: var(--bg-card);
-  border: 1px solid var(--border-subtle);
+  border: 1px solid var(--border-medium);
   transition: all 0.2s;
   cursor: pointer;
   font-family: inherit;
 }
 
 .article-back:hover {
-  color: var(--text-primary);
+  color: var(--accent-light);
   border-color: var(--border-active);
 }
 

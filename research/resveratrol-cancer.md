@@ -9,22 +9,6 @@
 
 Resveratrol (3,5,4′-trihydroxystilbene) is a **natural polyphenolic stilbene** produced by plants as a defence molecule (phytoalexin) in response to stress, UV radiation, and fungal infection. It exists in two isomeric forms — **trans-resveratrol** (biologically active) and cis-resveratrol.
 
-### Natural Sources
-
-| Source | Resveratrol Content (approx.) |
-|---|---|
-| **Japanese Knotweed** (*Polygonum cuspidatum*) root | One of the richest known sources; basis of most supplements |
-| **Red grape skins** | Concentration varies by cultivar — Pinot Noir, Malbec, Petite Sirah are highest |
-| **Red wine** (5 oz glass) | 0.03 – 1.07 mg |
-| **Red grape juice** (5 oz) | 0.017 – 1.30 mg |
-| **Peanuts / peanut skins** | Moderate; sprouted peanuts have higher levels |
-| **Blueberries, cranberries, mulberries** | Low–moderate |
-| **Dark chocolate / cocoa** | Low |
-
-> [!NOTE]
-> Most commercial supplements are derived from Japanese Knotweed root and standardised to *trans*-resveratrol, which is the form best absorbed by the body.
-
----
 
 ## 2. Anti-Cancer Mechanisms — Overview
 
@@ -273,3 +257,20 @@ To overcome bioavailability challenges, researchers are developing:
 - Mayo Clinic — Red wine and resveratrol overview
 - AACR Journals — In vivo cancer models with resveratrol
 - WebMD / Komen Foundation — Safety and supplementation guidelines
+
+### Natural Sources
+
+| Source | Resveratrol Content (approx.) |
+|---|---|
+| **Japanese Knotweed** (*Polygonum cuspidatum*) root | One of the richest known sources; basis of most supplements |
+| **Red grape skins** | Concentration varies by cultivar — Pinot Noir, Malbec, Petite Sirah are highest |
+| **Red wine** (5 oz glass) | 0.03 – 1.07 mg |
+| **Red grape juice** (5 oz) | 0.017 – 1.30 mg |
+| **Peanuts / peanut skins** | Moderate; sprouted peanuts have higher levels |
+| **Blueberries, cranberries, mulberries** | Low–moderate |
+| **Dark chocolate / cocoa** | Low |
+
+> [!NOTE]
+> Most commercial supplements are derived from Japanese Knotweed root and standardised to *trans*-resveratrol, which is the form best absorbed by the body.
+
+---

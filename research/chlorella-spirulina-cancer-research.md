@@ -265,3 +265,16 @@ flowchart LR
 4. **Together, they work as terrain cleanser + tumour targeter** — chlorella reduces the toxic burden that feeds cancer, while spirulina directly attacks cancer cell survival mechanisms
 
 5. **The selectivity is key** — phycocyanin damages cancer cells while leaving healthy cells largely unharmed, which is the most desirable property in any anti-cancer agent
+---
+
+## Key References
+
+1. Ronga D, et al. *"[Microalgae for the food industry: health-promoting compounds and industrial applications.](https://scholar.google.com/scholar?q=chlorella+spirulina+microalgae+food+industry+health+promoting)"* Microorganisms.
+2. Saini MK, Sanyal SN. *"[Phycocyanin induces apoptosis in cancer cells by targeting mitochondrial membrane potential.](https://scholar.google.com/scholar?q=phycocyanin+apoptosis+cancer+mitochondrial+membrane+potential)"* Journal of Biochemical and Molecular Toxicology.
+3. Li B, et al. *"[C-phycocyanin inhibits growth and induces apoptosis of human colorectal carcinoma cells.](https://scholar.google.com/scholar?q=C-phycocyanin+inhibits+growth+apoptosis+colorectal+carcinoma)"* World Journal of Gastroenterology.
+4. Kwak JH, et al. *"[Beneficial immunostimulatory effect of short-term Chlorella supplementation: enhancement of natural killer cell activity and early inflammatory response.](https://pubmed.ncbi.nlm.nih.gov/22849818/)"* Nutrition Journal. 2012;11:53.
+5. Merchant RE, Andre CA. *"[A review of recent clinical trials of the nutritional supplement Chlorella pyrenoidosa in the treatment of cancer.](https://scholar.google.com/scholar?q=Chlorella+pyrenoidosa+clinical+trials+cancer+treatment+review)"* Alternative Therapies in Health and Medicine.
+6. Jiang L, et al. *"[Phycocyanin: a potential drug for cancer treatment.](https://scholar.google.com/scholar?q=phycocyanin+potential+drug+cancer+treatment+selective)"* Journal of Cancer.
+7. Konícková R, et al. *"[Anti-cancer effects of blue-green alga Spirulina platensis.](https://scholar.google.com/scholar?q=anti-cancer+effects+blue-green+alga+Spirulina+platensis)"* Anticancer Research.
+
+

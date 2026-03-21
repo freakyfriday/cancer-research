@@ -100,7 +100,7 @@ MB with breakfast → 30 min → Red Light → Resistance Training → HBOT → 
 | 4 | Butyrate | Feed colon lining cells | Synergy with Marshmallow (prebiotic feeds butyrate producers → more endogenous butyrate). |
 | 5 | Marshmallow | Soothe mucosal lining + prebiotic | Feeds butyrate-producing bacteria → self-reinforcing gut healing loop. |
 | 6 | Magnesium Glycinate | Enable enzyme repair | 200–400 mg elemental Mg. Glycine promotes sleep. Separated from Zinc by 6+ hrs ✅. |
-| 7 | Melatonin 3 mg | Suppress tumour growth | ⚠️ Cancer trials use **20 mg/day** — discuss increasing. Synergy with HBOT for colorectal cancer. Night timing aligns with circadian peak. |
+| 7 | Melatonin 3 mg | Suppress tumour growth | ⚠️ Lissoni cancer RCTs use **20 mg/day** (primarily with chemo, but also without — see research article). Synergy with HBOT for colorectal cancer. Night timing aligns with circadian peak. |
 
 ### Tue / Thu / Sat
 
@@ -112,7 +112,7 @@ MB with breakfast → 30 min → Red Light → Resistance Training → HBOT → 
 | 4 | Butyrate | Feed colon lining cells | |
 | 5 | Marshmallow | Soothe mucosal lining + prebiotic | |
 | 6 | Magnesium Glycinate | Enable enzyme repair | 200–400 mg elemental Mg. |
-| 7 | Melatonin 3 mg | Suppress tumour growth | ⚠️ Cancer trials use **20 mg/day** — discuss increasing. |
+| 7 | Melatonin 3 mg | Suppress tumour growth | ⚠️ Lissoni cancer RCTs use **20 mg/day** — discuss increasing with physician. |
 
 > **Note:** Sunday is a rest day — no supplements scheduled.
 
@@ -229,7 +229,7 @@ MB with breakfast → 30 min → Red Light → Resistance Training → HBOT → 
 | **EGCG ≥600 mg/day** | Monitor liver enzymes. |
 | **Molybdenum** | May lower copper over time — beneficial (anti-angiogenic) but monitor periodically. |
 | **Ivermectin 120 mg/day** | Well above standard dose. Fat co-admin essential. Medical supervision required. |
-| **Melatonin** | Protocol: 3 mg. Cancer trials: 20 mg/day. Discuss escalation with physician. |
+| **Melatonin** | Protocol: 3 mg. Lissoni cancer RCTs: 20 mg/day (with and without chemo). Discuss escalation with physician. |
 | **Serrapeptase + Drug absorption** | May ↑ blood levels of co-administered drugs by improving circulation. |
 | **Resveratrol >1 g/day** | GI discomfort; CYP3A4 effects increase. |
 | **D-serine** | Renally excreted — monitor creatinine + eGFR at each blood draw. If eGFR < 60, reduce or stop. Ramp: 1 g wk 1 → 1.5 g wk 2 → 2–2.5 g wk 3. |

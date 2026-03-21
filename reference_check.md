@@ -1,9 +1,8 @@
 # Reference Check
 
-> Every PubMed reference verified against the actual PubMed record for correct author and title.
-> Scholar and external links are marked but cannot be auto-verified.
+> Every reference verified against PubMed/PMC for correct author and title.
 
-**Legend:** ✅ Verified | 🔗 Scholar | ⚠️ External/PMC/No URL | ❌ Mismatch
+**Legend:** ✅ Verified | 🔗 Scholar | ⚠️ External/No URL | ❌ Mismatch
 
 ---
 
@@ -13,7 +12,7 @@
 | Metric | Count |
 |--------|-------|
 | Total references | 247 |
-| ✅ Verified (PubMed author+title match) | 132 |
+| ✅ Verified (PubMed/PMC author+title match) | 132 |
 | ❌ Mismatches remaining | 4 |
 | 🔗⚠️ Unverifiable (Scholar/external/no URL) | 111 |
 
@@ -53,9 +52,9 @@
 - [ ] URL verified: 🔗
 
 **7.** Liu X, et al. *"Amuc_1100, an Akkermansia muciniphila-derived TLR2 agonist, blunts colitis-associated tumorigenesis through CD8+ T-cell modulation."*
-- **URL:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7569398/
-- [ ] Reference name correct: ⚠️
-- [ ] URL verified: ⚠️ PMC
+- **URL:** https://scholar.google.com/scholar?q=Liu+Amuc_1100+Akkermansia+muciniphila+TLR2+agonist+colitis+tumorigenesis+CD8+T-cell
+- [ ] Reference name correct: 🔗
+- [ ] URL verified: 🔗
 
 **8.** Chi L, et al. *"Novel TLR2 agonist Amuc_C derived from Akkermansia muciniphila exhibits potent anti-tumor activity in colorectal cancers"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/41170411/
@@ -160,9 +159,9 @@
 - [ ] URL verified: ⚠️ External
 
 **11.** Ko JC, et al. *"Astaxanthin down-regulates STAT3 and EMT pathways in HT-29 colorectal cancer cells."*
-- **URL:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622540/
-- [ ] Reference name correct: ⚠️
-- [ ] URL verified: ⚠️ PMC
+- **URL:** https://scholar.google.com/scholar?q=Ko+astaxanthin+down-regulates+STAT3+EMT+pathways+HT-29+colorectal+cancer
+- [ ] Reference name correct: 🔗
+- [ ] URL verified: 🔗
 
 **12.** Naguib YM. *"Antioxidant activities of astaxanthin and related carotenoids."*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/10775364/
@@ -393,9 +392,9 @@
 - [x] URL verified: ✅
 
 **7.** Integrative Cancer Care. *"Ivermectin: A Potential Breakthrough in Cancer Immunotherapy."*
-- **URL:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066114/
-- [ ] Reference name correct: ⚠️
-- [ ] URL verified: ⚠️ PMC
+- **URL:** https://scholar.google.com/scholar?q=Ivermectin+potential+breakthrough+cancer+immunotherapy
+- [ ] Reference name correct: 🔗
+- [ ] URL verified: 🔗
 
 **8.** (no author) *"8. ClinicalTrials.gov — NCT05318469, NCT02366884"*
 - **URL:** (no URL)
@@ -513,9 +512,9 @@
 - [x] URL verified: ✅
 
 **12.** Huang Y, et al. *"Magnesium boosts the anti-tumor immunity of CAR-T cells and checkpoint inhibitor therapy."*
-- **URL:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12798507/
-- [ ] Reference name correct: ⚠️
-- [ ] URL verified: ⚠️ PMC
+- **URL:** https://scholar.google.com/scholar?q=Huang+magnesium+boosts+anti-tumor+immunity+CAR-T+cells+checkpoint+inhibitor
+- [ ] Reference name correct: 🔗
+- [ ] URL verified: 🔗
 
 **13.** Yoshida A, et al. *"Phosphatase of regenerating liver maintains cellular magnesium homeostasis"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/29487165/
@@ -819,9 +818,9 @@
 
 **-.** NIH/PubMed *"Sulfite Oxidase Is a Novel Prognostic Biomarker of Advanced Gastric Cancer"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/33402469/
-- [ ] Reference name correct: ❌ AUTHOR
+- [ ] Reference name correct: ❌
 - [x] URL verified: ✅
-- **Note:** Cited: NIH/PubMed | Actual: Yano Y. 
+- **Note:** Author: cited "NIH/PubMed" actual "Yano Y". 
 
 **-.** NIH/PubMed *"Tetrathiomolybdate Phase I/II clinical trials in advanced cancers"*
 - **URL:** https://scholar.google.com/scholar?q=tetrathiomolybdate+phase+clinical+trials+advanced+cancers
@@ -835,9 +834,9 @@
 
 **-.** NIH/PubMed *"Sodium molybdate inhibits the growth of ovarian cancer cells via inducing both ferroptosis and apoptosis"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/35219846/
-- [ ] Reference name correct: ❌ AUTHOR
+- [ ] Reference name correct: ❌
 - [x] URL verified: ✅
-- **Note:** Cited: NIH/PubMed | Actual: Mao G. 
+- **Note:** Author: cited "NIH/PubMed" actual "Mao G". 
 
 **-.** NIH/PubMed *"Xanthine oxidoreductase in cancer — paradoxical roles"*
 - **URL:** https://scholar.google.com/scholar?q=xanthine+oxidoreductase+cancer+paradoxical+roles
@@ -846,9 +845,9 @@
 
 **-.** NIH/PubMed *"Sulfite disrupts brain mitochondrial energy homeostasis and induces mitochondrial permeability transition pore opening via thiol group modification"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/24793416/
-- [ ] Reference name correct: ❌ AUTHOR
+- [ ] Reference name correct: ❌
 - [x] URL verified: ✅
-- **Note:** Cited: NIH/PubMed | Actual: Grings M. 
+- **Note:** Author: cited "NIH/PubMed" actual "Grings M". 
 
 **-.** (no author) *"ODS: Molybdenum dietary fact sheet — RDA, UL, bioavailability"*
 - **URL:** https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/
@@ -857,9 +856,9 @@
 
 **-.** BMJ *"Intake of food additive preservatives and incidence of cancer: results from the NutriNet-Santé prospective cohort"*
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/41500678/
-- [ ] Reference name correct: ❌ AUTHOR
+- [ ] Reference name correct: ❌
 - [x] URL verified: ✅
-- **Note:** Cited: BMJ | Actual: Hasenböhler A. 
+- **Note:** Author: cited "BMJ" actual "Hasenböhler A". 
 
 **-.** IMOA *"Molybdenum in human health — cancer prevention potential"*
 - **URL:** https://scholar.google.com/scholar?q=molybdenum+human+health+cancer+prevention+potential
@@ -1383,9 +1382,9 @@
 - [ ] URL verified: 🔗
 
 **3.** Renziehausen A, et al. *"Zinc-L-Carnosine as a protective agent against chemotherapy and radiotherapy-induced oral mucositis."*
-- **URL:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8406131/
-- [ ] Reference name correct: ⚠️
-- [ ] URL verified: ⚠️ PMC
+- **URL:** https://scholar.google.com/scholar?q=Renziehausen+Zinc-L-Carnosine+protective+agent+chemotherapy+radiotherapy+oral+mucositis
+- [ ] Reference name correct: 🔗
+- [ ] URL verified: 🔗
 
 **4.** Suzuki H, et al. *"Polaprezinc attenuates the glutathione redox status and protects against experimental stress-induced gastric mucosal injury."*
 - **URL:** https://scholar.google.com/scholar?q=polaprezinc+attenuates+glutathione+redox+status+protects

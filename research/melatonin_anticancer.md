@@ -199,14 +199,20 @@ Simultaneously protects healthy tissue:
 
 ### 11.1 Dosing
 
-| Context | Dose |
-|---|---|
-| Sleep regulation | 0.5–5 mg |
-| Cancer adjuvant (clinical trials) | **20 mg/day** (most studied oncology dose) |
-| High-dose protocols | Up to 40–100 mg reported |
-| **This protocol** | **20 mg nightly** |
+| Context | Dose | Evidence Base |
+|---|---|---|
+| Sleep regulation | 0.5–5 mg | Well-established |
+| Cancer adjuvant **with chemo/radiation** | **20 mg/day** | Lissoni RCTs + Seely meta-analysis of 21 RCTs |
+| Cancer **without chemo** (supportive care) | **20 mg/day** | Lissoni brain metastases RCT (PMID 8299092) |
+| Cancer — sleep/QoL support | 3–5 mg | Limited RCT evidence |
+| High-dose protocols | Up to 40–100 mg reported | Exploratory / case reports |
+| **This protocol** | **20 mg nightly** | |
 
-> **Note:** The protocol uses the standard oncology clinical trial dose of **20 mg/day**, the most studied dose across cancer trials (confirmed in the 2025 Cochrane review of 30 RCTs).
+> **Important context:** The **20 mg/day** dose dominates cancer research because virtually all of Lissoni's foundational RCTs (which form the bulk of the evidence base) used this dose. The Seely et al. 2012 meta-analysis reviewed **21 clinical trials all using 20 mg/day** and found significantly improved 1-year survival (RR 0.63) and tumour response rates.
+>
+> **However**, most of these trials studied melatonin **alongside chemotherapy or radiotherapy**. For patients **not receiving chemo**, the evidence is more limited but still supports 20 mg/day — Lissoni's brain metastases RCT (PMID 8299092) used 20 mg/day with supportive care alone (no chemo) and found significantly improved 1-year survival. The anti-cancer mechanisms (Warburg reversal, immune activation, apoptosis induction) are **intrinsic to melatonin** and do not depend on chemotherapy to function.
+>
+> **Bottom line:** 20 mg/day is reasonable with or without chemo. The mechanisms are independent of conventional treatment, but the strongest clinical survival data comes from chemo-adjuvant trials.
 
 ### 11.2 Safety
 - **Exceptionally safe** — high safety margin with virtually no serious toxicity
@@ -218,7 +224,7 @@ Simultaneously protects healthy tissue:
 
 ### 11.3 Cochrane Systematic Review (2025)
 
-The most comprehensive review to date — a **Cochrane systematic review** (PMID 40304216) — analysed all available RCT evidence:
+The most comprehensive review to date — a **Cochrane systematic review** (PMID 40304216) — analysed all available RCT evidence for melatonin's effects on quality of life, sleep, and treatment side effects in cancer patients:
 
 | Metric | Data |
 |---|---|
@@ -235,9 +241,12 @@ The most comprehensive review to date — a **Cochrane systematic review** (PMID
 - **Sleep** — evidence very uncertain (1 study, 50 participants)
 - **Adverse events** — may be no difference between melatonin + standard treatment and placebo + standard treatment
 
-### Earlier Trial Findings
+> **Note:** The Cochrane review focused on quality of life and side effects — not on tumour response or survival — and did not specify or recommend a particular dose.
+
+### Earlier Trial Findings (Lissoni RCTs)
 - Improved chemotherapy response rates in metastatic NSCLC (20 mg/day, 7 days prior to chemo)
 - Enhanced quality of life during radiotherapy (20 mg/day, breast cancer)
+- Improved survival in brain metastases with supportive care alone — no chemo (20 mg/day)
 - Improved tumour response when combined with conventional therapy
 
 ---
@@ -288,10 +297,12 @@ Melatonin
 2. Reiter RJ, et al. *"[Melatonin as a mitochondria-targeted antioxidant: one of evolution's best ideas.](https://pubmed.ncbi.nlm.nih.gov/28864909/)"* Cell Mol Life Sci. (NIH/PMC)
 3. Reiter RJ, et al. *"[Melatonin, a full service anti-cancer agent: Inhibition of initiation, progression and metastasis.](https://pubmed.ncbi.nlm.nih.gov/28420185/)"* Int J Mol Sci. (MDPI)
 4. Lissoni P, et al. *"[Decreased toxicity and increased efficacy of cancer chemotherapy using the pineal hormone melatonin in metastatic solid tumour patients.](https://pubmed.ncbi.nlm.nih.gov/10674014/)"* Eur J Cancer.
-5. Hill SM, et al. *"[Melatonin: an inhibitor of breast cancer.](https://pubmed.ncbi.nlm.nih.gov/25876649/)"* Endocr Relat Cancer. (NIH/PMC)
-6. Blask DE, et al. *"[Melatonin-depleted blood from premenopausal women exposed to light at night stimulates growth of human breast cancer xenografts in nude rats](https://pubmed.ncbi.nlm.nih.gov/16322268/)"* Cancer Research. (AACR)
-7. Cos S, et al. *"[Melatonin as a radiosensitizer in breast cancer.](https://scholar.google.com/scholar?q=Cos+melatonin+radiosensitizer+breast+cancer)"* Molecules. (MDPI)
-8. Yu ZY, et al. *"[Melatonin in cancer treatment](https://pubmed.ncbi.nlm.nih.gov/40304216/)"* Cochrane Database Syst Rev. (NIH/PMC)
+5. Lissoni P, et al. *"[A randomized study with the pineal hormone melatonin versus supportive care alone in patients with brain metastases due to solid neoplasms.](https://pubmed.ncbi.nlm.nih.gov/8299092/)"* Cancer. 1994.
+6. Seely D, et al. *"[Melatonin as adjuvant cancer care with and without chemotherapy: a systematic review and meta-analysis of randomized trials.](https://pubmed.ncbi.nlm.nih.gov/22019490/)"* Integr Cancer Ther. 2012.
+7. Hill SM, et al. *"[Melatonin: an inhibitor of breast cancer.](https://pubmed.ncbi.nlm.nih.gov/25876649/)"* Endocr Relat Cancer. (NIH/PMC)
+8. Blask DE, et al. *"[Melatonin-depleted blood from premenopausal women exposed to light at night stimulates growth of human breast cancer xenografts in nude rats](https://pubmed.ncbi.nlm.nih.gov/16322268/)"* Cancer Research. (AACR)
+9. Cos S, et al. *"[Melatonin as a radiosensitizer in breast cancer.](https://scholar.google.com/scholar?q=Cos+melatonin+radiosensitizer+breast+cancer)"* Molecules. (MDPI)
+10. Yu ZY, et al. *"[Melatonin in cancer treatment](https://pubmed.ncbi.nlm.nih.gov/40304216/)"* Cochrane Database Syst Rev. (NIH/PMC)
 
 ---
 

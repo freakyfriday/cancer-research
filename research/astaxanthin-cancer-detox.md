@@ -76,7 +76,7 @@ The **polar-nonpolar-polar** molecular geometry is key:
 | **β-Carotene** | Disordered in lipid core (no polar anchors) | Partial interior protection | ❌ Can become pro-oxidant; destabilises membrane |
 | **CoQ10** | Inner mitochondrial membrane | Mitochondrial electron transport chain | ❌ Limited to mitochondria |
 
-> **Key insight:** Astaxanthin is the **only known antioxidant** that simultaneously protects the outer membrane surface, the lipid bilayer interior, AND the inner membrane surface. This is why it is often called the **"[The dual roles of natural cannabidiol in combating oxidative stress and inflammation: A potential intestinal guardian](https://pubmed.ncbi.nlm.nih.gov/41713221/)"** — it provides 360-degree protection that no other single antioxidant can match.
+> **Key insight:** Astaxanthin is the **only known antioxidant** that simultaneously protects the outer membrane surface, the lipid bilayer interior, AND the inner membrane surface. This is why it is often called the **"king of antioxidants"** — it provides 360-degree protection that no other single antioxidant can match.
 
 ### 2.4 Functional Consequences of Transmembrane Spanning
 
@@ -536,7 +536,7 @@ Colon cancer creates a **particularly toxic local environment**:
 8. Kim JH, et al. *"[Astaxanthin inhibits proliferation and induces apoptosis in human colon cancer cells.](https://scholar.google.com/scholar?q=astaxanthin+inhibits+proliferation+induces+apoptosis+human+colon+cancer)"* Open Biochemistry J. 2024.
 9. Chen YT, et al. *"[Astaxanthin's adjunctive anti-cancer effects depend on gut microbiota.](https://scholar.google.com/scholar?q=astaxanthin+adjunctive+anti-cancer+effects+gut+microbiota)"* RSC Journal. 2024.
 10. Aneesh PA, et al. *"[Anti-cancer properties of astaxanthin — An overview.](https://www.sciencedirect.com/science/article/abs/pii/S2950109725060502)"* Int J Health Sci. 2023.
-11. Ko JC, et al. *"[Astaxanthin down-regulates STAT3 and EMT pathways in HT-29 colorectal cancer cells.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622540/)"* Marine Drugs. 2025.
+11. Ko JC, et al. *"[Astaxanthin down-regulates STAT3 and EMT pathways in HT-29 colorectal cancer cells.](https://scholar.google.com/scholar?q=Ko+astaxanthin+down-regulates+STAT3+EMT+pathways+HT-29+colorectal+cancer)"* Marine Drugs. 2025.
 12. Naguib YM. *"[Antioxidant activities of astaxanthin and related carotenoids.](https://pubmed.ncbi.nlm.nih.gov/10775364/)"* J Agric Food Chem. 2000.
 13. Park JS, et al. *"[Astaxanthin stimulates cell-mediated and humoral immune responses in cats](https://pubmed.ncbi.nlm.nih.gov/21930306/)"* Vet Immunol Immunopathol. 2011.
 

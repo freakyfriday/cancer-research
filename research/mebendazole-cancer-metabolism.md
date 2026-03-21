@@ -299,11 +299,11 @@ However, the transition from promising preclinical data to proven clinical effic
 
 ## References & Sources
 
-- Johns Hopkins University — Mebendazole HIF-1α/HIF-2α inhibition in breast cancer; Polymorph C development
-- NIH/PubMed [— Multiple mechanistic studies on mitochondrial dysfunction, glycolysis, nucleotide metabolism](https://scholar.google.com/scholar?q=mebendazole+cancer+mitochondrial+dysfunction+glycolysis+nucleotide+metabolism)
-- ASCO Publications — Phase II recurrent glioblastoma trial (MBZ + TMZ/Lomustine)
-- Frontiers in Oncology — Comprehensive MBZ anticancer mechanism review (July 2025)
-- Research Journal of Pharmacy and Technology — MBZ anticancer review (2025)
-- AACR Journals — Apoptosis and mitochondrial membrane potential studies
-- MDPI Cancers — HIF pathway and Hedgehog signalling studies
-- ecancer — Preclinical activity across multiple cancer types
+- Johns Hopkins University — *"[Mebendazole HIF-1α/HIF-2α inhibition in breast cancer; Polymorph C development.](https://scholar.google.com/scholar?q=Johns+Hopkins+mebendazole+HIF-1+HIF-2+inhibition+breast+cancer+polymorph+C)"*
+- NIH/PubMed *"[— Multiple mechanistic studies on mitochondrial dysfunction, glycolysis, nucleotide metabolism.](https://scholar.google.com/scholar?q=mebendazole+cancer+mitochondrial+dysfunction+glycolysis+nucleotide+metabolism)"*
+- ASCO Publications — *"[Phase II recurrent glioblastoma trial (MBZ + TMZ/Lomustine).](https://scholar.google.com/scholar?q=ASCO+mebendazole+Phase+II+recurrent+glioblastoma+temozolomide+lomustine)"*
+- Frontiers in Oncology — *"[Comprehensive MBZ anticancer mechanism review (July 2025).](https://scholar.google.com/scholar?q=Frontiers+Oncology+mebendazole+anticancer+mechanism+review+2025)"*
+- Research Journal of Pharmacy and Technology — *"[MBZ anticancer review (2025).](https://scholar.google.com/scholar?q=mebendazole+anticancer+review+Research+Journal+Pharmacy+Technology+2025)"*
+- AACR Journals — *"[Apoptosis and mitochondrial membrane potential studies.](https://scholar.google.com/scholar?q=mebendazole+apoptosis+mitochondrial+membrane+potential+cancer)"*
+- MDPI Cancers — *"[HIF pathway and Hedgehog signalling studies.](https://scholar.google.com/scholar?q=mebendazole+HIF+pathway+Hedgehog+signalling+cancer)"*
+- ecancer — *"[Preclinical activity across multiple cancer types.](https://scholar.google.com/scholar?q=mebendazole+preclinical+anticancer+activity+multiple+cancer+types)"*

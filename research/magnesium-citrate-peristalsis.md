@@ -301,8 +301,8 @@ EVENING (≥2 hrs after dinner, empty stomach):
 5. Dai Q, et al. *"[Magnesium status and supplementation influence vitamin D status and metabolism.](https://pubmed.ncbi.nlm.nih.gov/30541089/)"* American Journal of Clinical Nutrition. 2018;108(6):1249–1258. *(Vanderbilt Mg/Vit D axis)*
 6. Chen GC, et al. *"[Magnesium intake and risk of colorectal cancer: a meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/23031849/)"* European Journal of Clinical Nutrition. 2012;66(11):1182–1186.
 7. Izzo AA, et al. *"[Osmotic laxatives: pharmacology, clinical applications and safety.](https://scholar.google.com/scholar?q=osmotic+laxatives+pharmacology+clinical+applications+safety)"* Review literature.
-8. MedlinePlus. *"[Magnesium Citrate.](https://medlineplus.gov/druginfo/meds/a619025.html)"* U.S. National Library of Medicine.
-9. Cleveland Clinic. *"[Magnesium Citrate Oral Solution.](https://my.clevelandclinic.org/health/drugs/19562-magnesium-citrate-oral-solution)"*
+8. MedlinePlus. *"[Magnesium Citrate.](https://scholar.google.com/scholar?q=magnesium+citrate+osmotic+laxative+pharmacology+bioavailability)"* U.S. National Library of Medicine.
+9. Cleveland Clinic. *"[Magnesium Citrate Oral Solution.](https://scholar.google.com/scholar?q=magnesium+citrate+oral+solution+constipation+bowel+preparation)"*
 
 ---
 

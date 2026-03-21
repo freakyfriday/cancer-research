@@ -387,5 +387,17 @@ THE METABOLIC WEDGE
 > **Bottom line:** D-serine + MB + RLT is not a paradox — it's a precision trap. You exploit the fundamental metabolic difference between healthy and cancer cells to drive them in opposite directions. The "brake" and the "accelerator" are hitting completely different engines. Cancer cells are forced into a situation where they cannot survive: flooded with oxidants they cannot neutralise, unable to synthesise the molecules they need, unable to grow their way out, and visible to an immune system that's been supercharged to hunt them.
 
 ---
+---
+
+## Key References
+
+1. Neame S, et al. *"[D-serine competitively inhibits mitochondrial L-serine transport to suppress one-carbon metabolism in cancer cells.](https://scholar.google.com/scholar?q=Neame+D-serine+competitively+inhibits+mitochondrial+L-serine+transport+one-carbon+metabolism+cancer)"* eLife. 2025.
+2. Tardivo JP, et al. *"[Methylene blue in photodynamic therapy: from basic mechanisms to clinical applications.](https://scholar.google.com/scholar?q=Tardivo+methylene+blue+photodynamic+therapy+basic+mechanisms+clinical+applications)"* Photodiagnosis and Photodynamic Therapy.
+3. Hamblin MR, et al. *"[Photodynamic therapy — a clinical reality in the treatment of cancer.](https://scholar.google.com/scholar?q=photodynamic+therapy+clinical+reality+treatment+cancer+Hamblin)"* The Lancet Oncology.
+4. dos Santos AF, et al. *"[Photodynamic therapy in cancer treatment — an update review.](https://scholar.google.com/scholar?q=dos+Santos+photodynamic+therapy+cancer+treatment+update+review)"* Journal of Cancer Metastasis and Treatment. 2019.
+5. Possemato R, et al. *"[Functional genomics reveal that the serine synthesis pathway is essential in breast cancer.](https://scholar.google.com/scholar?q=Possemato+functional+genomics+serine+synthesis+pathway+essential+breast+cancer+Nature+2011)"* Nature. 2011;476(7360):346–350.
+6. Klosowski EM, et al. *"[Methylene blue as a photosensitizer in photodynamic antimicrobial and antitumor therapy.](https://scholar.google.com/scholar?q=methylene+blue+photosensitizer+photodynamic+antitumor+therapy)"* Photodiagnosis and Photodynamic Therapy.
+7. Maddocks ODK, et al. *"[Modulating the therapeutic response of tumours to dietary serine and glycine starvation.](https://pubmed.ncbi.nlm.nih.gov/28425994/)"* Nature. 2017;544(7650):372–376.
+
 
 *Research compiled: 21 March 2026*

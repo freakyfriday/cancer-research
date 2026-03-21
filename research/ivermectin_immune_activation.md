@@ -168,13 +168,13 @@ Cancer Cell undergoes Immunogenic Cell Death (ICD)
 ## Key References
 
 1. Draganov D, et al. *"[Ivermectin converts cold tumors hot and synergizes with immune checkpoint blockade for treatment of breast cancer.](https://pubmed.ncbi.nlm.nih.gov/33654071/)"* NPJ Breast Cancer. (NIH/PMC)
-2. Draganov D, et al. *Ivermectin induces immunogenic cell death in breast tumors.* bioRxiv preprint.
+2. Draganov D, et al. *"[Ivermectin induces immunogenic cell death in breast tumors.](https://scholar.google.com/scholar?q=Draganov+ivermectin+induces+immunogenic+cell+death+breast+tumors+bioRxiv)"* bioRxiv preprint.
 3. Juarez M, et al. *"[The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug.](https://pubmed.ncbi.nlm.nih.gov/29511601/)"* Am J Cancer Res. (NIH/PMC)
 4. Dominguez-Gomez G, et al. *"[Ivermectin as an inhibitor of cancer stem‑like cells](https://pubmed.ncbi.nlm.nih.gov/29257278/)"* Molecular Biology Reports. (NIH/PMC)
 5. Liu J, et al. *"[Ivermectin induces autophagy-mediated cell death through the AKT/mTOR signaling pathway in glioma cells.](https://pubmed.ncbi.nlm.nih.gov/31755894/)"* Bioscience Reports.
 6. Tang M, et al. *"[Ivermectin, a potential anticancer drug derived from an antiparasitic drug.](https://pubmed.ncbi.nlm.nih.gov/32971268/)"* Pharmacological Research. (NIH/PMC)
-7. Integrative Cancer Care. *"[Ivermectin: A Potential Breakthrough in Cancer Immunotherapy.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066114/)"*
-8. ClinicalTrials.gov — NCT05318469, NCT02366884
+7. Integrative Cancer Care. *"[Ivermectin: A Potential Breakthrough in Cancer Immunotherapy.](https://scholar.google.com/scholar?q=Ivermectin+potential+breakthrough+cancer+immunotherapy)"*
+8. ClinicalTrials.gov — [NCT05318469](https://clinicaltrials.gov/study/NCT05318469), [NCT02366884](https://clinicaltrials.gov/study/NCT02366884)
 
 ---
 

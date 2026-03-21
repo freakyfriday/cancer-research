@@ -122,20 +122,6 @@ Xanthine oxidase (XO), another Mo-dependent enzyme, catabolises purines (hypoxan
 
 For a colon cancer patient specifically, the sulfite detoxification pathway is especially relevant:
 
-### 4.1 Gut-Derived Sulfite Sources
-- **Sulfate-reducing bacteria (SRB)** in the colon (e.g., *Desulfovibrio*) reduce dietary sulfate to **hydrogen sulfide (H₂S)**, which is further oxidised to **sulfite** and **thiosulfate**.
-- Excess H₂S/sulfite in the colonic mucosa damages the epithelial barrier, impairs butyrate oxidation (the colon's primary fuel), and promotes chronic inflammation.
-- **Processed meats and wine** contain added sulfites (E220–E228) that add to colonic sulfite burden.
-
-### 4.2 SUOX as the Last Line of Defence
-- SUOX in the colonic epithelium is the final enzymatic barrier that converts sulfite to safe sulfate before it can cause DNA damage or mitochondrial toxicity.
-- Ensuring adequate molybdenum ensures this barrier remains functional.
-
-### 4.3 Interaction with Butyrate
-- Sulfite inhibits butyrate oxidation in colonocytes (the primary energy source for colon epithelial cells).
-- By clearing sulfite, SUOX indirectly supports butyrate metabolism — creating a **synergy with butyrate supplementation** already in the protocol.
-
----
 
 ## 5. Supplementation — Practical Considerations
 
@@ -215,6 +201,21 @@ MOLYBDENUM
 
 ---
 
+### 4.1 Gut-Derived Sulfite Sources
+- **Sulfate-reducing bacteria (SRB)** in the colon (e.g., *Desulfovibrio*) reduce dietary sulfate to **hydrogen sulfide (H₂S)**, which is further oxidised to **sulfite** and **thiosulfate**.
+- Excess H₂S/sulfite in the colonic mucosa damages the epithelial barrier, impairs butyrate oxidation (the colon's primary fuel), and promotes chronic inflammation.
+- **Processed meats and wine** contain added sulfites (E220–E228) that add to colonic sulfite burden.
+
+### 4.2 SUOX as the Last Line of Defence
+- SUOX in the colonic epithelium is the final enzymatic barrier that converts sulfite to safe sulfate before it can cause DNA damage or mitochondrial toxicity.
+- Ensuring adequate molybdenum ensures this barrier remains functional.
+
+### 4.3 Interaction with Butyrate
+- Sulfite inhibits butyrate oxidation in colonocytes (the primary energy source for colon epithelial cells).
+- By clearing sulfite, SUOX indirectly supports butyrate metabolism — creating a **synergy with butyrate supplementation** already in the protocol.
+
+---
+
 ## References & Sources
 
 - MedlinePlus: [Sulfite Oxidase Deficiency / MoCo Deficiency](https://scholar.google.com/scholar?q=sulfite+oxidase+deficiency+molybdenum+cofactor+deficiency+MoCo)
@@ -227,3 +228,5 @@ MOLYBDENUM
 - NIH [ODS: Molybdenum dietary fact sheet — RDA, UL, bioavailability](https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/)
 - BMJ: [Intake of food additive preservatives and incidence of cancer: results from the NutriNet-Santé prospective cohort](https://pubmed.ncbi.nlm.nih.gov/41500678/)
 - IMOA: [Molybdenum in human health — cancer prevention potential](https://scholar.google.com/scholar?q=molybdenum+human+health+cancer+prevention+potential)
+
+---

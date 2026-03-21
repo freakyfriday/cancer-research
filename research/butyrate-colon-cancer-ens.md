@@ -339,37 +339,6 @@ Butyrate's protective effects on the gut barrier underpin both its anti-cancer a
 | **Water/ion secretion** | Regulated → prevents excessive fluid loss |
 | **Anti-inflammatory** | ↓ TNF-α, ↓ IL-6, ↑ IL-10 → reduced mucosal inflammation |
 
----
-
-## 11. Dietary Sources & Microbiome Production
-
-Butyrate is primarily produced *in situ* by gut bacteria fermenting dietary fibre. Direct dietary butyrate (from butter, ghee) is largely absorbed before reaching the colon.
-
-### 11.1 Key Butyrate-Producing Bacteria
-
-| Organism | Notes |
-|---|---|
-| ***Faecalibacterium prausnitzii*** | One of the most abundant species in healthy human gut; major butyrate producer; strongly anti-inflammatory; depleted in IBD and CRC patients |
-| ***Roseburia intestinalis*** | Ferments complex plant polysaccharides and resistant starch; lower levels in CRC and IBD patients; activates immune cells for cancer immunotherapy |
-| ***Eubacterium rectale*** | Key butyrate producer from Firmicutes |
-| ***Clostridium* clusters IV & XIVa** | Major butyrate-producing clades |
-
-### 11.2 Dietary Strategies to Boost Butyrate Production
-
-| Food Category | Best Sources | Mechanism |
-|---|---|---|
-| **Resistant starch** | Green bananas, cooked & cooled potatoes/rice, legumes | Resists digestion → fermented in colon → butyrate |
-| **Soluble fibre** | Oats, barley, psyllium, flaxseed | Viscous fermentation → SCFAs |
-| **Prebiotic fibres** | Garlic, onions, chicory, Jerusalem artichokes, asparagus | Inulin/FOS → feed butyrate producers |
-| **Pectin-rich fruits** | Apples, apricots, pears | Pectin feeds butyrate-producing microbes |
-| **Whole grains** | Wheat, rye, quinoa, brown rice | Diverse fermentable fibres |
-| **Polyphenol-rich foods** | Green tea, dark chocolate, blueberries, pomegranate, olive oil | Act as prebiotics → foster butyrate-producing environment |
-
-### 11.3 Cross-Feeding Networks
-
-*F. prausnitzii* butyrate production is enhanced through **cross-feeding** with *Bifidobacterium adolescentis* — Bifidobacteria produce acetate and lactate, which *F. prausnitzii* converts to butyrate. This is why **combining prebiotics (to feed Bifidobacteria) with resistant starch is particularly effective**.
-
----
 
 ## 12. Summary — The Dual-Action Framework
 
@@ -429,6 +398,34 @@ BUTYRATE (produced from dietary fibre by gut microbiota)
 
 > **Why this matters for the protocol:** Butyrate occupies a unique dual role — it is both a potent **anti-colon-cancer agent** (via selective HDAC inhibition, multi-pathway apoptosis, and immune remodelling) and a **gut motility promoter** (via ENS neurogenesis, ICC pacemaker support, and serotonin-mediated peristalsis). For a colon cancer protocol, this means butyrate simultaneously attacks the disease while maintaining the healthy gut function (peristalsis, evacuation) that is essential for quality of life during treatment and preventing the constipation that can worsen colonic stasis and carcinogen exposure time.
 
+## 11. Dietary Sources & Microbiome Production
+
+Butyrate is primarily produced *in situ* by gut bacteria fermenting dietary fibre. Direct dietary butyrate (from butter, ghee) is largely absorbed before reaching the colon.
+
+### 11.1 Key Butyrate-Producing Bacteria
+
+| Organism | Notes |
+|---|---|
+| ***Faecalibacterium prausnitzii*** | One of the most abundant species in healthy human gut; major butyrate producer; strongly anti-inflammatory; depleted in IBD and CRC patients |
+| ***Roseburia intestinalis*** | Ferments complex plant polysaccharides and resistant starch; lower levels in CRC and IBD patients; activates immune cells for cancer immunotherapy |
+| ***Eubacterium rectale*** | Key butyrate producer from Firmicutes |
+| ***Clostridium* clusters IV & XIVa** | Major butyrate-producing clades |
+
+### 11.2 Dietary Strategies to Boost Butyrate Production
+
+| Food Category | Best Sources | Mechanism |
+|---|---|---|
+| **Resistant starch** | Green bananas, cooked & cooled potatoes/rice, legumes | Resists digestion → fermented in colon → butyrate |
+| **Soluble fibre** | Oats, barley, psyllium, flaxseed | Viscous fermentation → SCFAs |
+| **Prebiotic fibres** | Garlic, onions, chicory, Jerusalem artichokes, asparagus | Inulin/FOS → feed butyrate producers |
+| **Pectin-rich fruits** | Apples, apricots, pears | Pectin feeds butyrate-producing microbes |
+| **Whole grains** | Wheat, rye, quinoa, brown rice | Diverse fermentable fibres |
+| **Polyphenol-rich foods** | Green tea, dark chocolate, blueberries, pomegranate, olive oil | Act as prebiotics → foster butyrate-producing environment |
+
+### 11.3 Cross-Feeding Networks
+
+*F. prausnitzii* butyrate production is enhanced through **cross-feeding** with *Bifidobacterium adolescentis* — Bifidobacteria produce acetate and lactate, which *F. prausnitzii* converts to butyrate. This is why **combining prebiotics (to feed Bifidobacteria) with resistant starch is particularly effective**.
+
 ---
 
 ## Key References
@@ -448,4 +445,7 @@ BUTYRATE (produced from dietary fibre by gut microbiota)
 
 ---
 
+---
+
+---
 *Research compiled: 14 March 2026*
