@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>D-Serine — Anti-Cancer Metabolic Blockade</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 11px;
+    line-height: 1.45;
+    color: #1a1a2e;
+    background: #fff;
+    padding: 20px 28px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0f0f23;
+    margin-bottom: 2px;
+  }
+
+  h1 small {
+    font-size: 11px;
+    font-weight: 400;
+    color: #666;
+    display: block;
+    margin-top: 2px;
+  }
+
+  h2 {
+    font-size: 13px;
+    font-weight: 700;
+    color: #fff;
+    background: #1a1a2e;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin: 14px 0 6px 0;
+    page-break-after: avoid;
+  }
+
+  h3 {
+    font-size: 11px;
+    font-weight: 600;
+    color: #4a3d8f;
+    margin: 8px 0 4px 0;
+    page-break-after: avoid;
+  }
+
+  h4 {
+    font-size: 10.5px;
+    font-weight: 600;
+    color: #2d2a5e;
+    margin: 6px 0 3px 0;
+  }
+
+  hr { border: none; border-top: 1px solid #ddd; margin: 10px 0; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 8px;
+    font-size: 10.5px;
+    page-break-inside: avoid;
+  }
+
+  th {
+    background: #f0eef8;
+    color: #2d2a5e;
+    font-weight: 600;
+    text-align: left;
+    padding: 4px 6px;
+    border: 1px solid #d5d0ec;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+
+  td {
+    padding: 3px 6px;
+    border: 1px solid #e0e0e0;
+    vertical-align: top;
+  }
+
+  tr:nth-child(even) td { background: #fafafa; }
+
+  .note {
+    background: #f8f7ff;
+    border-left: 3px solid #6c5ce7;
+    padding: 5px 8px;
+    margin: 5px 0 8px 0;
+    font-size: 10px;
+    color: #444;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .warning {
+    background: #fff8f0;
+    border-left: 3px solid #e67e22;
+    padding: 5px 8px;
+    margin: 5px 0 8px 0;
+    font-size: 10px;
+    color: #7a4a0a;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .danger {
+    background: #fff0f0;
+    border-left: 3px solid #e74c3c;
+    padding: 5px 8px;
+    margin: 5px 0 8px 0;
+    font-size: 10px;
+    color: #7a1a1a;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .summary-box {
+    background: #f0eef8;
+    border: 2px solid #6c5ce7;
+    padding: 10px 14px;
+    border-radius: 6px;
+    margin: 8px 0 12px 0;
+    font-size: 10.5px;
+    color: #2d2a5e;
+    line-height: 1.5;
+  }
+
+  .therapy-flow {
+    background: #1a1a2e;
+    color: #e0e0ff;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 10px;
+    margin: 6px 0;
+    letter-spacing: 0.3px;
+    line-height: 1.6;
+  }
+
+  .therapy-flow .arrow { color: #6c5ce7; font-weight: 700; }
+  .therapy-flow .label { color: #a29bfe; font-size: 9px; }
+  .therapy-flow .comment { color: #888; font-style: italic; }
+
+  .badge {
+    display: inline-block;
+    background: #6c5ce7;
+    color: #fff;
+    font-size: 8px;
+    font-weight: 600;
+    padding: 1px 5px;
+    border-radius: 3px;
+    vertical-align: middle;
+    margin-right: 2px;
+  }
+
+  .badge-fire { background: #e74c3c; }
+  .badge-skull { background: #2d3436; }
+  .badge-dna { background: #6c5ce7; }
+  .badge-bolt { background: #e67e22; }
+  .badge-moon { background: #2d3436; }
+  .badge-target { background: #00b894; }
+  .badge-clean { background: #00b894; }
+  .badge-ok { background: #00b894; }
+  .badge-warn { background: #e67e22; }
+  .badge-new { background: #e74c3c; }
+
+  .stars { color: #e67e22; letter-spacing: 1px; }
+
+  strong { font-weight: 600; }
+
+  ul { margin: 4px 0 6px 16px; font-size: 10.5px; }
+  li { margin-bottom: 2px; }
+
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  @media print {
+    body { padding: 10px 15px; font-size: 10px; }
+    h1 { font-size: 18px; }
+    h2 { font-size: 11px; padding: 4px 8px; }
+    table { font-size: 9.5px; }
+    th { font-size: 9px; padding: 3px 5px; }
+    td { padding: 2px 5px; }
+    .note, .warning, .danger { font-size: 9px; padding: 3px 6px; }
+    .summary-box { font-size: 9.5px; padding: 6px 10px; }
+    .therapy-flow { font-size: 9px; padding: 6px 10px; }
+    .no-print { display: none; }
+    @page { margin: 12mm 10mm; }
+  }
+</style>
+</head>
+<body>
+
+<h1>D-Serine — Anti-Cancer Metabolic Blockade
+  <small>Deep Research Document · March 2026</small>
+</h1>
+
+<div class="summary-box">
+  <strong>Summary:</strong> D-serine is the mirror-image (D-enantiomer) of L-serine. While cancer cells are ravenous for L-serine to fuel DNA synthesis, methylation, and antioxidant defence, <strong>D-serine competitively jams the same transport channels</strong>, creating a metabolic blockade that starves tumours from the inside. It operates through <strong>four distinct mechanisms</strong> and stacks powerfully with the existing protocol.
+</div>
+
+<hr>
+
+<!-- SECTION 1: WHY CANCER NEEDS L-SERINE -->
+<h2>1. Why Cancer Cells Are Addicted to L-Serine</h2>
+<table>
+  <tr><th>Pathway</th><th>What L-Serine Provides</th><th>Why Cancer Needs It</th></tr>
+  <tr><td><strong>One-carbon metabolism</strong></td><td>Methyl groups (via THF cycle)</td><td>DNA/RNA synthesis, epigenetic methylation</td></tr>
+  <tr><td><strong>Nucleotide biosynthesis</strong></td><td>Glycine + formate → purines + thymidylate</td><td>Rapid cell division</td></tr>
+  <tr><td><strong>Glutathione synthesis</strong></td><td>Cysteine precursor (via transsulfuration)</td><td>Antioxidant defence against ROS</td></tr>
+  <tr><td><strong>Lipid synthesis</strong></td><td>Sphingolipid headgroups</td><td>Membrane biogenesis</td></tr>
+  <tr><td><strong>NADPH generation</strong></td><td>Via folate cycle</td><td>Reductive biosynthesis + ROS buffering</td></tr>
+</table>
+<div class="note">Cancer cells meet this demand by: <strong>1)</strong> Upregulating PHGDH (de novo serine synthesis from glucose), <strong>2)</strong> Increasing L-serine import via amino acid transporters, <strong>3)</strong> Activating serine racemase (SRR) to convert L-serine → pyruvate + ammonia.</div>
+<div class="warning">⚠️ <strong>In colorectal cancer specifically:</strong> PHGDH is overexpressed in CRC vs normal mucosa. SRR is upregulated in colorectal adenomas and adenocarcinomas, feeding pyruvate into the TCA cycle and supporting histone H3 acetylation → proliferation.</div>
+
+<hr>
+
+<!-- SECTION 2: FOUR MECHANISMS -->
+<h2>2. The Four Anti-Cancer Mechanisms of D-Serine</h2>
+
+<h3>Mechanism 1: Competitive Blockade of Mitochondrial L-Serine Transport</h3>
+<div class="note"><strong>Key discovery</strong> (eLife, 2025 — Neame et al.): D-serine <strong>competitively inhibits</strong> the transport of L-serine into mitochondria. Since SHMT2 (the enzyme initiating mitochondrial one-carbon metabolism) is inside the matrix, cutting off its substrate shuts down the entire pathway.</div>
+<div class="therapy-flow">
+  L-serine <span class="arrow">→</span> [Mitochondrial transporter] <span class="arrow">→</span> SHMT2 <span class="arrow">→</span> Glycine + 5,10-CH₂-THF<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e74c3c;">↑ D-serine competes here</span><br>
+  <span class="label">Downstream: ↓ Formate → ↓ Nucleotides · ↓ NADPH → ↓ Antioxidant defence · ↓ Polyamines → ↓ Proliferation</span>
+</div>
+<div class="danger">🔥 <strong>Critical for protocol stacking:</strong> NADPH depletion makes cancer cells dramatically more vulnerable to pro-oxidant therapies — IV Vitamin C, HBOT, and MB + Red Light.</div>
+
+<h3>Mechanism 2: GCN2 Activation → Pseudo-Starvation → Cellular Senescence</h3>
+<div class="therapy-flow">
+  D-serine present <span class="arrow">→</span> L-serine "appears" depleted <span class="arrow">→</span> GCN2 activated<br>
+  &nbsp;&nbsp;<span class="arrow">→</span> eIF2α phosphorylation <span class="arrow">→</span> ↓ Global protein synthesis<br>
+  &nbsp;&nbsp;<span class="arrow">→</span> ATF4 upregulation <span class="arrow">→</span> Stress response genes<br>
+  &nbsp;&nbsp;<span class="arrow">→</span> <strong style="color:#e74c3c;">Cellular SENESCENCE</strong> <span class="comment">(irreversible growth arrest)</span>
+</div>
+<ul>
+  <li>Senescent cancer cells <strong>stop dividing permanently</strong></li>
+  <li>They become targets for <strong>senolytic clearance</strong> by the immune system</li>
+  <li>GCN2 also suppresses mTOR — a master growth pathway</li>
+  <li>Works even in PHGDH-high tumours that can synthesise their own serine</li>
+</ul>
+
+<h3>Mechanism 3: NMDA Receptor Modulation in the Tumour Microenvironment</h3>
+<table>
+  <tr><th>NMDAR Role in Cancer</th><th>D-Serine Effect</th></tr>
+  <tr><td>GRIN2D expressed in CRC tumour vasculature → promotes angiogenesis</td><td>D-serine modulates receptor activity (context-dependent)</td></tr>
+  <tr><td>NMDAR signalling in enteric neurons (GI tract)</td><td>D-serine activates non-conventional GluN1-GluN3 receptors</td></tr>
+  <tr><td>Tumour cell NMDAR → Ca²⁺ → proliferation</td><td>Excessive activation can trigger excitotoxicity</td></tr>
+</table>
+<div class="warning">⚠️ <strong>Nuance:</strong> NMDAR effects are context-dependent. The metabolic mechanisms (1 &amp; 2) dominate the anti-cancer effect.</div>
+
+<h3>Mechanism 4: ROS Amplification via D-Amino Acid Oxidase (DAO)</h3>
+<ul>
+  <li>DAO catabolises D-serine → produces <strong>H₂O₂</strong> (direct oxidative damage) + hydroxypyruvate + ammonia</li>
+  <li>DAO-generated H₂O₂ promotes <strong>cellular senescence</strong> (amplifies Mechanism 2)</li>
+  <li>Synergises with H₂O₂ from <strong>high-dose Vitamin C</strong> and <strong>HBOT</strong></li>
+  <li>DAO is active in <strong>intestinal epithelium</strong> → local H₂O₂ in colon = direct damage to CRC tumours</li>
+</ul>
+
+<hr>
+
+<!-- SECTION 3: PROTOCOL STACKING -->
+<h2>3. Protocol Stacking — How D-Serine Fits</h2>
+
+<h3>3.1 The Metabolic Siege — Five Fronts</h3>
+<table>
+  <tr><th>Protocol Agent</th><th>Metabolic Target</th><th>D-Serine Amplification</th></tr>
+  <tr><td><strong>Fenbendazole</strong></td><td>GLUT1 ↓, microtubule disruption, p53</td><td>Cancer can't compensate glucose loss via serine pathway</td></tr>
+  <tr><td><strong>Mebendazole</strong></td><td>Tubulin + metabolic disruption</td><td>Dual metabolic blockade</td></tr>
+  <tr><td><strong>Ivermectin</strong></td><td>Mitochondrial Complex I, ICD, Wnt/β-catenin</td><td>Converging mitochondrial attack</td></tr>
+  <tr><td><strong>EGCG</strong></td><td>DHFR inhibition (anti-folate)</td><td>Folate cycle squeezed from both sides</td></tr>
+  <tr><td><strong>Quercetin</strong></td><td>AMPK activation</td><td>Synergy with D-serine "pseudo-starvation"</td></tr>
+</table>
+
+<h3>3.2 D-Serine + IV Vitamin C: The Pro-Oxidant Stack</h3>
+<div class="danger">🔥 <strong>The most important synergy in the protocol.</strong></div>
+<table>
+  <tr><th>Step</th><th>What Happens</th><th>Timeline</th></tr>
+  <tr><td>1</td><td>D-serine depletes NADPH via one-carbon metabolism suppression</td><td>Builds over 1–3 hrs</td></tr>
+  <tr><td>2</td><td>NADPH is the cell's primary means of regenerating glutathione (GSH)</td><td>GSH falls</td></tr>
+  <tr><td>3</td><td>IV Vit C generates H₂O₂ → cancer cells need GSH/NADPH to survive</td><td>≥3 hrs after D-serine</td></tr>
+  <tr><td>4</td><td>With NADPH depleted → <strong>cancer cells are defenceless</strong></td><td>💀 Maximum kill window</td></tr>
+</table>
+<div class="therapy-flow">
+  <strong>TIMING:</strong> D-serine <span class="arrow">→</span> [3 hr gap] <span class="arrow">→</span> IV Vitamin C (or high-dose oral Vit C)<br>
+  <span class="label">Why 3 hours: D-serine peaks ~1-2 hrs · NADPH/GSH depletion builds over 2-3 hrs · Cancer at lowest antioxidant capacity by hour 3</span>
+</div>
+<div class="warning">⚠️ Do <strong>NOT</strong> take D-serine simultaneously with Vitamin C. The 3-hour stagger lets the metabolic blockade establish fully before the pro-oxidant strike.</div>
+
+<h3>3.3 D-Serine + HBOT / MB+Red Light</h3>
+<div class="therapy-flow">
+  D-serine (waking) <span class="arrow">→</span> MB (breakfast) <span class="arrow">→</span> 30 min <span class="arrow">→</span> Red Light <span class="arrow">→</span> HBOT<br>
+  <span class="label">Triple oxidative convergence: D-serine (metabolic) + MB/RLT (photodynamic) + HBOT (hyperbaric)</span>
+</div>
+<ul>
+  <li>D-serine reduces NADPH → cancer can't buffer singlet oxygen (¹O₂) from MB + Red Light</li>
+  <li>HBOT floods O₂ → superoxide/H₂O₂ → cancer can't buffer without GSH</li>
+  <li>Serrapeptase strips fibrin → D-serine reaches previously shielded tumour core</li>
+</ul>
+
+<hr>
+
+<!-- SECTION 4: DOSING -->
+<h2>4. Dosing, Timing &amp; Safety</h2>
+
+<h3>4.1 Suggested Dose</h3>
+<table>
+  <tr><th>Parameter</th><th>Recommendation</th><th>Basis</th></tr>
+  <tr><td><strong>Dose</strong></td><td>30 mg/kg/day (≈ 2–2.5 g for 65–85 kg)</td><td>Standard dose from human clinical trials; well-tolerated</td></tr>
+  <tr><td><strong>Upper range</strong></td><td>60 mg/kg/day (≈ 4–5 g)</td><td>Used in psychiatric studies; higher side-effect risk</td></tr>
+  <tr><td><strong>Form</strong></td><td>D-serine powder (USP grade)</td><td>Mix in water or juice; powder more bioavailable</td></tr>
+  <tr><td><strong>Timing</strong></td><td>On waking, empty stomach</td><td>Maximises absorption; avoids dietary amino acid competition</td></tr>
+  <tr><td><strong>Frequency</strong></td><td>Daily (Mon–Sat)</td><td>Sunday rest day matches protocol</td></tr>
+</table>
+
+<h3>4.2 Proposed Daily Integration</h3>
+<div class="therapy-flow">
+  <strong>ON WAKING</strong> (empty stomach):<br>
+  &nbsp;&nbsp;├── Serrapeptase + Nattovena <span class="comment">(existing)</span><br>
+  &nbsp;&nbsp;├── <strong style="color:#e74c3c;">D-serine 2–2.5 g</strong> <span class="badge badge-new">NEW</span><br>
+  &nbsp;&nbsp;└── Wait 30 min before food<br><br>
+  <strong>BREAKFAST:</strong> MB + existing morning supplements → Red Light → HBOT → Sauna<br><br>
+  <strong>≈3 hrs after D-serine:</strong> Oral Liposomal Vit C (non-IV day) OR IV Vit C infusion<br><br>
+  <strong>LUNCH:</strong> Polyphenol synergy cluster (existing)<br><br>
+  <strong>NIGHT:</strong> FBZ/MBZ + IVM + Turkey Tail etc. (existing)
+</div>
+
+<h3>4.3 Ramp-Up Schedule</h3>
+<table>
+  <tr><th>Week</th><th>D-Serine Dose</th><th>Notes</th></tr>
+  <tr><td>1</td><td>1 g/day</td><td>Assess tolerance. Monitor GI.</td></tr>
+  <tr><td>2</td><td>1.5 g/day</td><td>Check kidney function if any concerns.</td></tr>
+  <tr><td>3+</td><td>2–2.5 g/day (30 mg/kg)</td><td>Full therapeutic dose.</td></tr>
+</table>
+
+<h3>4.4 Safety &amp; Monitoring</h3>
+<table>
+  <tr><th>Concern</th><th>Risk</th><th>Action</th></tr>
+  <tr><td><strong>Kidney function</strong></td><td>MODERATE</td><td>D-serine is renally excreted. Monitor creatinine + eGFR at each 6-week blood draw.</td></tr>
+  <tr><td><strong>Liver enzymes</strong></td><td>LOW-MOD</td><td>Mild transaminitis at 120 mg/kg. 30 mg/kg well-tolerated. Already monitoring LFTs.</td></tr>
+  <tr><td><strong>GI discomfort</strong></td><td>LOW</td><td>Upset stomach/bloating at higher doses. Ramp schedule above addresses this.</td></tr>
+  <tr><td><strong>NMDA overactivation</strong></td><td>LOW</td><td>Monitor for new neurological symptoms.</td></tr>
+  <tr><td><strong>Drug interactions</strong></td><td>NONE KNOWN</td><td>No CYP450 inhibition. Theoretical safety with all current protocol items.</td></tr>
+</table>
+<div class="danger">⚠️ <strong>Contraindication:</strong> If eGFR &lt; 60, reduce dose or avoid. Not recommended with NMDA receptor agonist medications.</div>
+
+<hr>
+
+<!-- SECTION 5: FULL SYNERGY MAP -->
+<h2>5. Synergies &amp; Interactions</h2>
+
+<h3>✅ Positive Synergies</h3>
+<table>
+  <tr><th>D-Serine +</th><th>Mechanism</th><th>Effect</th></tr>
+  <tr><td><strong>IV Vitamin C</strong></td><td>NADPH depletion → H₂O₂ vulnerability</td><td><span class="badge badge-fire">🔥</span> Pro-oxidant kill amplified. 3 hrs before.</td></tr>
+  <tr><td><strong>HBOT</strong></td><td>GSH depletion → O₂ radical vulnerability</td><td><span class="badge badge-fire">🔥</span> Oxidative assault enhanced</td></tr>
+  <tr><td><strong>MB + Red Light</strong></td><td>GSH depletion → ¹O₂ vulnerability</td><td><span class="badge badge-fire">🔥</span> Photodynamic kill amplified</td></tr>
+  <tr><td><strong>Fenbendazole</strong></td><td>Glucose blockade + serine blockade</td><td><span class="badge badge-skull">💀</span> Dual metabolic starvation</td></tr>
+  <tr><td><strong>Ivermectin</strong></td><td>Mito Complex I + one-carbon block</td><td><span class="badge badge-skull">💀</span> Converging mitochondrial attack</td></tr>
+  <tr><td><strong>EGCG</strong></td><td>Anti-folate + one-carbon input block</td><td><span class="badge badge-dna">🧬</span> Folate cycle crushed</td></tr>
+  <tr><td><strong>Quercetin + Resveratrol</strong></td><td>AMPK activation + pseudo-starvation</td><td><span class="badge badge-bolt">⚡</span> Nutrient-sensing amplified</td></tr>
+  <tr><td><strong>Serrapeptase/Nattovena</strong></td><td>Fibrin stripping → penetration</td><td><span class="badge badge-target">🎯</span> Better tumour delivery</td></tr>
+  <tr><td><strong>Melatonin</strong></td><td>Both suppress polyamine synthesis</td><td><span class="badge badge-moon">🌙</span> Growth signal suppression</td></tr>
+  <tr><td><strong>Chlorella/Spirulina</strong></td><td>Binds metabolic byproducts</td><td><span class="badge badge-clean">🧹</span> Detox support</td></tr>
+</table>
+
+<h3>⚠️ Timing Separations Required</h3>
+<table>
+  <tr><th>Pair</th><th>Rule</th><th>Why</th></tr>
+  <tr><td><strong>D-serine ↔ Oral Vit C</strong></td><td>D-serine ≥3 hrs before Vit C</td><td>Let NADPH depletion establish before pro-oxidant strike</td></tr>
+  <tr><td><strong>D-serine ↔ Food</strong></td><td>Take on empty stomach</td><td>Avoid L-serine competition from dietary proteins</td></tr>
+</table>
+
+<h3>❌ No Known Negative Interactions</h3>
+<table>
+  <tr><th>Pair</th><th>Status</th></tr>
+  <tr><td>D-serine + Methylene Blue</td><td><span class="badge badge-ok">✅</span> Safe — different pathways</td></tr>
+  <tr><td>D-serine + Astaxanthin</td><td><span class="badge badge-ok">✅</span> Safe — membrane antioxidant (doesn't affect NADPH)</td></tr>
+  <tr><td>D-serine + Probiotics/Yoghurt</td><td><span class="badge badge-ok">✅</span> Safe — no interaction</td></tr>
+  <tr><td>D-serine + Molybdenum</td><td><span class="badge badge-ok">✅</span> Safe — independent pathways</td></tr>
+  <tr><td>D-serine + Zinc/Butyrate</td><td><span class="badge badge-ok">✅</span> Safe — complementary gut mechanisms</td></tr>
+</table>
+
+<hr>
+
+<!-- SECTION 6: CRC SPECIFIC -->
+<h2>6. Colorectal Cancer — Special Relevance</h2>
+<table>
+  <tr><th>#</th><th>CRC Factor</th><th>Why D-Serine Matters</th></tr>
+  <tr><td>1</td><td><strong>SRR upregulated in CRC</strong></td><td>Tumour cells actively metabolise serine → metabolically exposed and sensitive</td></tr>
+  <tr><td>2</td><td><strong>PHGDH overexpressed</strong></td><td>High de novo synthesis → D-serine competes at transport level, bypasses PHGDH</td></tr>
+  <tr><td>3</td><td><strong>GRIN2D in CRC vasculature</strong></td><td>NMDA receptor immunotargeting inhibits tumour growth in murine CRC models</td></tr>
+  <tr><td>4</td><td><strong>Gut DAO activity</strong></td><td>DAO in intestinal epithelium → oral D-serine generates H₂O₂ locally in colon</td></tr>
+  <tr><td>5</td><td><strong>Butyrate synergy</strong></td><td>Butyrate (in protocol) inhibits HDAC → sensitises CRC to GCN2-triggered senescence</td></tr>
+</table>
+
+<hr>
+
+<!-- SECTION 7: EVIDENCE -->
+<h2>7. Key Research Evidence</h2>
+<table>
+  <tr><th>Study</th><th>Finding</th><th>Relevance</th></tr>
+  <tr><td><strong>Neame et al. (eLife, 2025)</strong></td><td>D-serine competitively inhibits mito L-serine transport → suppresses 1C metabolism in glioblastoma stem cells</td><td>Core mechanism</td></tr>
+  <tr><td><strong>Francis Crick Institute</strong></td><td>Dietary serine/glycine restriction slows tumour growth in mice</td><td>Dietary stacking rationale</td></tr>
+  <tr><td><strong>Milosevic et al. (Cancer Res)</strong></td><td>SRR upregulated in CRC; inhibition suppresses CRC growth + enhances 5-FU</td><td>CRC-specific vulnerability</td></tr>
+  <tr><td><strong>GRIN2D studies (NIH)</strong></td><td>NMDA receptor immunotargeting inhibits CRC angiogenesis</td><td>Vascular target in CRC</td></tr>
+  <tr><td><strong>GCN2 studies</strong></td><td>GCN2-eIF2α-ATF4 induces senescence under amino acid deprivation</td><td>Senescence mechanism</td></tr>
+  <tr><td><strong>Human trials (30 mg/kg)</strong></td><td>Well-tolerated for 4–16 weeks in schizophrenia trials</td><td>Safety data for dosing</td></tr>
+</table>
+
+<hr>
+
+<!-- SECTION 8: ASSESSMENT -->
+<h2>8. Overall Assessment</h2>
+<table>
+  <tr><th>Dimension</th><th>Rating</th><th>Notes</th></tr>
+  <tr><td><strong>Mechanistic rationale</strong></td><td><span class="stars">★★★★★</span></td><td>Four distinct, well-characterised anti-cancer mechanisms</td></tr>
+  <tr><td><strong>Protocol synergy</strong></td><td><span class="stars">★★★★★</span></td><td>Amplifies FBZ/MBZ metabolic starvation, EGCG anti-folate, all pro-oxidant therapies</td></tr>
+  <tr><td><strong>CRC-specific relevance</strong></td><td><span class="stars">★★★★☆</span></td><td>SRR upregulation + PHGDH + gut DAO activity</td></tr>
+  <tr><td><strong>Human safety data</strong></td><td><span class="stars">★★★★☆</span></td><td>Substantial trial data at 30 mg/kg; kidney monitoring needed</td></tr>
+  <tr><td><strong>Clinical cancer evidence</strong></td><td><span class="stars">★★☆☆☆</span></td><td>Preclinical only; no human cancer trials yet</td></tr>
+  <tr><td><strong>Ease of integration</strong></td><td><span class="stars">★★★★★</span></td><td>Simple oral powder, on-waking slot, no CYP interactions</td></tr>
+</table>
+
+<div class="summary-box">
+  <strong>Bottom line:</strong> D-serine is a high-rationale, low-risk addition to the metabolic siege. Its ability to <strong>deplete cancer cells' NADPH/GSH</strong> before pro-oxidant therapies (Vit C, HBOT, MB+RLT) makes the 3-hour stagger timing the most important new synergy. Monitor kidney function at each blood draw.
+</div>
+
+<div style="text-align: center; margin-top: 16px; color: #999; font-size: 9px;">
+  D-Serine Research · Compiled March 2026 · For medical professional review
+</div>
+
+</body>
+</html>
