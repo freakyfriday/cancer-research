@@ -300,7 +300,7 @@ However, the transition from promising preclinical data to proven clinical effic
 ## References & Sources
 
 - Johns Hopkins University — Mebendazole HIF-1α/HIF-2α inhibition in breast cancer; Polymorph C development
-- NIH/PubMed [— Multiple mechanistic studies on mitochondrial dysfunction, glycolysis, nucleotide metabolism](https://pubmed.ncbi.nlm.nih.gov/41215712/)
+- NIH/PubMed [— Multiple mechanistic studies on mitochondrial dysfunction, glycolysis, nucleotide metabolism](https://scholar.google.com/scholar?q=mebendazole+cancer+mitochondrial+dysfunction+glycolysis+nucleotide+metabolism)
 - ASCO Publications — Phase II recurrent glioblastoma trial (MBZ + TMZ/Lomustine)
 - Frontiers in Oncology — Comprehensive MBZ anticancer mechanism review (July 2025)
 - Research Journal of Pharmacy and Technology — MBZ anticancer review (2025)

@@ -53,7 +53,7 @@ L-serine → [Mitochondrial transporter] → SHMT2 → Glycine + 5,10-CH₂-THF
 
 ### Mechanism 2: GCN2 Activation → Pseudo-Starvation → Cellular Senescence
 
-D-serine creates a **"[pseudo-deprivation](https://pubmed.ncbi.nlm.nih.gov/31413144/)"** of L-serine. The cell's amino acid sensing machinery (GCN2 kinase) detects what it interprets as L-serine starvation:
+D-serine creates a **"[pseudo-deprivation](https://scholar.google.com/scholar?q=D-serine+pseudo-deprivation+L-serine+cancer+metabolism)"** of L-serine. The cell's amino acid sensing machinery (GCN2 kinase) detects what it interprets as L-serine starvation:
 
 ```
 D-serine present → L-serine "appears" depleted → GCN2 activated
@@ -273,7 +273,7 @@ NIGHT:
 
 ## 6. Colorectal Cancer — Special Considerations
 
-D-serine is highly relevant for the CRC context (Ignazio's cancer):
+D-serine is highly relevant for the CRC context (colon cancer):
 
 1. **SRR is upregulated in CRC** — tumour cells are actively metabolising serine → they are metabolically exposed and sensitive to D-serine interference
 2. **PHGDH overexpression** — CRC tumours have high de novo serine synthesis → D-serine competes at the transport level, bypassing the synthesis workaround

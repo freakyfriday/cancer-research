@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllResearchSlugs, getResearchBySlug } from "@/lib/research";
 import { notFound } from "next/navigation";
+import BackToProtocol from "@/app/components/BackToProtocol";
 
 export async function generateStaticParams() {
   const slugs = getAllResearchSlugs();
@@ -29,9 +30,7 @@ export default async function ResearchArticlePage({
 
   return (
     <main className="article-container">
-      <Link href="/" className="article-back">
-        ← Back to Protocol
-      </Link>
+      <BackToProtocol />
 
       <article
         className="article-content"
@@ -39,9 +38,7 @@ export default async function ResearchArticlePage({
       />
 
       <div style={{ marginTop: 48, paddingTop: 24, borderTop: "1px solid var(--border-subtle)", display: "flex", gap: 12 }}>
-        <Link href="/" className="article-back">
-          ← Back to Protocol
-        </Link>
+        <BackToProtocol />
         <Link href="/research" className="article-back">
           📚 Research Library
         </Link>

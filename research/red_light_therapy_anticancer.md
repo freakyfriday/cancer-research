@@ -128,7 +128,7 @@ PBM is increasingly used in oncology for **symptom management**:
 | Frequency | Daily or 5× per week |
 | Distance from panel | 6–18 inches (depends on panel output) |
 | Eye protection | **Required** |
-| **This protocol (Ignazio)** | **TBD — needs physician guidance** |
+| **This protocol** | **TBD — needs physician guidance** |
 
 ### Arndt-Schulz Law (Biphasic Dose Response)
 - **Too little light** → no effect
@@ -180,10 +180,10 @@ Red Light Therapy (660nm / 850nm)
 
 ## Key References
 
-1. Hamblin MR. *"[Mechanisms and applications of the anti-inflammatory effects of photobiomodulation.](https://pubmed.ncbi.nlm.nih.gov/41463053/)"* AIMS Biophysics. (NIH/PMC)
+1. Hamblin MR. *"[Mechanisms and applications of the anti-inflammatory effects of photobiomodulation.](https://scholar.google.com/scholar?q=Hamblin+mechanisms+applications+anti-inflammatory+effects+photobiomodulation+AIMS+Biophysics)"* AIMS Biophysics. (NIH/PMC)
 2. Karu TI. *"[Multiple roles of cytochrome c oxidase in mammalian cells under action of red and IR-A radiation.](https://pubmed.ncbi.nlm.nih.gov/20681024/)"* IUBMB Life. (NIH/PMC)
 3. Hamblin MR. *"[Photobiomodulation and cancer: What is the truth?](https://pubmed.ncbi.nlm.nih.gov/29466089/)"* Photomed Laser Surg (2018). (NIH/PMC)
-4. Zecha JA, et al. *"[Low-level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer.](https://pubmed.ncbi.nlm.nih.gov/38265122/)"* Supportive Care in Cancer. (NIH/PMC)
+4. Zecha JA, et al. *"[Low-level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer.](https://scholar.google.com/scholar?q=Zecha+low-level+laser+therapy+photobiomodulation+side+effects+chemoradiation+head+neck+cancer)"* Supportive Care in Cancer. (NIH/PMC)
 5. Ferraresi C, et al. *"[Photobiomodulation in human muscle tissue: an advantage in sports performance?](https://pubmed.ncbi.nlm.nih.gov/27874264/)"* J Biophotonics. (NIH/PMC)
 
 ---

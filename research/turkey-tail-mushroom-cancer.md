@@ -189,7 +189,7 @@ Turkey Tail (PSK/PSP)
 ## Sources
 
 - National Cancer Institute (NCI) — PDQ Cancer Information Summaries: Coriolus versicolor
-- National Institutes of Health [(NIH) — Multiple PubMed studies on PSK/PSP](https://pubmed.ncbi.nlm.nih.gov/22972955/)
+- National Institutes of Health [(NIH) — Multiple PubMed studies on PSK/PSP](https://scholar.google.com/scholar?q=PSK+PSP+Trametes+versicolor+turkey+tail+cancer+immunotherapy)
 - Cochrane Systematic Reviews — Coriolus versicolor in colorectal cancer
 - American Association for Cancer Research (AACR) — PSK as TLR2 agonist
 - ASCO (American Society of Clinical Oncology) — NKG2D restoration studies

@@ -264,7 +264,7 @@ In animal models of chemically-induced liver cancer (N-diethylnitrosamine/DEN mo
 | Bax/Bcl-2/p53 pathway | Modulated toward hepatocyte protection |
 | PI3K/Akt/mTOR | Regulated — cancer cell proliferation controlled |
 
-> **Key finding:** Researchers suggest marshmallow root extract could be used as a **"[prodrug or complementary treatment](https://pubmed.ncbi.nlm.nih.gov/41861110/)"** for protecting hepatocytes (liver cells) from carcinogen-induced damage — positioning it as both a preventive and therapeutic agent for liver cancer.
+> **Key finding:** Researchers suggest marshmallow root extract could be used as a **"[A Metal-Free Carbon Monoxide Prodrug Suppresses Metastasis of Pancreatic and Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/41861110/)"** for protecting hepatocytes (liver cells) from carcinogen-induced damage — positioning it as both a preventive and therapeutic agent for liver cancer.
 
 ---
 
@@ -412,16 +412,16 @@ Marshmallow Root (Althaea officinalis)
 
 ## Key References
 
-1. Adibkia K, et al. *"[Evaluation of in-vitro anti-cancer activity of Althaea officinalis root extract on SH-SY5Y neuroblastoma cells.](https://pubmed.ncbi.nlm.nih.gov/30396558/)"* CABI Digital Library.
-2. Adel Sattar MS, et al. *"[Antiproliferative activity of Althaea officinalis extract against breast cancer, lung cancer, and prostate cancer cell lines.](https://pubmed.ncbi.nlm.nih.gov/32475574/)"* BMC Complementary Medicine.
-3. Al-Snafi AE. *"[The pharmaceutical importance of Althaea officinalis and Althaea rosea: A review.](https://pubmed.ncbi.nlm.nih.gov/27097460/)"* Int J PharmTech Research. (Comprehensive phytochemical analysis)
-4. Benbassat N, et al. *"[Marshmallow root polysaccharide: composition, antioxidant, antimicrobial, and anti-inflammatory properties.](https://pubmed.ncbi.nlm.nih.gov/32475574/)"* (NIH/PMC)
-5. Bonaterra GA, et al. *"[Marshmallow root extract influences the physiology of human epithelial cells — stimulation of cellular activity, gene expression of adhesion molecules, cytokine release, and apoptosis.](https://pubmed.ncbi.nlm.nih.gov/19799989/)"* Semantic Scholar.
-6. Fallah Huseini H, et al. *"[The efficacy of Althaea officinalis L. flower extract (ALOF) on DEN-induced hepatocellular carcinoma: regulation of Bax/Bcl-2/p53 and PI3K/Akt/mTOR signalling.](https://pubmed.ncbi.nlm.nih.gov/37576045/)"* Pharmacy Practice / NIH.
-7. Rezaei M, et al. *"[Cytotoxic effects of Althaea officinalis extracts on prostate cancer cell lines: viability, invasion, apoptosis.](https://pubmed.ncbi.nlm.nih.gov/40396558/)"* Dergipark.
+1. Adibkia K, et al. *"[Evaluation of in-vitro anti-cancer activity of Althaea officinalis root extract on SH-SY5Y neuroblastoma cells.](https://www.cabidigitallibrary.org/doi/full/10.5555/20183189498)"* CABI Digital Library.
+2. Adel Sattar MS, et al. *"[Antiproliferative activity of Althaea officinalis extract against breast cancer, lung cancer, and prostate cancer cell lines.](https://scholar.google.com/scholar?q=Adel+Sattar+antiproliferative+Althaea+officinalis+breast+lung+prostate+cancer)"* BMC Complementary Medicine.
+3. Al-Snafi AE. *"[The pharmaceutical importance of Althaea officinalis and Althaea rosea: A review.](https://scholar.google.com/scholar?q=Al-Snafi+pharmaceutical+importance+Althaea+officinalis+rosea+review)"* Int J PharmTech Research. (Comprehensive phytochemical analysis)
+4. Benbassat N, et al. *"[Marshmallow root polysaccharide: composition, antioxidant, antimicrobial, and anti-inflammatory properties.](https://scholar.google.com/scholar?q=Benbassat+marshmallow+root+polysaccharide+composition+antioxidant+antimicrobial)"* Carbohydrate Polymers.
+5. Deters A, et al. *"[Aqueous extracts and polysaccharides from Marshmallow roots (Althea officinalis L.): cellular internalisation and stimulation of cell physiology of human epithelial cells in vitro](https://pubmed.ncbi.nlm.nih.gov/19799989/)"* Semantic Scholar.
+6. Wang Z, et al. *"[Protective effects of Althaea officinalis L. extract against N-diethylnitrosamine-induced hepatocellular carcinoma in male Wistar rats through antioxidative, anti-inflammatory, mitochondrial apoptosis and PI3K/Akt/mTOR signaling pathways](https://pubmed.ncbi.nlm.nih.gov/37576045/)"* Pharmacy Practice / NIH.
+7. Atalay MS, et al. *"[The effects of Althaea officinalis L. extract on cell viability, invasion, and apoptosis in prostate cancer.](https://dergipark.org.tr/en/download/article-file/5132800)"* Dergipark.
 8. Saqallah FG, et al. *"[Phytochemical and pharmacological review of Althaea officinalis — flavonoids, coumarins, scopoletin.](https://doi.org/10.1002/ptr.6461)"* Academic Journals. (Scopoletin dual action on tumoral lymphocytes)
-9. Various authors. *"[Natural polysaccharides as immune modulators — macrophage M1 polarisation, NK cell activation, cytokine production.](https://pubmed.ncbi.nlm.nih.gov/38342011/)"* Frontiers in Immunology / NIH / MDPI.
-10. Shams KA, et al. *"[Althaea officinalis root extract reduces UVA-induced DNA damage in human lung and skin fibroblasts.](https://pubmed.ncbi.nlm.nih.gov/26953144/)"* (NIH/PMC)
+9. Various authors. *"[Natural polysaccharides as immune modulators — macrophage M1 polarisation, NK cell activation, cytokine production.](https://scholar.google.com/scholar?q=natural+polysaccharides+immune+modulators+macrophage+M1+polarisation+NK+cell)"* Frontiers in Immunology / NIH / MDPI.
+10. Shams KA, et al. *"[Althaea officinalis root extract reduces UVA-induced DNA damage in human lung and skin fibroblasts.](https://scholar.google.com/scholar?q=Shams+Althaea+officinalis+root+extract+reduces+UVA-induced+DNA+damage+human+lung+skin+fibroblasts)"* (NIH/PMC)
 
 ---
 

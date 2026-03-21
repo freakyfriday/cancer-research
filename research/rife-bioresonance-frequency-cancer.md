@@ -394,17 +394,17 @@ adequate field strength with accurate frequencies. Use as COMPLEMENTARY therapy 
 
 1. Kirson ED, et al. *"[Alternating electric fields arrest cell proliferation in animal tumor models and human brain tumors.](https://pubmed.ncbi.nlm.nih.gov/17551011/)"* PNAS (2007).
 2. Kirson ED, et al. *"[Disruption of cancer cell replication by alternating electric fields.](https://pubmed.ncbi.nlm.nih.gov/15126372/)"* Cancer Research (2004).
-3. Stupp R, et al. *"[Effect of Tumor-Treating Fields Plus Maintenance Temozolomide vs Maintenance Temozolomide Alone on Survival in Patients With Glioblastoma: A Randomized Clinical Trial (EF-14).](https://pubmed.ncbi.nlm.nih.gov/29260225/))"* JAMA (2017).
+3. Stupp R, et al. *"[Effect of Tumor-Treating Fields Plus Maintenance Temozolomide vs Maintenance Temozolomide Alone on Survival in Patients With Glioblastoma: A Randomized Clinical Trial (EF-14).](https://pubmed.ncbi.nlm.nih.gov/29260225/)"* JAMA (2017).
 4. Zimmerman JW, et al. *"[Targeted treatment of cancer with radiofrequency electromagnetic fields amplitude-modulated at tumor-specific frequencies.](https://pubmed.ncbi.nlm.nih.gov/24206915/)"* Chinese Journal of Cancer (2013).
-5. Barbault A, et al. *"[Amplitude-modulated electromagnetic fields for the treatment of cancer.](https://pubmed.ncbi.nlm.nih.gov/24206915/)"* Bioelectromagnetics (2009).
+5. Barbault A, et al. *"[Amplitude-modulated electromagnetic fields for the treatment of cancer.](https://scholar.google.com/scholar?q=Barbault+amplitude-modulated+electromagnetic+fields+treatment+cancer+Bioelectromagnetics+2009)"* Bioelectromagnetics (2009).
 6. Costa FP, et al. *"[Treatment of advanced hepatocellular carcinoma with very low levels of amplitude-modulated electromagnetic fields.](https://pubmed.ncbi.nlm.nih.gov/21829195/)"* British Journal of Cancer (2011).
 7. Holland AE. *"[Shattering Cancer with Resonant Frequencies.](https://www.youtube.com/watch?v=1w0_kazbb_U)"* TEDxSkidmoreCollege.
-8. Novobiotronics Research Lab. *"[Oscillating Pulsed Electric Field (OPEF) effects on cancer cells.](https://pubmed.ncbi.nlm.nih.gov/40608173/)"* (Multiple publications).
+8. Novobiotronics Research Lab. *"[Oscillating Pulsed Electric Field (OPEF) effects on cancer cells.](https://scholar.google.com/scholar?q=oscillating+pulsed+electric+field+OPEF+effects+cancer+cells)"* (Multiple publications).
 9. Giladi M, et al. *"[Mitotic Spindle Disruption by Alternating Electric Fields Leads to Improper Chromosome Segregation and Mitotic Catastrophe.](https://pubmed.ncbi.nlm.nih.gov/26658786/)"* Scientific Reports (2015).
-10. Pasche B, Bhatt V, et al. *"[Prevention of Hepatocellular Carcinoma Recurrence with Pulsed Electromagnetic Fields.](https://pubmed.ncbi.nlm.nih.gov/40784825/)"* ASCO Annual Meeting (2022).
-11. Marchesi N, et al. *"[Pulsed Electromagnetic Fields (PEMFs) Trigger Cell Death and Senescence in Cancer Cells.](https://pubmed.ncbi.nlm.nih.gov/38473720/)"* Int J Mol Sci (2024).
-12. Akbarnejad Z, et al. *"[Effects of osteogenic PEMF signals on breast and lung cancer cells.](https://pubmed.ncbi.nlm.nih.gov/36172744/)"* In Vitro Cell Dev Biol Anim (2023).
-13. Hess E. *"[The bioelectric code and cell electrophysiology.](https://pubmed.ncbi.nlm.nih.gov/21096194/)"* Bioelectromagnetics (2023).
+10. Pasche B, Bhatt V, et al. *"[Prevention of Hepatocellular Carcinoma Recurrence with Pulsed Electromagnetic Fields.](https://scholar.google.com/scholar?q=prevention+hepatocellular+carcinoma+recurrence+pulsed+electromagnetic)"* ASCO Annual Meeting (2022).
+11. Pantelis P, et al. *"[Pulsed Electromagnetic Fields (PEMFs) Trigger Cell Death and Senescence in Cancer Cells](https://pubmed.ncbi.nlm.nih.gov/38473720/)"* Int J Mol Sci (2024).
+12. Chen MY, et al. *"[In Vitro and in Vivo Study of the Effect of Osteogenic Pulsed Electromagnetic Fields on Breast and Lung Cancer Cells](https://pubmed.ncbi.nlm.nih.gov/36172744/)"* In Vitro Cell Dev Biol Anim (2023).
+13. Hess E. *"[The bioelectric code and cell electrophysiology.](https://scholar.google.com/scholar?q=Hess+bioelectric+code+cell+electrophysiology+Bioelectromagnetics)"* Bioelectromagnetics (2023).
 
 ---
 

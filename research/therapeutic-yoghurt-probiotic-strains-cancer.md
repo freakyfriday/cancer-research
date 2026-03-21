@@ -122,13 +122,15 @@ These probiotic strains don't just fight cancer directly — they produce **Shor
 In colon cancer, chronic inflammation drives tumour progression. The probiotic yoghurt targets multiple nodes of the inflammatory cascade:
 
 ```
-Probiotics → ↓ TLR4 activation → ↓ MyD88 → ↓ NF-κB nuclear translocation
-                                                    ↓
-                                          ↓ TNF-α, IL-1β, IL-6, IL-18
-                                          ↓ COX-2, iNOS
-                                          ↑ IL-10 (anti-inflammatory)
-                                          ↑ IL-4 (Th2 balance)
-                                          ↑ Regulatory T-cells (Tregs)
+Probiotics
+├── ↓ TLR4 activation
+│   └── ↓ MyD88
+│       └── ↓ NF-kB nuclear translocation
+│           ├── ↓ TNF-a, IL-1b, IL-6, IL-18
+│           ├── ↓ COX-2, iNOS
+│           ├── ↑ IL-10 (anti-inflammatory)
+│           ├── ↑ IL-4 (Th2 balance)
+│           └── ↑ Regulatory T-cells (Tregs)
 ```
 
 **Net effect:** Reduced chronic inflammation in the tumour microenvironment, which:

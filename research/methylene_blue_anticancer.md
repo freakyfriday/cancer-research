@@ -102,7 +102,7 @@ This makes MB a powerful partner for Red Light Therapy (see separate combined re
 | FDA-approved (methemoglobinemia) | 1–2 mg/kg IV |
 | Cognitive/mitochondrial support | 0.5–2 mg/kg oral |
 | Photodynamic therapy protocols | Variable (topical or IV, physician-guided) |
-| **This protocol (Ignazio)** | **TBD — needs physician guidance** |
+| **This protocol** | **TBD — needs physician guidance** |
 
 ### Safety
 - **FDA-approved drug** — established human safety profile
@@ -154,8 +154,8 @@ Methylene Blue
 
 1. Atamna H, et al. *"[Methylene blue delays cellular senescence and enhances key mitochondrial biochemical pathways.](https://pubmed.ncbi.nlm.nih.gov/17928358/)"* FASEB J. (NIH/PMC)
 2. Poteet E, et al. *"[Neuroprotective actions of methylene blue and its derivatives.](https://pubmed.ncbi.nlm.nih.gov/23118969/)"* PLoS One. (NIH/PMC)
-3. Zhang X, et al. *"[Methylene blue restrains ovarian tumor growth.](https://pubmed.ncbi.nlm.nih.gov/38254843/)"* Cancer Letters (2024). (NIH/PMC)
-4. Dos Santos AF, et al. *"[Methylene blue photodynamic therapy induces selective and massive cell death in human breast cancer cells.](https://pubmed.ncbi.nlm.nih.gov/33318476/)"* BMC Cancer. (NIH/PMC)
+3. da Veiga Moreira J, et al. *"[Methylene Blue Metabolic Therapy Restrains In Vivo Ovarian Tumor Growth](https://pubmed.ncbi.nlm.nih.gov/38254843/)"* Cancer Letters (2024). (NIH/PMC)
+4. Dos Santos AF, et al. *"[Distinct photo-oxidation-induced cell death pathways lead to selective killing of human breast cancer cells](https://pubmed.ncbi.nlm.nih.gov/33318476/)"* BMC Cancer. (NIH/PMC)
 5. Tardivo JP, et al. *"[Methylene blue in photodynamic therapy: From basic mechanisms to clinical applications.](https://pubmed.ncbi.nlm.nih.gov/25048768/)"* Photodiagnosis Photodyn Ther. (NIH/PMC)
 
 ---

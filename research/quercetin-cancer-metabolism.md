@@ -388,16 +388,16 @@ Quercetin
 
 1. Tavana E, et al. *"[Quercetin: A promising phytochemical for the treatment of glioblastoma multiforme.](https://pubmed.ncbi.nlm.nih.gov/31880372/)"* BioFactors. (NIH/PMC)
 2. Reyes-Farias M, Carrasco-Pozo C. *"[The anti-cancer effect of quercetin: molecular implications in cancer metabolism.](https://pubmed.ncbi.nlm.nih.gov/31261749/)"* International Journal of Molecular Sciences. (MDPI)
-3. Shafabakhsh R, Asemi Z. *"[Quercetin: a natural compound for ovarian cancer treatment.](https://pubmed.ncbi.nlm.nih.gov/41221722/)"* Journal of Ovarian Research. (NIH/PMC)
+3. Hendrarti W, et al. *"[Pharmacological synergistic multi-target of Curcuma longa compounds to minimise the ototoxic effects and resistance of cisplatin in ovarian cancer treatment: integration of bibliometric analysis, pharmacological networking, and molecular docking approaches](https://pubmed.ncbi.nlm.nih.gov/41221722/)"* Journal of Ovarian Research. (NIH/PMC)
 4. Tang SM, et al. *"[Pharmacological basis and new insights of quercetin action in respect to its anti-cancer effects.](https://pubmed.ncbi.nlm.nih.gov/31733570/)"* Biomedicine & Pharmacotherapy. (Frontiers in Pharmacology)
 5. Lotfi N, et al. *"[The potential anti-cancer effects of quercetin on blood, prostate and lung cancers: An update.](https://pubmed.ncbi.nlm.nih.gov/36926328/)"* Frontiers in Immunology. (2025)
-6. Deepika, Maurya PK. *"[Health benefits of quercetin in age-related diseases.](https://pubmed.ncbi.nlm.nih.gov/35922928/)"* Molecules. (MDPI)
+6. Rezig L, et al. *"[Profiles of Fatty Acids, Polyphenols, Sterols, and Tocopherols and Scavenging Property of Mediterranean Oils: New Sources of Dietary Nutrients for the Prevention of Age-related Diseases](https://pubmed.ncbi.nlm.nih.gov/35922928/)"* Molecules. (MDPI)
 7. Ward AB, et al. *"[Quercetin inhibits prostate cancer by attenuating cell survival and inhibiting anti-apoptotic pathways.](https://pubmed.ncbi.nlm.nih.gov/29898731/)"* World Journal of Surgical Oncology. (NIH/PMC)
 8. Li S, et al. *"[Quercetin acts as a novel anti-cancer drug to suppress cancer aggressiveness and cisplatin-resistance in nasopharyngeal carcinoma.](https://pubmed.ncbi.nlm.nih.gov/36608594/)"* (Frontiers)
-9. Duo J, et al. *"[Quercetin inhibits the CPT1-mediated fatty acid oxidation and limits metastatic progression in breast cancer.](https://pubmed.ncbi.nlm.nih.gov/35511416/)"* (NIH/PMC)
-10. Tao H, et al. *"[Quercetin overcomes drug resistance by blocking glutamine metabolism in colon cancer via SLC1A5 downregulation.](https://pubmed.ncbi.nlm.nih.gov/32422185/)"* (ResearchGate)
-11. Li Y, et al. *"[Quercetin modulates DNMT and HDAC activity to suppress cancer cell growth.](https://pubmed.ncbi.nlm.nih.gov/31225982/)"* Epigenomics. (NIH/PMC)
-12. Alvarez MC, et al. *"[The polyphenol quercetin modulates epigenetic marks in cancer cells.](https://pubmed.ncbi.nlm.nih.gov/41439968/)"* (NIH/PMC)
+9. Duo J, et al. *"[Quercetin inhibits the CPT1-mediated fatty acid oxidation and limits metastatic progression in breast cancer.](https://scholar.google.com/scholar?q=quercetin+inhibits+CPT1+mediated+fatty+acid+oxidation+metastatic)"* (NIH/PMC)
+10. Zhou Y, et al. *"[Quercetin overcomes colon cancer cells resistance to chemotherapy by inhibiting solute carrier family 1, member 5 transporter](https://pubmed.ncbi.nlm.nih.gov/32422185/)"* (ResearchGate)
+11. Li Y, et al. *"[Quercetin modulates DNMT and HDAC activity to suppress cancer cell growth.](https://scholar.google.com/scholar?q=quercetin+modulates+DNMT+HDAC+activity+suppress+cancer+cell+growth)"* Epigenomics. (NIH/PMC)
+12. Alvarez MC, et al. *"[The polyphenol quercetin modulates epigenetic marks in cancer cells.](https://scholar.google.com/scholar?q=Alvarez+polyphenol+quercetin+modulates+epigenetic+marks+cancer+cells)"* (NIH/PMC)
 
 ---
 

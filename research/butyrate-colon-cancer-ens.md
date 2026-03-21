@@ -438,13 +438,13 @@ BUTYRATE (produced from dietary fibre by gut microbiota)
 3. Pan P, et al. *"[Loss of FFAR2 promotes colon cancer by epigenetic dysregulation.](https://pubmed.ncbi.nlm.nih.gov/29524208/)"* Int J Cancer. (NIH/PMC)
 4. Hamer HM, et al. *"[Butyrate modulates oxidative stress in the colonic mucosa of healthy humans.](https://pubmed.ncbi.nlm.nih.gov/19108937/)"* Clin Nutr. (NIH/PMC)
 5. Soret R, et al. *"[Short-chain fatty acids regulate the enteric neurons and control gastrointestinal motility in rats.](https://pubmed.ncbi.nlm.nih.gov/20152836/)"* Gastroenterology. (NIH/PMC)
-6. Banasiewicz T, et al. *"[Microencapsulated sodium butyrate reduces the frequency of abdominal pain in patients with IBS.](https://pubmed.ncbi.nlm.nih.gov/22738315/)"* Colorectal Dis. (NIH/PMC)
+6. Banasiewicz T, et al. *"[Microencapsulated sodium butyrate reduces the frequency of abdominal pain in patients with irritable bowel syndrome](https://pubmed.ncbi.nlm.nih.gov/22738315/)"* Colorectal Dis. (NIH/PMC)
 7. Singh N, et al. *"[Activation of Gpr109a, receptor for niacin and the commensal metabolite butyrate, suppresses colonic inflammation and carcinogenesis.](https://pubmed.ncbi.nlm.nih.gov/24412617/)"* Immunity. (NIH/PMC)
 8. Furusawa Y, et al. *"[Commensal microbe-derived butyrate induces the differentiation of colonic regulatory T cells.](https://pubmed.ncbi.nlm.nih.gov/24226770/)"* Nature. (NIH/PMC)
-9. Chen J, Bhatt DL, et al. *"[Butyrate produced by commensal bacteria promotes intestinal barrier integrity.](https://pubmed.ncbi.nlm.nih.gov/40649947/)"* Frontiers Immunol. (Frontiers)
-10. Binder HJ. *"[Role of colonic short-chain fatty acid transport in diarrhea.](https://pubmed.ncbi.nlm.nih.gov/29949795/)"* Annu Rev Physiol. (NIH/PMC)
+9. Chen J, Bhatt DL, et al. *"[Butyrate produced by commensal bacteria promotes intestinal barrier integrity.](https://scholar.google.com/scholar?q=butyrate+produced+commensal+bacteria+promotes+intestinal+barrier+integrity)"* Frontiers Immunol. (Frontiers)
+10. Binder HJ. *"[Role of colonic short-chain fatty acid transport in diarrhea.](https://scholar.google.com/scholar?q=role+colonic+short-chain+fatty+acid+transport+diarrhea)"* Annu Rev Physiol. (NIH/PMC)
 11. Spencer NJ, Hu H. *"[Enteric nervous system: sensory transduction, neural circuits and gastrointestinal motility.](https://pubmed.ncbi.nlm.nih.gov/32152479/)"* Nat Rev Gastroenterol Hepatol. (NIH/PMC)
-12. Mirzaei R, et al. *"[Role of short-chain fatty acids in the interplay between gut microbiota and intestinal immunity and cancer.](https://pubmed.ncbi.nlm.nih.gov/41769655/)"* J Cell Physiol. (NIH/PMC)
+12. Mirzaei R, et al. *"[Role of short-chain fatty acids in the interplay between gut microbiota and intestinal immunity and cancer.](https://scholar.google.com/scholar?q=role+short-chain+fatty+acids+interplay+gut+microbiota+intestinal)"* J Cell Physiol. (NIH/PMC)
 
 ---
 

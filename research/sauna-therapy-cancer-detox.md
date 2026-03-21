@@ -1,6 +1,6 @@
 # Sauna Therapy for Cancer — Detoxification & Colon Cancer Support
 
-> **Context:** Ignazio has colon cancer with impaired bowel evacuation. When the primary elimination route (bowel) is compromised, the skin becomes a critical alternative detox pathway. Daily 30-minute far-infrared sauna sessions can serve as a therapeutic adjunct.
+> **Context:** For colon cancer with impaired bowel evacuation, when the primary elimination route (bowel) is compromised, the skin becomes a critical alternative detox pathway. Daily 30-minute far-infrared sauna sessions can serve as a therapeutic adjunct.
 
 ---
 
@@ -69,7 +69,7 @@ Sauna-induced hyperthermia activates multiple immune pathways:
 
 ## 3. Sauna & Bowel Motility — Stimulating Peristalsis
 
-This is particularly relevant for Ignazio's evacuation difficulty.
+This is particularly relevant for cases with evacuation difficulty.
 
 ### Parasympathetic Nervous System Activation
 
@@ -90,7 +90,7 @@ Sauna heat shifts the autonomic nervous system from **sympathetic (fight-or-flig
 
 ---
 
-## 4. Synergies with Ignazio's Current Protocol
+## 4. Synergies with the Current Protocol
 
 ### 4.1 Ivermectin + Hyperthermia
 
@@ -105,7 +105,7 @@ Hyperthermia increases **cell membrane permeability**, facilitating greater upta
 
 ### 4.3 Detox Support for Heavy Drug Load
 
-Ignazio's protocol includes high-dose medications (120 mg/day ivermectin, fenbendazole, mebendazole). These drugs are metabolised by the liver and normally excreted via bile → bowel. With impaired evacuation, drug metabolites may accumulate. Sauna provides an alternative excretion route through sweat.
+The protocol includes high-dose medications (120 mg/day ivermectin, fenbendazole, mebendazole). These drugs are metabolised by the liver and normally excreted via bile → bowel. With impaired evacuation, drug metabolites may accumulate. Sauna provides an alternative excretion route through sweat.
 
 ### 4.4 Chlorella/Spirulina Synergy
 
@@ -181,13 +181,13 @@ The sauna also promotes **lymphatic drainage**:
 > - **Monitor for lightheadedness** — exit the sauna immediately if dizzy, nauseous, or feeling faint
 > - **Gradual ramp-up** — cancer patients may have reduced thermoregulation; never start at high temperatures
 > - **Do not use sauna during active bleeding** or if the patient has uncontrolled hypertension or heart failure
-> - **Replace electrolytes** — sodium, potassium, magnesium (Ignazio already takes magnesium glycinate)
+> - **Replace electrolytes** — sodium, potassium, magnesium (the protocol already includes magnesium)
 > - **Initial difficulty sweating** is normal in highly toxic individuals — persist with good hydration; sweating will improve
 > - Some patients may initially feel **worse** as toxins mobilise (Herxheimer-like reaction) — this is temporary and a sign of detoxification working
 
 ---
 
-## 9. Summary — Why 30 Minutes Daily FIR Sauna for Ignazio
+## 9. Summary — Why 30 Minutes Daily FIR Sauna
 
 | Benefit | Relevance |
 |---|---|

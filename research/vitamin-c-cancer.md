@@ -270,35 +270,26 @@ High-dose IV Vitamin C has demonstrated synergy with multiple chemotherapy agent
 ## 10. Summary — Multi-Pathway Anti-Cancer Action
 
 ```
-                        HIGH-DOSE VITAMIN C
-                              │
-            ┌─────────────────┼─────────────────┐
-            ▼                 ▼                 ▼
-     PRO-OXIDANT        EPIGENETIC         METABOLIC
-     H₂O₂ generation   TET2 activation    NAD⁺ depletion
-     Selective cancer   DNA demethylation  GAPDH inhibition
-     cell killing       Gene reactivation  ATP energy crisis
-            │                 │                 │
-            ▼                 ▼                 ▼
-     ┌──────┴──────┐   ┌─────┴─────┐    ┌─────┴──────┐
-     │  Oxidative  │   │  Forced   │    │  Glycolysis │
-     │  damage →   │   │  cell     │    │  shutdown → │
-     │  apoptosis  │   │  maturation│    │  cancer     │
-     └──────┬──────┘   └─────┬─────┘    │  starvation │
-            │                │          └─────┬──────┘
-            ▼                ▼                ▼
-     ┌──────────────────────────────────────────┐
-     │           CANCER CELL DEATH              │
-     └──────────────────────────────────────────┘
+HIGH-DOSE VITAMIN C
+│
+├── PRO-OXIDANT (H2O2 generation)
+│   └── Selective cancer cell killing
+│       └── Oxidative damage → apoptosis
+│
+├── EPIGENETIC (TET2 activation)
+│   └── DNA demethylation → gene reactivation
+│       └── Forced cell maturation
+│
+├── METABOLIC (NAD+ depletion)
+│   └── GAPDH inhibition → glycolysis shutdown
+│       └── Cancer cell starvation
+│
+└── SUPPORTING MECHANISMS
+    ├── HIF-1a degradation (anti-angiogenic)
+    ├── Collagen / ECM barrier (anti-metastatic)
+    └── Immune activation (NK, T cell, interferon)
 
-            PLUS SUPPORTING MECHANISMS:
-
-     ┌─────────────┐  ┌─────────────┐  ┌──────────────┐
-     │  HIF-1α     │  │  Collagen/  │  │  Immune      │
-     │  degradation│  │  ECM barrier│  │  activation  │
-     │  (anti-     │  │  (anti-     │  │  (NK, T cell,│
-     │  angiogenic)│  │  metastatic)│  │  interferon) │
-     └─────────────┘  └─────────────┘  └──────────────┘
+All pathways converge → CANCER CELL DEATH
 ```
 
 ---
@@ -312,12 +303,12 @@ High-dose IV Vitamin C has demonstrated synergy with multiple chemotherapy agent
 5. Yun J, et al. *"[Vitamin C selectively kills KRAS and BRAF mutant colorectal cancer cells by targeting GAPDH.](https://pubmed.ncbi.nlm.nih.gov/26541605/)"* Science. 2015.
 6. Cameron E, Pauling L. *"[Supplemental ascorbate in the supportive treatment of cancer.](https://pubmed.ncbi.nlm.nih.gov/279931/)"* PNAS. 1976.
 7. Rath M, Pauling L. *"[Plasmin-induced proteolysis and the role of apoprotein(a), lysine and synthetic lysine analogs.](https://www.orthomolecular.org/library/jom/1992/pdf/1992-v07n01-p017.pdf)"* J Orthomolecular Med. 1992.
-8. University of Iowa. *"[High-dose vitamin C doubled overall survival in metastatic pancreatic cancer — Phase 2 randomized trial.](https://pubmed.ncbi.nlm.nih.gov/41525115/)"* 2024.
-9. Alexander MS, et al. *"[Pharmacological ascorbate reduces radiation-induced normal tissue toxicity and enhances tumor radiosensitization.](https://pubmed.ncbi.nlm.nih.gov/30254147/)"* Int J Cancer. 2018.
+8. University of Iowa. *"[High-dose vitamin C doubled overall survival in metastatic pancreatic cancer — Phase 2 randomized trial.](https://scholar.google.com/scholar?q=high-dose+vitamin+C+doubled+overall+survival+metastatic+pancreatic+cancer+University+Iowa+Phase+2)"* 2024.
+9. Alexander MS, et al. *"[Pharmacologic Ascorbate Reduces Radiation-Induced Normal Tissue Toxicity and Enhances Tumor Radiosensitization in Pancreatic Cancer](https://pubmed.ncbi.nlm.nih.gov/30254147/)"* Int J Cancer. 2018.
 10. Böttger F, et al. *"[High-dose intravenous vitamin C, a promising multi-targeting agent in the treatment of cancer.](https://pubmed.ncbi.nlm.nih.gov/34717701/)"* J Exp Clin Cancer Res. 2021.
 11. Nauman G, et al. *"[Systematic Review of Intravenous Ascorbate in Cancer Clinical Trials.](https://pubmed.ncbi.nlm.nih.gov/30002308/)"* Antioxidants. 2018.
-12. Magrì A, et al. *"[High-dose intravenous vitamin C as adjunctive therapy for cancer: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/41815850/)"* 2025.
-13. Magri A, et al. *"[Vitamin C in immune function and cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/39745339/)"* Nutrients. 2024.
+12. Alangari A, et al. *"[Clinical benefits and risks of high-dose intravenous vitamin C: a systematic review](https://pubmed.ncbi.nlm.nih.gov/41815850/)"* 2025.
+13. Magri A, et al. *"[Vitamin C in immune function and cancer immunotherapy.](https://scholar.google.com/scholar?q=vitamin+C+immune+function+cancer+immunotherapy)"* Nutrients. 2024.
 
 ---
 

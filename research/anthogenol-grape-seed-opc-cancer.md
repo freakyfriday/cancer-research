@@ -2,7 +2,7 @@
 
 > **Product:** Anthogenol contains MASQUELIER'S® Original OPCs (Oligomeric Proanthocyanidins) extracted from grape seed (*Vitis vinifera*) and French maritime pine bark (*Pinus pinaster*), plus Vitamin C (ascorbic acid).
 >
-> **Protocol context:** Morning supplement #8 in Ignazio's cancer protocol.
+> **Protocol context:** Morning supplement #8 in the cancer protocol.
 
 ---
 
@@ -150,7 +150,7 @@ OPCs amplify the efficacy of chemotherapy drugs:
 
 ## 5. Synergies with Other Protocol Supplements
 
-Anthogenol does not work in isolation — it has **demonstrated synergies** with several other supplements in Ignazio's protocol:
+Anthogenol does not work in isolation — it has **demonstrated synergies** with several other supplements in the protocol:
 
 ### OPC + Resveratrol (Protocol item #7)
 - Low doses of resveratrol + grape seed extract are **significantly more effective at killing colon cancer cells** and suppressing colon cancer stem cells than either agent alone

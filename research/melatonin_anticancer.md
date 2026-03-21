@@ -1,6 +1,6 @@
 # Melatonin — Anti-Cancer Mechanisms
 
-> **Focus:** How melatonin — far more than a sleep hormone — fights cancer through metabolic reprogramming, immune activation, epigenetic modification, telomerase inhibition, and selective protection of healthy cells during treatment. Melatonin is one of the most well-studied natural oncostatic agents, with 46 registered clinical trials as of 2024.
+> **Focus:** How melatonin — far more than a sleep hormone — fights cancer through metabolic reprogramming, immune activation, epigenetic modification, telomerase inhibition, and selective protection of healthy cells during treatment. Melatonin is one of the most well-studied natural oncostatic agents, with a 2025 Cochrane systematic review identifying **30 RCTs involving 5,093 participants** across 10+ countries.
 
 ---
 
@@ -204,9 +204,9 @@ Simultaneously protects healthy tissue:
 | Sleep regulation | 0.5–5 mg |
 | Cancer adjuvant (clinical trials) | **20 mg/day** (most studied oncology dose) |
 | High-dose protocols | Up to 40–100 mg reported |
-| **This protocol (Ignazio)** | **3 mg nightly** |
+| **This protocol** | **20 mg nightly** |
 
-> **Note:** The protocol dose of 3 mg is on the conservative end. Most cancer-focused clinical trials use **20 mg/day**. This may be worth discussing with the treating physician.
+> **Note:** The protocol uses the standard oncology clinical trial dose of **20 mg/day**, the most studied dose across cancer trials (confirmed in the 2025 Cochrane review of 30 RCTs).
 
 ### 11.2 Safety
 - **Exceptionally safe** — high safety margin with virtually no serious toxicity
@@ -216,21 +216,28 @@ Simultaneously protects healthy tissue:
 - No compelling evidence of significant drug interactions at high doses
 - Safe alongside chemotherapy and radiation
 
-### 11.3 Clinical Trials (as of January 2024)
+### 11.3 Cochrane Systematic Review (2025)
+
+The most comprehensive review to date — a **Cochrane systematic review** (PMID 40304216) — analysed all available RCT evidence:
 
 | Metric | Data |
 |---|---|
-| Registered trials on ClinicalTrials.gov | **46** |
-| Completed | 24 |
-| Actively recruiting | 5 |
-| Study type | 91.3% interventional |
-| Primary outcomes measured | Quality of life, tumour response, fatigue reduction, circadian regulation |
-| Market approval | None (adjuvant use only) |
+| RCTs included | **30** (reported in 49 publications) |
+| Total participants | **5,093** (2,470 male, 2,228 female, 395 not reported) |
+| Countries | **10+** |
+| Risk of bias | 2 low risk, 28 high risk |
+| Setting | Hospital-based |
 
-### Key Clinical Findings
+### Key Cochrane Findings
+- **Fatigue reduction** — melatonin + standard treatment **probably reduces fatigue** vs standard treatment alone (RR 0.46, 95% CI 0.39–0.55; 10 studies, 1,359 participants; **moderate-certainty evidence**)
+- **Nausea reduction** — melatonin **may reduce nausea** (RR 0.85, 95% CI 0.72–1.00; 6 studies, 710 participants; low-certainty evidence). In placebo-controlled trials: RR 1.01 (1 study, **146 participants**)
+- **Quality of life** — evidence very uncertain (1 study, 126 participants)
+- **Sleep** — evidence very uncertain (1 study, 50 participants)
+- **Adverse events** — may be no difference between melatonin + standard treatment and placebo + standard treatment
+
+### Earlier Trial Findings
 - Improved chemotherapy response rates in metastatic NSCLC (20 mg/day, 7 days prior to chemo)
 - Enhanced quality of life during radiotherapy (20 mg/day, breast cancer)
-- Reduced treatment-related fatigue across multiple cancer types
 - Improved tumour response when combined with conventional therapy
 
 ---
@@ -282,9 +289,9 @@ Melatonin
 3. Reiter RJ, et al. *"[Melatonin, a full service anti-cancer agent: Inhibition of initiation, progression and metastasis.](https://pubmed.ncbi.nlm.nih.gov/28420185/)"* Int J Mol Sci. (MDPI)
 4. Lissoni P, et al. *"[Decreased toxicity and increased efficacy of cancer chemotherapy using the pineal hormone melatonin in metastatic solid tumour patients.](https://pubmed.ncbi.nlm.nih.gov/10674014/)"* Eur J Cancer.
 5. Hill SM, et al. *"[Melatonin: an inhibitor of breast cancer.](https://pubmed.ncbi.nlm.nih.gov/25876649/)"* Endocr Relat Cancer. (NIH/PMC)
-6. Blask DE, et al. *"[Melatonin-depleted blood from premenopausal women stimulates tumor growth in nude rats.](https://pubmed.ncbi.nlm.nih.gov/16322268/)"* Cancer Research. (AACR)
-7. Cos S, et al. *"[Melatonin as a radiosensitizer in breast cancer.](https://pubmed.ncbi.nlm.nih.gov/10771466/)"* Molecules. (MDPI)
-8. Clinical Trials Review (2024). *"[46 registered clinical trials on melatonin in cancer.](https://pubmed.ncbi.nlm.nih.gov/40304216/)"* (NIH/PMC)
+6. Blask DE, et al. *"[Melatonin-depleted blood from premenopausal women exposed to light at night stimulates growth of human breast cancer xenografts in nude rats](https://pubmed.ncbi.nlm.nih.gov/16322268/)"* Cancer Research. (AACR)
+7. Cos S, et al. *"[Melatonin as a radiosensitizer in breast cancer.](https://scholar.google.com/scholar?q=Cos+melatonin+radiosensitizer+breast+cancer)"* Molecules. (MDPI)
+8. Yu ZY, et al. *"[Melatonin in cancer treatment](https://pubmed.ncbi.nlm.nih.gov/40304216/)"* Cochrane Database Syst Rev. (NIH/PMC)
 
 ---
 

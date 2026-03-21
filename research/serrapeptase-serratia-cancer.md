@@ -340,16 +340,16 @@ Serrapeptase (Serratia)
 
 1. Tiwari M. *"[The role of serratiopeptidase in the resolution of inflammation.](https://pubmed.ncbi.nlm.nih.gov/32104332/)"* Asian Journal of Pharmaceutical Sciences. (NIH/PMC)
 2. Jadhav SB, et al. *"[Serratiopeptidase: Insights into the therapeutic applications.](https://pubmed.ncbi.nlm.nih.gov/33134103/)"* Biotechnology Reports. (MDPI)
-3. Ethiraj R, et al. *"[Serratiopeptidase — an emerging alternative anti-inflammatory drug.](https://pubmed.ncbi.nlm.nih.gov/40430897/)"* (Frontiers in Pharmacology)
-4. Bhagat S, et al. *"[Serratiopeptidase — a systematic review of the existing evidence.](https://pubmed.ncbi.nlm.nih.gov/23380245/)"* International Journal of Surgery. (NIH/PMC)
+3. Ethiraj R, et al. *"[Serratiopeptidase — an emerging alternative anti-inflammatory drug.](https://scholar.google.com/scholar?q=serratiopeptidase+emerging+alternative+anti-inflammatory+drug)"* (Frontiers in Pharmacology)
+4. Bhagat S, et al. *"[Serratiopeptidase: a systematic review of the existing evidence](https://pubmed.ncbi.nlm.nih.gov/23380245/)"* International Journal of Surgery. (NIH/PMC)
 5. Nair SR, et al. *"[Serratiopeptidase and nattokinase in cancer — a review of fibrinolytic enzyme therapy.](https://link.springer.com/article/10.1007/s40452-025-07102-9)"* (NIH/PMC)
 6. Gudipati S, et al. *"[Anti-cancer activity evaluation of serrapeptase and curcumin loaded nanoparticles on HeLa and MCF-7 cell lines.](https://www.sciencedirect.com/science/article/pii/S0928493117344299)"* (NIH/PMC)
-7. Singh PK, et al. *"[Serratiopeptidase: a potential anti-biofilm agent.](https://pubmed.ncbi.nlm.nih.gov/38502196/)"* (MDPI — International Journal of Molecular Sciences)
-8. Selan L, et al. *"[Proteolytic enzymes — a new treatment strategy for prosthetic infections?](https://pubmed.ncbi.nlm.nih.gov/8109925/)"* Antimicrobial Agents and Chemotherapy. (NIH/PMC)
-9. Mazzone A, et al. *"[Evaluation of Serratia peptidase in acute or chronic inflammation of otorhinolaryngology pathology.](https://pubmed.ncbi.nlm.nih.gov/29896797/)"* Journal of International Medical Research.
-10. Papa R, et al. *"[Anti-virulence activity of the metalloproteinase serratiopeptidase.](https://pubmed.ncbi.nlm.nih.gov/30800135/)"* (NIH/PMC)
-11. Muth CM, et al. *"[Fibrin clot shield formation in the tumour microenvironment.](https://pubmed.ncbi.nlm.nih.gov/38723522/)"* Journal of Clinical Oncology / Blood (ASH Publications)
-12. Belapurkar P, et al. *"[In vitro evaluation of anti-cancer activity of serratiopeptidase on Caco-2 cell line.](https://pubmed.ncbi.nlm.nih.gov/40608175/)"* (MDPI — Molecules)
+7. Singh PK, et al. *"[Serratiopeptidase: a potential anti-biofilm agent.](https://scholar.google.com/scholar?q=Singh+Serratiopeptidase+potential+anti-biofilm+agent)"* (MDPI — International Journal of Molecular Sciences)
+8. Selan L, et al. *"[Proteolytic enzymes: a new treatment strategy for prosthetic infections?](https://pubmed.ncbi.nlm.nih.gov/8109925/)"* Antimicrobial Agents and Chemotherapy. (NIH/PMC)
+9. Mazzone A, et al. *"[Evaluation of Serratia peptidase in acute or chronic inflammation of otorhinolaryngology pathology.](https://scholar.google.com/scholar?q=Mazzone+evaluation+Serratia+peptidase+acute+chronic+inflammation+otorhinolaryngology)"* Journal of International Medical Research.
+10. Papa R, et al. *"[Anti-virulence activity of the metalloproteinase serratiopeptidase.](https://scholar.google.com/scholar?q=anti-virulence+activity+metalloproteinase+serratiopeptidase)"* (NIH/PMC)
+11. Tran HCM, et al. *"[The procoagulant signature of cancer cells drives fibrin network formation in tumor microenvironment and impacts its quality. Implications in cancer cell migration and the resistance to anticancer agents](https://pubmed.ncbi.nlm.nih.gov/38723522/)"* Journal of Clinical Oncology / Blood (ASH Publications)
+12. Belapurkar P, et al. *"[In vitro evaluation of anti-cancer activity of serratiopeptidase on Caco-2 cell line.](https://scholar.google.com/scholar?q=anti-cancer+activity+serratiopeptidase+Caco-2+cell+lines)"* (MDPI — Molecules)
 
 ---
 

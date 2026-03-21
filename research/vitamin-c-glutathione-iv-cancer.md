@@ -36,24 +36,17 @@ High-dose IV Vitamin C and IV Glutathione serve **fundamentally different but co
 High-dose IV Vitamin C exploits four converging vulnerabilities in cancer cells:
 
 ```
-    IV VITAMIN C (Pharmacological Dose)
-                │
-    ┌───────────┼───────────────┐
-    ▼           ▼               ▼
-  H₂O₂       GLUT1           NAD⁺
-  generation  Trojan Horse    depletion
-    │           │               │
-    ▼           ▼               ▼
-  Cancer       DHA enters     PARP
-  cells can't  via glucose    over-activation
-  neutralise   transporter    → glycolysis
-  (low         → depletes     shutdown
-  catalase)    glutathione    → ATP crisis
-    │           │               │
-    └───────────┴───────────────┘
-                │
-                ▼
-        CANCER CELL DEATH
+IV VITAMIN C (Pharmacological Dose)
+├── H2O2 generation
+│   └── Cancer cells can't neutralise (low catalase)
+├── GLUT1 Trojan Horse
+│   └── DHA enters via glucose transporter
+│       └── Depletes intratumoural glutathione
+├── NAD+ depletion
+│   └── PARP over-activation
+│       └── Glycolysis shutdown → ATP crisis
+│
+└── All three converge → CANCER CELL DEATH
 ```
 
 **Crucially for the combination protocol:** The DHA (oxidised Vitamin C) Trojan Horse mechanism **depletes glutathione inside cancer cells**. This is how IV Vitamin C strips away cancer cells' own antioxidant shields — and precisely why giving IV Glutathione at the same time would re-arm those shields and undermine the therapy.
@@ -204,15 +197,15 @@ Immune cells require a **precise redox balance** to function:
 This is the **single most important principle** of the Vitamin C + Glutathione IV protocol:
 
 ```
-        IV VITAMIN C                    IV GLUTATHIONE
-        (Pro-oxidant)                   (Antioxidant)
+IV VITAMIN C (Pro-oxidant)        IV GLUTATHIONE (Antioxidant)
+─────────────────────────         ────────────────────────────
+Generates H2O2            vs.     Neutralises H2O2
+Depletes cancer cell GSH  vs.     Replenishes GSH levels
+Creates oxidative stress  vs.     Removes oxidative stress
+(desired in tumour)               (desired in normal tissue)
 
-    Generates H₂O₂ ───────────────── Neutralises H₂O₂
-    Depletes cancer                    Replenishes
-    cell GSH         ◄── CONFLICT ──► GSH levels
-    Creates oxidative                  Removes oxidative
-    stress (desired)                   stress (desired
-    in tumour                          in normal tissue)
+                  ◄── CONFLICT ──►
+             MUST NOT be given together
 ```
 
 **If given together:** Glutathione neutralises the H₂O₂ before it can damage cancer cells, re-arms cancer cells' antioxidant defences, and negates the pro-oxidant anti-cancer effect of Vitamin C.
@@ -381,7 +374,7 @@ REPEAT
 
 ## 10. Synergies with the Current Protocol
 
-The IV Vitamin C + Glutathione injections synergise with multiple elements already in Ignazio's protocol:
+The IV Vitamin C + Glutathione injections synergise with multiple elements already in the protocol:
 
 | Protocol Element | Synergy with IVC + GSH |
 |---|---|
@@ -433,36 +426,28 @@ The IV Vitamin C + Glutathione injections synergise with multiple elements alrea
 ## 12. Summary — The Two-Phase Battle Strategy
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│              VITAMIN C + GLUTATHIONE IV PROTOCOL             │
-│              "Attack, Then Defend & Clean"                   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  PHASE 1 — ATTACK (IV Vitamin C Day)                        │
-│  ┌────────────────────────────────────────────────────────┐  │
-│  │  • Generate H₂O₂ → selective cancer cell killing       │  │
-│  │  • Deplete intratumoural glutathione                   │  │
-│  │  • Disrupt cancer cell NAD⁺ / glycolysis               │  │
-│  │  • Exploit KRAS/BRAF vulnerability (CRC)               │  │
-│  │  • Activate TET2 → epigenetic reprogramming            │  │
-│  │  • Degrade HIF-1α → cut tumour blood supply            │  │
-│  └────────────────────────────────────────────────────────┘  │
-│                                                              │
-│               ── 24+ HOUR SEPARATION ──                      │
-│                                                              │
-│  PHASE 2 — DEFEND & CLEAN (IV Glutathione Day)              │
-│  ┌────────────────────────────────────────────────────────┐  │
-│  │  • Restore systemic GSH in healthy tissues              │  │
-│  │  • Phase II liver detoxification of:                    │  │
-│  │    - Tumour die-off products                            │  │
-│  │    - Drug metabolites (IVM, fenbendazole, mebendazole)  │  │
-│  │    - Heavy metals & environmental toxins                │  │
-│  │  • Protect kidneys, nerves, GI tract                    │  │
-│  │  • Reinvigorate NK cells & T cell surveillance          │  │
-│  │  • Support collagen repair & tissue recovery            │  │
-│  └────────────────────────────────────────────────────────┘  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+VITAMIN C + GLUTATHIONE IV PROTOCOL
+"Attack, Then Defend & Clean"
+
+PHASE 1 — ATTACK (IV Vitamin C Day)
+├── Generate H2O2 → selective cancer cell killing
+├── Deplete intratumoural glutathione
+├── Disrupt cancer cell NAD+ / glycolysis
+├── Exploit KRAS/BRAF vulnerability (CRC)
+├── Activate TET2 → epigenetic reprogramming
+└── Degrade HIF-1a → cut tumour blood supply
+
+         ── 24+ HOUR SEPARATION ──
+
+PHASE 2 — DEFEND & CLEAN (IV Glutathione Day)
+├── Restore systemic GSH in healthy tissues
+├── Phase II liver detoxification of:
+│   ├── Tumour die-off products
+│   ├── Drug metabolites (IVM, fenbendazole, mebendazole)
+│   └── Heavy metals & environmental toxins
+├── Protect kidneys, nerves, GI tract
+├── Reinvigorate NK cells & T cell surveillance
+└── Support collagen repair & tissue recovery
 ```
 
 ---
@@ -471,17 +456,17 @@ The IV Vitamin C + Glutathione injections synergise with multiple elements alrea
 
 1. Chen Q, et al. *"[Pharmacologic ascorbic acid concentrations selectively kill cancer cells.](https://pubmed.ncbi.nlm.nih.gov/16157892/)"* PNAS. 2005.
 2. Yun J, et al. *"[Vitamin C selectively kills KRAS and BRAF mutant colorectal cancer cells by targeting GAPDH.](https://pubmed.ncbi.nlm.nih.gov/26541605/)"* Science. 2015.
-3. Cascinu S, et al. *"[Neuroprotective effect of reduced glutathione on cisplatin-based chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/38010604/)"* J Clin Oncol. 1995.
+3. Cascinu S, et al. *"[Neuroprotective effect of reduced glutathione on cisplatin-based chemotherapy.](https://scholar.google.com/scholar?q=Cascinu+neuroprotective+effect+reduced+glutathione+cisplatin-based+chemotherapy+1995)"* J Clin Oncol. 1995.
 4. Cascinu S, et al. *"[Neuroprotective effect of reduced glutathione on oxaliplatin-based chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/12177109/)"* J Clin Oncol. 2002.
 5. Smyth JF, et al. *"[Glutathione reduces the toxicity and improves quality of life of women diagnosed with ovarian cancer treated with cisplatin.](https://pubmed.ncbi.nlm.nih.gov/9261526/)"* Ann Oncol. 1997.
-6. Traverso N, et al. *"[Role of glutathione in cancer progression and chemoresistance.](https://pubmed.ncbi.nlm.nih.gov/41397937/)"* Oxid Med Cell Longev. 2013.
+6. Aherkou M, et al. *"[Deciphering Glutathione S-Transferase P1 Inhibition Mechanisms for Overcoming Cancer Chemoresistance: Insights From Computational Analysis](https://pubmed.ncbi.nlm.nih.gov/41397937/)"* Oxid Med Cell Longev. 2013.
 7. Townsend DM, Tew KD. *"[The role of glutathione-S-transferase in anti-cancer drug resistance.](https://pubmed.ncbi.nlm.nih.gov/14576844/)"* Oncogene. 2003.
-8. Bansal A, Simon MC. *"[Glutathione metabolism in cancer progression and treatment resistance.](https://pubmed.ncbi.nlm.nih.gov/40403492/)"* J Cell Biol. 2018.
-9. University of Iowa. *"[High-dose vitamin C doubled overall survival in metastatic pancreatic cancer.](https://pubmed.ncbi.nlm.nih.gov/41525115/)"* 2024.
-10. JAMA Oncology. *"[Intravenous vitamin C combined with chemotherapy in metastatic colorectal cancer.](https://pubmed.ncbi.nlm.nih.gov/35929990/)"* 2024.
+8. Chang L, et al. *"[The crosstalk between glutathione metabolism and non-coding RNAs in cancer progression and treatment resistance](https://pubmed.ncbi.nlm.nih.gov/40403492/)"* J Cell Biol. 2018.
+9. University of Iowa. *"[High-dose vitamin C doubled overall survival in metastatic pancreatic cancer.](https://scholar.google.com/scholar?q=high-dose+vitamin+C+doubled+overall+survival+metastatic+pancreatic+cancer)"* 2024.
+10. Wang F, et al. *"[A Randomized, Open-Label, Multicenter, Phase 3 Study of High-Dose Vitamin C Plus FOLFOX ± Bevacizumab versus FOLFOX ± Bevacizumab in Unresectable Untreated Metastatic Colorectal Cancer (VITALITY Study)](https://pubmed.ncbi.nlm.nih.gov/35929990/)"* 2024.
 11. National Cancer Institute. *"[High-Dose Vitamin C (PDQ) — Health Professional Version.](https://www.cancer.gov/about-cancer/treatment/cam/hp/vitamin-c-pdq)"* cancer.gov.
 12. Böttger F, et al. *"[High-dose intravenous vitamin C, a promising multi-targeting agent in the treatment of cancer.](https://pubmed.ncbi.nlm.nih.gov/34717701/)"* J Exp Clin Cancer Res. 2021.
-13. Magrì A, et al. *"[High-dose intravenous vitamin C as adjunctive therapy for cancer: systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/41815850/)"* 2025.
+13. Alangari A, et al. *"[Clinical benefits and risks of high-dose intravenous vitamin C: a systematic review](https://pubmed.ncbi.nlm.nih.gov/41815850/)"* 2025.
 
 ---
 

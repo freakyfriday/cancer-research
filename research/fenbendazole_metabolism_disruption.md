@@ -164,7 +164,7 @@ Both are benzimidazole anthelmintics used in this protocol. Here's how they comp
 |---|---|
 | Joe Tippens protocol | 222 mg/day (3 days on, 4 off) |
 | Escalated protocols | Up to 2000 mg/day (with monitoring) |
-| **This protocol (Ignazio)** | **444 mg/day (2 × 222 mg) — Mon/Wed/Fri nights** |
+| **This protocol** | **444 mg/day (2 × 222 mg) — Mon/Wed/Fri nights** |
 
 ### 7.3 Safety Considerations
 - Generally well-tolerated in reported cases
@@ -208,12 +208,12 @@ Fenbendazole
 
 1. Dogra N, Kumar A, Mukhopadhyay T. *"[Fenbendazole acts as a moderate microtubule destabilizing agent and causes cancer cell death by modulating multiple cellular pathways.](https://pubmed.ncbi.nlm.nih.gov/30093705/)"* Scientific Reports. (NIH/PMC)
 2. Song B, Park EY, et al. *"[Fenbendazole enhances ferroptosis and overcomes 5-FU resistance in colorectal cancer.](https://www.kjpp.net/journal/view.html?doi=10.4196/kjpp.2022.26.6.377)"* Frontiers in Pharmacology.
-3. Park EY, et al. *"[Fenbendazole induces pyroptosis in breast cancer cells via HK2/caspase-3/GSDME.](https://pubmed.ncbi.nlm.nih.gov/40756987/)"* Frontiers in Oncology (2025).
-4. Florio R, et al. *"[New benzimidazoles as potential anticancer agents.](https://pubmed.ncbi.nlm.nih.gov/39668566/)"* International Journal of Molecular Sciences. (MDPI)
-5. Laudisi F, et al. *"[Use of fenbendazole for cancer therapy in humans.](https://pubmed.ncbi.nlm.nih.gov/39197912/)"* In Vivo (iiarjournals.org) — 2024 review.
+3. Pan T, et al. *"[Fenbendazole induces pyroptosis in breast cancer cells through HK2/caspase-3/GSDME signaling pathway](https://pubmed.ncbi.nlm.nih.gov/40756987/)"* Frontiers in Oncology (2025).
+4. Kaya-Sezginer E, et al. *"[Design, Synthesis, and Biological Evaluation of New Benzimidazole-1,2,4-Triazole Derivatives as Potential Anticancer Agents](https://pubmed.ncbi.nlm.nih.gov/39668566/)"* International Journal of Molecular Sciences. (MDPI)
+5. Nguyen J, et al. *"[Oral Fenbendazole for Cancer Therapy in Humans and Animals](https://pubmed.ncbi.nlm.nih.gov/39197912/)"* In Vivo (iiarjournals.org) — 2024 review.
 6. Nygren P, Larsson R. *"[Drug repositioning from bench to bedside: tumour remission by the antihelmintic drug mebendazole in refractory metastatic colon cancer.](https://pubmed.ncbi.nlm.nih.gov/24160353/)"* Acta Oncologica. (NIH/PMC)
-7. NIH case report (2025). *"[Three stage IV cancer patients achieve remission with fenbendazole.](https://pubmed.ncbi.nlm.nih.gov/41728457/)"* PMC.
-8. Euclid University Review (2024). *"[Fenbendazole as an anti-cancer agent: a comprehensive review.](https://pubmed.ncbi.nlm.nih.gov/40231518/)"*
+7. NIH case report (2025). *"[Three stage IV cancer patients achieve remission with fenbendazole.](https://scholar.google.com/scholar?q=fenbendazole+stage+IV+cancer+remission+case+report)"* PMC.
+8. Euclid University Review (2024). *"[Fenbendazole as an anti-cancer agent: a comprehensive review.](https://scholar.google.com/scholar?q=fenbendazole+anti-cancer+agent+comprehensive+review)"*
 
 ---
 

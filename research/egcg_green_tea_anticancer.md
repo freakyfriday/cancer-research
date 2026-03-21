@@ -196,7 +196,7 @@ EGCG has **poor oral bioavailability** — only a small fraction reaches the blo
 | Safe daily intake (established) | 338 mg EGCG |
 | Cancer prevention trials | 600–800 mg/day |
 | Upper limit (with monitoring) | ≤800 mg/day |
-| **This protocol (Ignazio)** | **Green Tea (EGCG) supplement — daily at lunch** |
+| **This protocol** | **Green Tea (EGCG) supplement — daily at lunch** |
 
 ### 9.3 Safety
 - Generally well-tolerated at ≤800 mg/day
@@ -255,12 +255,12 @@ Green Tea EGCG
 ## Key References
 
 1. Singh BN, Shankar S, Srivastava RK. *"[Green tea catechin, epigallocatechin-3-gallate (EGCG): mechanisms, perspectives and clinical applications.](https://pubmed.ncbi.nlm.nih.gov/21827739/)"* Biochem Pharmacol. (NIH/PMC)
-2. Yang CS, Wang H. *"[Cancer preventive activities of tea catechins.](https://pubmed.ncbi.nlm.nih.gov/41507863/)"* Molecules. (MDPI)
+2. Yang CS, Wang H. *"[Cancer preventive activities of tea catechins.](https://scholar.google.com/scholar?q=Yang+CS+Wang+cancer+preventive+activities+tea+catechins)"* Molecules. (MDPI)
 3. Fang MZ, et al. *"[Tea polyphenol (-)-epigallocatechin-3-gallate inhibits DNA methyltransferase and reactivates methylation-silenced genes in cancer cell lines.](https://pubmed.ncbi.nlm.nih.gov/14633667/)"* Cancer Research. (AACR)
-4. Jung YD, Ellis LM. *"[Inhibition of tumour invasion and angiogenesis by epigallocatechin gallate (EGCG), a major component of green tea.](https://pubmed.ncbi.nlm.nih.gov/11846837/)%2C%20a%20major%20component%20of%20green%20tea)"* Int J Exp Pathol. (NIH/PMC)
-5. Zhou Y, et al. *"[EGCG modulates the tumor microenvironment and enhances immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41623584/)"* Frontiers in Immunology (2024).
+4. Jung YD, Ellis LM. *"[Inhibition of tumour invasion and angiogenesis by epigallocatechin gallate (EGCG), a major component of green tea.](https://pubmed.ncbi.nlm.nih.gov/11846837/)"* Int J Exp Pathol. (NIH/PMC)
+5. Zhou Y, et al. *"[EGCG modulates the tumor microenvironment and enhances immunotherapy.](https://scholar.google.com/scholar?q=EGCG+modulates+tumor+microenvironment+enhances+immunotherapy)"* Frontiers in Immunology (2024).
 6. Deng YT, Lin JK. *"[EGCG inhibits the invasion of highly invasive CL1-5 lung cancer cells through suppressing MMP-2 expression.](https://pubmed.ncbi.nlm.nih.gov/22082235/)"* J Agric Food Chem. (NIH/PMC)
-7. Li N, et al. *"[EGCG acts as an immune checkpoint inhibitor by reducing PD-L1 expression.](https://pubmed.ncbi.nlm.nih.gov/36822240/)"* Molecules. (MDPI)
+7. Li N, et al. *"[EGCG acts as an immune checkpoint inhibitor by reducing PD-L1 expression.](https://scholar.google.com/scholar?q=EGCG+immune+checkpoint+inhibitor+PD-L1+expression)"* Molecules. (MDPI)
 8. CATCH-B Trial — ClinicalTrials.gov. Phase II EGCG for liver cancer prevention.
 
 ---

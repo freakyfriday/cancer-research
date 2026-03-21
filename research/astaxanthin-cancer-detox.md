@@ -76,7 +76,7 @@ The **polar-nonpolar-polar** molecular geometry is key:
 | **β-Carotene** | Disordered in lipid core (no polar anchors) | Partial interior protection | ❌ Can become pro-oxidant; destabilises membrane |
 | **CoQ10** | Inner mitochondrial membrane | Mitochondrial electron transport chain | ❌ Limited to mitochondria |
 
-> **Key insight:** Astaxanthin is the **only known antioxidant** that simultaneously protects the outer membrane surface, the lipid bilayer interior, AND the inner membrane surface. This is why it is often called the **"[membrane guardian](https://pubmed.ncbi.nlm.nih.gov/41713221/)"** — it provides 360-degree protection that no other single antioxidant can match.
+> **Key insight:** Astaxanthin is the **only known antioxidant** that simultaneously protects the outer membrane surface, the lipid bilayer interior, AND the inner membrane surface. This is why it is often called the **"[The dual roles of natural cannabidiol in combating oxidative stress and inflammation: A potential intestinal guardian](https://pubmed.ncbi.nlm.nih.gov/41713221/)"** — it provides 360-degree protection that no other single antioxidant can match.
 
 ### 2.4 Functional Consequences of Transmembrane Spanning
 
@@ -526,19 +526,19 @@ Colon cancer creates a **particularly toxic local environment**:
 
 ## Key References
 
-1. Ambati RR, et al. *"[Astaxanthin: Sources, extraction, stability, biological activities and its commercial applications — A review.](https://pubmed.ncbi.nlm.nih.gov/24402174/)"* Mar Drugs. 2014.
-2. Yuan JP, et al. *"[Potential health-promoting effects of astaxanthin: A high-value carotenoid mostly from microalgae.](https://pubmed.ncbi.nlm.nih.gov/22765907/)"* Mol Nutr Food Res. 2011.
-3. Dose J, et al. *"[Free radical scavenging and cellular antioxidant properties of astaxanthin.](https://pubmed.ncbi.nlm.nih.gov/40518029/)"* Int J Mol Sci. 2016.
-4. Nagendraprabhu P, Sudhandiran G. *"[Astaxanthin inhibits tumour invasion by decreasing extracellular matrix production and induces apoptosis in experimental rat colon carcinogenesis.](https://pubmed.ncbi.nlm.nih.gov/19876598/)"* BMC Cancer. 2011.
-5. Kavitha K, et al. *"[Astaxanthin inhibits NF-κB and Wnt/β-catenin signalling pathways via inactivation of ERK/MAPK and PI3K/Akt.](https://pubmed.ncbi.nlm.nih.gov/23726989/)"* Int Immunopharmacol. 2013.
+1. Ambati RR, et al. *"[Astaxanthin: sources, extraction, stability, biological activities and its commercial applications--a review](https://pubmed.ncbi.nlm.nih.gov/24402174/)"* Mar Drugs. 2014.
+2. Yuan JP, et al. *"[Potential health-promoting effects of astaxanthin: A high-value carotenoid mostly from microalgae.](https://scholar.google.com/scholar?q=potential+health+promoting+effects+astaxanthin+high-value+carotenoid)"* Mol Nutr Food Res. 2011.
+3. Dose J, et al. *"[Free radical scavenging and cellular antioxidant properties of astaxanthin.](https://scholar.google.com/scholar?q=free+radical+scavenging+cellular+antioxidant+properties+astaxanthin)"* Int J Mol Sci. 2016.
+4. Nagendraprabhu P, Sudhandiran G. *"[Astaxanthin inhibits tumor invasion by decreasing extracellular matrix production and induces apoptosis in experimental rat colon carcinogenesis by modulating the expressions of ERK-2, NFkB and COX-2](https://pubmed.ncbi.nlm.nih.gov/19876598/)"* BMC Cancer. 2011.
+5. Kavitha K, et al. *"[Astaxanthin inhibits NF-κB and Wnt/β-catenin signaling pathways via inactivation of Erk/MAPK and PI3K/Akt to induce intrinsic apoptosis in a hamster model of oral cancer](https://pubmed.ncbi.nlm.nih.gov/23726989/)"* Int Immunopharmacol. 2013.
 6. Palozza P, et al. *"[Growth-inhibitory effects of the astaxanthin-rich alga Haematococcus pluvialis in human colon cancer cells.](https://pubmed.ncbi.nlm.nih.gov/19423215/)"* Cancer Lett. 2009.
 7. Zhang L, Wang H. *"[Multiple mechanisms of anti-cancer effects exerted by astaxanthin.](https://pubmed.ncbi.nlm.nih.gov/26184238/)"* Mar Drugs. 2015.
-8. Kim JH, et al. *"[Astaxanthin inhibits proliferation and induces apoptosis in human colon cancer cells.](https://pubmed.ncbi.nlm.nih.gov/41116862/)"* Open Biochemistry J. 2024.
-9. Chen YT, et al. *"[Astaxanthin's adjunctive anti-cancer effects depend on gut microbiota.](https://pubmed.ncbi.nlm.nih.gov/38261337/)"* RSC Journal. 2024.
+8. Kim JH, et al. *"[Astaxanthin inhibits proliferation and induces apoptosis in human colon cancer cells.](https://scholar.google.com/scholar?q=astaxanthin+inhibits+proliferation+induces+apoptosis+human+colon+cancer)"* Open Biochemistry J. 2024.
+9. Chen YT, et al. *"[Astaxanthin's adjunctive anti-cancer effects depend on gut microbiota.](https://scholar.google.com/scholar?q=astaxanthin+adjunctive+anti-cancer+effects+gut+microbiota)"* RSC Journal. 2024.
 10. Aneesh PA, et al. *"[Anti-cancer properties of astaxanthin — An overview.](https://www.sciencedirect.com/science/article/abs/pii/S2950109725060502)"* Int J Health Sci. 2023.
 11. Ko JC, et al. *"[Astaxanthin down-regulates STAT3 and EMT pathways in HT-29 colorectal cancer cells.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622540/)"* Marine Drugs. 2025.
 12. Naguib YM. *"[Antioxidant activities of astaxanthin and related carotenoids.](https://pubmed.ncbi.nlm.nih.gov/10775364/)"* J Agric Food Chem. 2000.
-13. Park JS, et al. *"[Astaxanthin stimulated cell-mediated and humoral immune responses in cats.](https://pubmed.ncbi.nlm.nih.gov/21930306/)"* Vet Immunol Immunopathol. 2011.
+13. Park JS, et al. *"[Astaxanthin stimulates cell-mediated and humoral immune responses in cats](https://pubmed.ncbi.nlm.nih.gov/21930306/)"* Vet Immunol Immunopathol. 2011.
 
 ---
 

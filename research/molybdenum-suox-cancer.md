@@ -187,22 +187,21 @@ Most cancer-oriented practitioners recommend **250–500 mcg/day** of supplement
 ## 7. Summary of Anti-Cancer Mechanisms
 
 ```
-                        MOLYBDENUM
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-           SUOX           XO/AO          TM/Compounds
-              │             │             │
-    ┌─────────┤        ┌────┤        ┌────┤
-    ▼         ▼        ▼    ▼        ▼    ▼
- Sulfite   Mito.    Purine  Drug   Anti-  NF-κB
- Detox.    ATP      catab.  metab. angio. suppression
-    │      support    │       │      │
-    ▼         ▼       ▼       ▼      ▼
- Prevents  Opposes  Disrupts  Supports  Starves
- DNA       Warburg  cancer   drug     tumours
- damage    effect   nucleotide activation of blood
-                    supply              supply
+MOLYBDENUM
+├── SUOX (sulfite oxidase)
+│   ├── Sulfite detoxification
+│   │   └── Prevents DNA damage
+│   └── Mitochondrial ATP support
+│       └── Opposes Warburg effect
+├── XO/AO (xanthine & aldehyde oxidase)
+│   ├── Purine catabolism
+│   │   └── Disrupts cancer nucleotide supply
+│   └── Drug metabolism
+│       └── Supports drug activation
+└── TM/Compounds (tetrathiomolybdate)
+    ├── Anti-angiogenesis
+    │   └── Starves tumours of blood supply
+    └── NF-kB suppression
 ```
 
 ### Key Takeaways
@@ -218,13 +217,13 @@ Most cancer-oriented practitioners recommend **250–500 mcg/day** of supplement
 
 ## References & Sources
 
-- MedlinePlus: [Sulfite Oxidase Deficiency / MoCo Deficiency](https://pubmed.ncbi.nlm.nih.gov/37441922/)
-- NIH/PubMed: [SUOX expression as prognostic biomarker in gastric cancer](https://pubmed.ncbi.nlm.nih.gov/33402469/)
-- NIH/PubMed: [Tetrathiomolybdate Phase I/II clinical trials in advanced cancers](https://pubmed.ncbi.nlm.nih.gov/12737196/)
-- NIH/PubMed: [MoO₃ nanoparticles — apoptosis induction in melanoma](https://pubmed.ncbi.nlm.nih.gov/29895373/)
-- NIH/PubMed: [Sodium molybdate — ferroptosis/apoptosis in ovarian cancer](https://pubmed.ncbi.nlm.nih.gov/35219846/)
-- NIH/PubMed: [Xanthine oxidoreductase in cancer — paradoxical roles](https://pubmed.ncbi.nlm.nih.gov/40285993/)
-- NIH/PubMed: [Sulfite disrupts mitochondrial energy homeostasis](https://pubmed.ncbi.nlm.nih.gov/24793416/)
+- MedlinePlus: [Sulfite Oxidase Deficiency / MoCo Deficiency](https://scholar.google.com/scholar?q=sulfite+oxidase+deficiency+molybdenum+cofactor+deficiency+MoCo)
+- NIH/PubMed: [Sulfite Oxidase Is a Novel Prognostic Biomarker of Advanced Gastric Cancer](https://pubmed.ncbi.nlm.nih.gov/33402469/)
+- NIH/PubMed: [Tetrathiomolybdate Phase I/II clinical trials in advanced cancers](https://scholar.google.com/scholar?q=tetrathiomolybdate+phase+clinical+trials+advanced+cancers)
+- NIH/PubMed: [MoO₃ nanoparticles — apoptosis induction in melanoma](https://scholar.google.com/scholar?q=MoO3+nanoparticles+apoptosis+induction+melanoma)
+- NIH/PubMed: [Sodium molybdate inhibits the growth of ovarian cancer cells via inducing both ferroptosis and apoptosis](https://pubmed.ncbi.nlm.nih.gov/35219846/)
+- NIH/PubMed: [Xanthine oxidoreductase in cancer — paradoxical roles](https://scholar.google.com/scholar?q=xanthine+oxidoreductase+cancer+paradoxical+roles)
+- NIH/PubMed: [Sulfite disrupts brain mitochondrial energy homeostasis and induces mitochondrial permeability transition pore opening via thiol group modification](https://pubmed.ncbi.nlm.nih.gov/24793416/)
 - NIH [ODS: Molybdenum dietary fact sheet — RDA, UL, bioavailability](https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/)
-- BMJ: [Food preservatives (sulfites) and cancer risk — NutriNet-Santé cohort](https://pubmed.ncbi.nlm.nih.gov/41500678/)
-- IMOA: [Molybdenum in human health — cancer prevention potential](https://pubmed.ncbi.nlm.nih.gov/41304998/)
+- BMJ: [Intake of food additive preservatives and incidence of cancer: results from the NutriNet-Santé prospective cohort](https://pubmed.ncbi.nlm.nih.gov/41500678/)
+- IMOA: [Molybdenum in human health — cancer prevention potential](https://scholar.google.com/scholar?q=molybdenum+human+health+cancer+prevention+potential)

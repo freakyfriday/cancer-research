@@ -86,7 +86,7 @@ export const onWaking: Supplement[] = [
     name: "D-Serine",
     action: "Block cancer one-carbon metabolism",
     notes: "2–2.5 g (30 mg/kg) powder in water. Competitively blocks mitochondrial L-serine transport → depletes NADPH/GSH → cancer defenceless against Vit C/HBOT. Ramp: 1 g wk 1 → 1.5 g wk 2 → full dose wk 3.",
-    slugs: ["d-serine-cancer-metabolism"],
+    slugs: ["d-serine-cancer-metabolism", "d-serine-mb-rlt-combined-synergy"],
     badge: { type: "new", label: "NEW" },
   },
 ];
@@ -399,6 +399,7 @@ export const injections: Injection[] = [
     dose: "1–2 mg IM injection",
     frequency: "Weekly → monthly",
     notes: "Active form — no liver conversion needed. Supports methylation.",
+    slugs: ["methylcobalamin-b12-cancer"],
   },
 ];
 

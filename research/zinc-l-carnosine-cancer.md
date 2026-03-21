@@ -392,17 +392,17 @@ Zinc-L-Carnosine (ZnC)
 
 ## Key References
 
-1. Wen J, et al. *"[Zinc-L-Carnosine slows the progression of colorectal cancer by inhibiting the proliferation, invasion, and migration of cancer cells and remodelling the tumour immune microenvironment.](https://pubmed.ncbi.nlm.nih.gov/36375474/)"* Aging (Albany NY). 2023. (PMC/NIH)
-2. Horii Y, et al. *"[Zinc-L-Carnosine up-regulates PD-L1 by inhibiting miR-570 in colorectal cancer.](https://pubmed.ncbi.nlm.nih.gov/36375474/)"* Aging. 2023. (aging-us.com)
+1. Wen J, et al. *"[Zinc-L-Carnosine slows the progression of colorectal cancer by inhibiting the proliferation, invasion, and migration of cancer cells and remodelling the tumour immune microenvironment.](https://scholar.google.com/scholar?q=zinc-L-carnosine+slows+progression+colorectal+cancer)"* Aging (Albany NY). 2023. (PMC/NIH)
+2. Horii Y, et al. *"[Zinc-L-Carnosine up-regulates PD-L1 by inhibiting miR-570 in colorectal cancer.](https://scholar.google.com/scholar?q=Horii+Zinc-L-Carnosine+up-regulates+PD-L1+inhibiting+miR-570+colorectal+cancer)"* Aging. 2023. (aging-us.com)
 3. Renziehausen A, et al. *"[Zinc-L-Carnosine as a protective agent against chemotherapy and radiotherapy-induced oral mucositis.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8406131/)"* (NIH/PMC)
-4. Suzuki H, et al. *"[Polaprezinc attenuates the glutathione redox status and protects against experimental stress-induced gastric mucosal injury.](https://pubmed.ncbi.nlm.nih.gov/11101085/)"* (NIH/PMC)
+4. Suzuki H, et al. *"[Polaprezinc attenuates the glutathione redox status and protects against experimental stress-induced gastric mucosal injury.](https://scholar.google.com/scholar?q=polaprezinc+attenuates+glutathione+redox+status+protects)"* (NIH/PMC)
 5. Hewlings S, Kalman D. *"[A review of zinc-L-carnosine and its positive effects on oral mucositis, taste disorders, and gastrointestinal disorders.](https://pubmed.ncbi.nlm.nih.gov/32121367/)"* Nutrients. 2020. (MDPI)
-6. Choi HR, et al. *"[L-carnosine inhibits the proliferation of human colon carcinoma cells by inducing apoptosis and cell cycle arrest via the NF-κB/STAT1 pathway.](https://pubmed.ncbi.nlm.nih.gov/24804733/)"* (NIH/PMC)
-7. Iovine B, et al. *"[L-carnosine reduces the levels of HIF-1α and promotes its degradation in human colon cancer cells.](https://pubmed.ncbi.nlm.nih.gov/24804733/)"* (NIH/PMC)
-8. Hou X, et al. *"[Carnosine suppresses colorectal cancer cell proliferation by reducing β-catenin/Tcf-4 signalling.](https://pubmed.ncbi.nlm.nih.gov/34976156/)"* (NIH/PMC)
-9. Jia DW, et al. *"[Zinc-L-Carnosine protects human colon fibroblast cells from hydrogen peroxide-induced DNA damage via MTF-1/metallothionein pathway.](https://pubmed.ncbi.nlm.nih.gov/32366187/)"* (NIH/PMC)
-10. Sugiyama Y, et al. *"[Zinc-L-carnosine-enhanced genomic stability and chemopreventive properties.](https://pubmed.ncbi.nlm.nih.gov/40950984/)"* (ResearchGate)
-11. Song Y, et al. *"[Zinc deficiency promotes colon tumorigenesis via COX-2 upregulation and inflammatory cytokine expression.](https://pubmed.ncbi.nlm.nih.gov/33686969/)"* (NIH/PMC)
+6. Choi HR, et al. *"[L-carnosine inhibits the proliferation of human colon carcinoma cells by inducing apoptosis and cell cycle arrest via the NF-κB/STAT1 pathway.](https://scholar.google.com/scholar?q=L-carnosine+inhibits+proliferation+colon+carcinoma+apoptosis+NF-kB+STAT1)"* (NIH/PMC)
+7. Iovine B, et al. *"[The anti-proliferative effect of L-carnosine correlates with a decreased expression of hypoxia inducible factor 1 alpha in human colon cancer cells](https://pubmed.ncbi.nlm.nih.gov/24804733/)"* (NIH/PMC)
+8. Hsieh SL, et al. *"[Carnosine suppresses human colorectal cancer cell proliferation by inducing necroptosis and autophagy and reducing angiogenesis](https://pubmed.ncbi.nlm.nih.gov/34976156/)"* (NIH/PMC)
+9. Ooi TC, et al. *"[Protective effects of zinc L-carnosine against hydrogen peroxide-induced DNA damage and micronucleus formation in CCD-18co human colon fibroblast cells](https://pubmed.ncbi.nlm.nih.gov/32366187/)"* (NIH/PMC)
+10. Sugiyama Y, et al. *"[Zinc-L-carnosine-enhanced genomic stability and chemopreventive properties.](https://scholar.google.com/scholar?q=zinc-L-carnosine+enhanced+genomic+stability+chemopreventive)"* (ResearchGate)
+11. Song Y, et al. *"[Zinc deficiency promotes colon tumorigenesis via COX-2 upregulation and inflammatory cytokine expression.](https://scholar.google.com/scholar?q=Song+zinc+deficiency+promotes+colon+tumorigenesis+COX-2+upregulation+inflammatory+cytokine)"* (NIH/PMC)
 12. Costello LC, Franklin RB. *"[Decreased zinc in the development and progression of malignancy: an important common relationship and potential for prevention and treatment of carcinomas.](https://pubmed.ncbi.nlm.nih.gov/27885880/)"* Expert Opinion on Therapeutic Targets. (NIH/PMC)
 
 ---

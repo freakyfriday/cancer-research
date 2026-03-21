@@ -31,14 +31,12 @@ Resveratrol (3,5,4′-trihydroxystilbene) is a **natural polyphenolic stilbene**
 Resveratrol is a **multi-target agent** that intervenes at virtually every stage of carcinogenesis: initiation, promotion, and progression. The diagram below summarises the major axes.
 
 ```
-                        ┌──────────────────┐
-                        │   RESVERATROL     │
-                        └────────┬─────────┘
-           ┌─────────────┬───────┼───────┬──────────────┐
-           ▼             ▼       ▼       ▼              ▼
-      Apoptosis     Cell Cycle  Anti-    Anti-     Chemo / Radio
-      Induction     Arrest      Angio-   Metastasis Sensitisation
-                                genesis
+RESVERATROL
+├── Apoptosis Induction
+├── Cell Cycle Arrest
+├── Anti-Angiogenesis
+├── Anti-Metastasis
+└── Chemo / Radio Sensitisation
 ```
 
 ---
@@ -268,7 +266,7 @@ To overcome bioavailability challenges, researchers are developing:
 
 ## 10. References & Sources
 
-- NIH [/ PubMed Central — Multiple systematic reviews and meta-analyses on resveratrol and cancer (2024–2025)](https://pubmed.ncbi.nlm.nih.gov/41861357/))
+- NIH [/ PubMed Central — Multiple systematic reviews and meta-analyses on resveratrol and cancer (2024–2025)](https://scholar.google.com/scholar?q=resveratrol+cancer+systematic+review+meta-analysis)
 - Frontiers in Pharmacology — Resveratrol in cancer therapy: molecular mechanisms and therapeutic potential
 - MDPI Molecules / Biomedicines — Comprehensive reviews of resveratrol's anti-cancer signalling pathways
 - Linus Pauling Institute (Oregon State University) — Resveratrol micronutrient information

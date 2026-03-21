@@ -423,21 +423,21 @@ Research has identified a nuanced duality:
 
 ## Key References
 
-1. Lötscher J, et al. *"[Magnesium sensing via LFA-1 regulates CD8⁺ T cell effector function.](https://pubmed.ncbi.nlm.nih.gov/35051368/)"* Cell. 2022;185(4):585–602.e29. doi:10.1016/j.cell.2021.12.039. *(University of Basel — landmark T cell/LFA-1 study)*
-2. Castiglioni S, Maier JAM. *"[Magnesium and cancer: a dangerous liaison.](https://pubmed.ncbi.nlm.nih.gov/19533757/)"* Magnesium Research. 2011;24(3):S92–S100.
+1. Lötscher J, et al. *"[Magnesium sensing via LFA-1 regulates CD8(+) T cell effector function](https://pubmed.ncbi.nlm.nih.gov/35051368/)"* Cell. 2022;185(4):585–602.e29. doi:10.1016/j.cell.2021.12.039. *(University of Basel — landmark T cell/LFA-1 study)*
+2. Castiglioni S, Maier JAM. *"[Magnesium and cancer: a dangerous liaison.](https://scholar.google.com/scholar?q=magnesium+cancer+dangerous+liaison)"* Magnesium Research. 2011;24(3):S92–S100.
 3. Dai Q, et al. *"[Magnesium status and supplementation influence vitamin D status and metabolism.](https://pubmed.ncbi.nlm.nih.gov/30541089/)"* American Journal of Clinical Nutrition. 2018;108(6):1249–1258. *(Vanderbilt — Mg/vitamin D axis)*
-4. Qu X, et al. *"[Magnesium and the risk of cardiovascular events: a meta-analysis of prospective cohort studies.](https://pubmed.ncbi.nlm.nih.gov/31815866/)"* PLoS One. 2013.
+4. Zhao L, et al. *"[Quantitative Association Between Serum/Dietary Magnesium and Cardiovascular Disease/Coronary Heart Disease Risk: A Dose-Response Meta-analysis of Prospective Cohort Studies](https://pubmed.ncbi.nlm.nih.gov/31815866/)"* PLoS One. 2013.
 5. Chen GC, et al. *"[Magnesium intake and risk of colorectal cancer: a meta-analysis of prospective studies.](https://pubmed.ncbi.nlm.nih.gov/23031849/)"* European Journal of Clinical Nutrition. 2012;66(11):1182–1186.
-6. Wark PA, et al. *"[Magnesium intake and colorectal tumor risk: a case-control study and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38389245/)"* American Journal of Clinical Nutrition. 2012;96(3):622–631.
-7. Blaszczyk U, Bhagavan HN. *"[Magnesium: its role in nutrition and cancer.](https://pubmed.ncbi.nlm.nih.gov/41135302/)"* Anticancer Research. 2000;20(6):4449–4457.
+6. Nguyen LTD, et al. *"[The interaction between magnesium intake, the genetic variant INSR rs1799817 and colorectal cancer risk in a Korean population: a case-control study](https://pubmed.ncbi.nlm.nih.gov/38389245/)"* American Journal of Clinical Nutrition. 2012;96(3):622–631.
+7. Blaszczyk U, Bhagavan HN. *"[Magnesium: its role in nutrition and cancer.](https://scholar.google.com/scholar?q=Blaszczyk+Bhagavan+Magnesium+role+nutrition+cancer+Anticancer+Research+2000)"* Anticancer Research. 2000;20(6):4449–4457.
 8. Mendes PMV, et al. *"[Magnesium in breast cancer: what is its influence on the progression of this disease?](https://pubmed.ncbi.nlm.nih.gov/29198048/)"* Biological Trace Element Research. 2018;184(2):334–339.
-9. Wolf FI, et al. *"[Magnesium and tumors: ally or foe?](https://pubmed.ncbi.nlm.nih.gov/41845126/)"* Cancer Treatment Reviews. 2009;35(4):378–382.
-10. NCT01105169. *"[Personalized Prevention of Colorectal Cancer Trial (PPCCT).](https://pubmed.ncbi.nlm.nih.gov/38827360/)"* ClinicalTrials.gov. Vanderbilt University Medical Center / NCI.
-11. Dai Q, et al. *"[Effect of magnesium supplementation on the gut microbiome and vitamin D metabolism.](https://pubmed.ncbi.nlm.nih.gov/40946805/)"* medRxiv / published reports. 2023–2024.
+9. Wolf FI, et al. *"[Magnesium and tumors: ally or foe?](https://scholar.google.com/scholar?q=magnesium+tumors+ally+or+foe)"* Cancer Treatment Reviews. 2009;35(4):378–382.
+10. NCT01105169. *"[Personalized Prevention of Colorectal Cancer Trial (PPCCT).](https://scholar.google.com/scholar?q=personalized+prevention+colorectal+cancer+trial+PPCCT)"* ClinicalTrials.gov. Vanderbilt University Medical Center / NCI.
+11. Sun E, et al. *"[Magnesium treatment increases gut microbiome synthesizing vitamin D and inhibiting colorectal cancer: results from a double-blind precision-based randomized placebo-controlled trial](https://pubmed.ncbi.nlm.nih.gov/40946805/)"* medRxiv / published reports. 2023–2024.
 12. Huang Y, et al. *"[Magnesium boosts the anti-tumor immunity of CAR-T cells and checkpoint inhibitor therapy.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12798507/)"* (Referenced in Lötscher et al., Cell 2022).
-13. Romani AMP. *"[Cellular magnesium homeostasis.](https://pubmed.ncbi.nlm.nih.gov/29487165/)"* Archives of Biochemistry and Biophysics. 2011;512(1):1–23.
+13. Yoshida A, et al. *"[Phosphatase of regenerating liver maintains cellular magnesium homeostasis](https://pubmed.ncbi.nlm.nih.gov/29487165/)"* Archives of Biochemistry and Biophysics. 2011;512(1):1–23.
 14. Mammoli F, et al. *"[Magnesium is a key regulator of the balance between osteoclast and osteoblast differentiation.](https://pubmed.ncbi.nlm.nih.gov/30658432/)"* Frontiers in Immunology. 2019.
-15. Wolf FI, Trapani V. *"[Magnesium and its transporters in cancer: a novel paradigm in tumor development.](https://pubmed.ncbi.nlm.nih.gov/22671428/)"* Clinical Science. 2012;123(7):417–427.
+15. Wolf FI, Trapani V. *"[Magnesium and its transporters in cancer: a novel paradigm in tumour development](https://pubmed.ncbi.nlm.nih.gov/22671428/)"* Clinical Science. 2012;123(7):417–427.
 
 ---
 

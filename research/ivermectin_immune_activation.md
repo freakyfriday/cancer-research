@@ -120,7 +120,7 @@ Beyond immune activation, Ivermectin attacks cancer through multiple parallel me
 | Standard antiparasitic | 150–400 µg/kg (single dose) |
 | Cancer protocols (integrative) | Up to 24 mg/day, 6 days/week |
 | Aggressive cancer protocols | Up to 1 mg/kg/day |
-| **This protocol (Ignazio)** | **120 mg/day (10 × 12 mg tablets) with ~50 g fat** |
+| **This protocol** | **120 mg/day (10 × 12 mg tablets) with ~50 g fat** |
 
 > ⚠️ **Important:** The protocol dose of 120 mg/day is significantly higher than standard antiparasitic dosing. Fat co-administration is critical for bioavailability (Ivermectin is highly lipophilic).
 
@@ -167,10 +167,10 @@ Cancer Cell undergoes Immunogenic Cell Death (ICD)
 
 ## Key References
 
-1. Draganov D, et al. *"[Ivermectin converts cold tumors hot and synergizes with immune checkpoint blockade for treatment of breast cancer.](https://pubmed.ncbi.nlm.nih.gov/41760676/)"* NPJ Breast Cancer. (NIH/PMC)
+1. Draganov D, et al. *"[Ivermectin converts cold tumors hot and synergizes with immune checkpoint blockade for treatment of breast cancer.](https://pubmed.ncbi.nlm.nih.gov/33654071/)"* NPJ Breast Cancer. (NIH/PMC)
 2. Draganov D, et al. *Ivermectin induces immunogenic cell death in breast tumors.* bioRxiv preprint.
 3. Juarez M, et al. *"[The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug.](https://pubmed.ncbi.nlm.nih.gov/29511601/)"* Am J Cancer Res. (NIH/PMC)
-4. Dominguez-Gomez G, et al. *"[Ivermectin as an inhibitor of cancer stem-like cells.](https://pubmed.ncbi.nlm.nih.gov/29257278/)"* Molecular Biology Reports. (NIH/PMC)
+4. Dominguez-Gomez G, et al. *"[Ivermectin as an inhibitor of cancer stem‑like cells](https://pubmed.ncbi.nlm.nih.gov/29257278/)"* Molecular Biology Reports. (NIH/PMC)
 5. Liu J, et al. *"[Ivermectin induces autophagy-mediated cell death through the AKT/mTOR signaling pathway in glioma cells.](https://pubmed.ncbi.nlm.nih.gov/31755894/)"* Bioscience Reports.
 6. Tang M, et al. *"[Ivermectin, a potential anticancer drug derived from an antiparasitic drug.](https://pubmed.ncbi.nlm.nih.gov/32971268/)"* Pharmacological Research. (NIH/PMC)
 7. Integrative Cancer Care. *"[Ivermectin: A Potential Breakthrough in Cancer Immunotherapy.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066114/)"*

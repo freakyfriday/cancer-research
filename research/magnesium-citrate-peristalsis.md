@@ -297,10 +297,10 @@ EVENING (≥2 hrs after dinner, empty stomach):
 1. Walker AF, et al. *"[Mg citrate found more bioavailable than other Mg preparations in a randomised, double-blind study.](https://pubmed.ncbi.nlm.nih.gov/14596323/)"* Magnesium Research. 2003;16(3):183–191.
 2. Lindberg JS, et al. *"[Magnesium bioavailability from magnesium citrate and magnesium oxide.](https://pubmed.ncbi.nlm.nih.gov/2407766/)"* Journal of the American College of Nutrition. 1990;9(1):48–55.
 3. Firoz M, Graber M. *"[Bioavailability of US commercial magnesium preparations.](https://pubmed.ncbi.nlm.nih.gov/11794633/)"* Magnesium Research. 2001;14(4):257–262.
-4. Lötscher J, et al. *"[Magnesium sensing via LFA-1 regulates CD8⁺ T cell effector function.](https://pubmed.ncbi.nlm.nih.gov/35051368/)"* Cell. 2022;185(4):585–602.e29. *(LFA-1 T cell mechanism)*
+4. Lötscher J, et al. *"[Magnesium sensing via LFA-1 regulates CD8(+) T cell effector function](https://pubmed.ncbi.nlm.nih.gov/35051368/)"* Cell. 2022;185(4):585–602.e29. *(LFA-1 T cell mechanism)*
 5. Dai Q, et al. *"[Magnesium status and supplementation influence vitamin D status and metabolism.](https://pubmed.ncbi.nlm.nih.gov/30541089/)"* American Journal of Clinical Nutrition. 2018;108(6):1249–1258. *(Vanderbilt Mg/Vit D axis)*
 6. Chen GC, et al. *"[Magnesium intake and risk of colorectal cancer: a meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/23031849/)"* European Journal of Clinical Nutrition. 2012;66(11):1182–1186.
-7. Izzo AA, et al. *"[Osmotic laxatives: pharmacology, clinical applications and safety.](https://pubmed.ncbi.nlm.nih.gov/8930532/)"* Review literature.
+7. Izzo AA, et al. *"[Osmotic laxatives: pharmacology, clinical applications and safety.](https://scholar.google.com/scholar?q=osmotic+laxatives+pharmacology+clinical+applications+safety)"* Review literature.
 8. MedlinePlus. *"[Magnesium Citrate.](https://medlineplus.gov/druginfo/meds/a619025.html)"* U.S. National Library of Medicine.
 9. Cleveland Clinic. *"[Magnesium Citrate Oral Solution.](https://my.clevelandclinic.org/health/drugs/19562-magnesium-citrate-oral-solution)"*
 

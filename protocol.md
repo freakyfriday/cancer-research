@@ -1,4 +1,4 @@
-# Ignazio Fiorenza - Cancer Protocol
+# Cancer Protocol
 ### Weekly Schedule (Updated Mar 2026)
 
 ---

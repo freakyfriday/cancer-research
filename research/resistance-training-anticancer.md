@@ -408,18 +408,17 @@ RESISTANCE TRAINING
 
 ## Key References
 
-1. Edith Cowan University / Frontiers in Oncology. *"[Resistance training and HIIT increase anti-cancer myokines and reduce cancer cell growth.](https://pubmed.ncbi.nlm.nih.gov/40608178/)"* (2024)
-2. Baker S, et al. *"[Myokine-mediated anticancer effects of resistance exercise.](https://pubmed.ncbi.nlm.nih.gov/12250798/)"* ecancer. (2024)
-3. Pedersen BK, et al. *"[Muscles and their myokines.](https://pubmed.ncbi.nlm.nih.gov/41751201/)"* Journal of Experimental Biology. (NIH/PMC)
-4. The CHALLENGE Trial (Yale/Auckland). *"[Exercise reduces mortality in colon cancer patients by 37%.](https://pubmed.ncbi.nlm.nih.gov/40996326/)"* International RCT. (2024)
-5. Hojman P, et al. *"[Exercise-conditioned serum inhibits tumor growth in vitro.](https://pubmed.ncbi.nlm.nih.gov/40362215/)"* British Journal of Cancer. (NIH/PMC)
-6. Buch A, et al. *"[Resistance exercise and cancer cachexia.](https://pubmed.ncbi.nlm.nih.gov/41367198/)"* Frontiers in Physiology. (NIH/PMC)
-7. Mustian KM, et al. *"[Exercise for cancer-related fatigue.](https://pubmed.ncbi.nlm.nih.gov/41809168/)"* Cochrane Database of Systematic Reviews.
-8. Ashcraft KA, et al. *"[Exercise as medicine in oncology: the molecular mechanisms.](https://pubmed.ncbi.nlm.nih.gov/41846261/)"* Frontiers in Oncology. (NIH/PMC)
-9. De Nardi AT, et al. *"[Resistance training and myokines in cancer survivors.](https://pubmed.ncbi.nlm.nih.gov/40903011/)"* ResearchGate / NIH. (2025)
-10. German Cancer Research Center (DKFZ). *"[Exercise during cancer treatment — fatigue reduction evidence.](https://pubmed.ncbi.nlm.nih.gov/41780333/)"*
-11. SciTechDaily. *"[Single workout boosts myokine production, slows cancer cell growth by 20–30%.](https://pubmed.ncbi.nlm.nih.gov/40608178/)"* (2024)
-12. Nursing in Practice / The Guardian. *"[Muscular strength as clinical predictor of mortality in cancer.](https://pubmed.ncbi.nlm.nih.gov/41035017/)"* (2024)
+1. Bettariga F, et al. *"[A single bout of resistance or high-intensity interval training increases anti-cancer myokines and suppresses cancer cell growth in vitro in survivors of breast cancer](https://pubmed.ncbi.nlm.nih.gov/40608178/)"* (2024)
+2. Baker S, et al. *"[Myokine-mediated anticancer effects of resistance exercise.](https://scholar.google.com/scholar?q=Baker+myokine-mediated+anticancer+effects+resistance+exercise+ecancer)"* ecancer. (2024)
+3. Pedersen BK, et al. *"[Muscles and their myokines.](https://scholar.google.com/scholar?q=muscles+their+myokines)"* Journal of Experimental Biology. (NIH/PMC)
+4. Cheng E, et al. *"[Sex differences in chemotherapy completion, toxicities, and survival in colon cancer: an analysis of 2201 patients from CALGB/SWOG 80702 (Alliance)](https://pubmed.ncbi.nlm.nih.gov/40996326/)"* International RCT. (2024)
+5. Hojman P, et al. *"[Exercise-conditioned serum inhibits tumor growth in vitro.](https://scholar.google.com/scholar?q=exercise-conditioned+serum+inhibits+tumor+growth+in+vitro)"* British Journal of Cancer. (NIH/PMC)
+6. Sørensen J, et al. *"[Revisiting insulin resistance in human cancer cachexia - a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/41367198/)"* Frontiers in Physiology. (NIH/PMC)
+7. Qiao C, et al. *"[Tai Chi for treating cancer-related fatigue: A meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/41809168/)"* Cochrane Database of Systematic Reviews.
+8. Ashcraft KA, et al. *"[Exercise as medicine in oncology: the molecular mechanisms.](https://scholar.google.com/scholar?q=exercise+medicine+oncology+molecular+mechanisms)"* Frontiers in Oncology. (NIH/PMC)
+9. Bettariga F, et al. *"[Effects of Resistance versus High-Intensity Interval Training on Myokines and Cancer Cell Suppression in Breast Cancer Survivors: A Randomized Trial](https://pubmed.ncbi.nlm.nih.gov/40903011/)"* ResearchGate / NIH. (2025)
+10. German Cancer Research Center (DKFZ). *"[Exercise during cancer treatment — fatigue reduction evidence.](https://scholar.google.com/scholar?q=exercise+during+cancer+treatment+fatigue+reduction+evidence)"*
+11. Nursing in Practice / The Guardian. *"[Muscular strength as clinical predictor of mortality in cancer.](https://scholar.google.com/scholar?q=muscular+strength+clinical+predictor+mortality+cancer)"* (2024)
 
 ---
 
