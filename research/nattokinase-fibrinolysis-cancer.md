@@ -283,18 +283,18 @@ Nattokinase (Nattovena)
 
 ## Key References
 
-1. Sumi H, et al. *"[A novel fibrinolytic enzyme (nattokinase) in the vegetable cheese Natto; a typical and popular soybean food in the Japanese diet.](https://pubmed.ncbi.nlm.nih.gov/3461831/)"* Experientia. 1987;43(10):1110–1. (NIH/PubMed)
-2. Fujita M, et al. *"[Thrombolytic effect of nattokinase on a chemically induced thrombosis model in rat.](https://pubmed.ncbi.nlm.nih.gov/7788797/)"* Biological and Pharmaceutical Bulletin. 1995;18(10):1387–91. (NIH/PubMed)
-3. Urano T, et al. *"[The profibrinolytic enzyme subtilisin NAT purified from Bacillus subtilis cleaves and inactivates plasminogen activator inhibitor type 1.](https://pubmed.ncbi.nlm.nih.gov/11340065/)"* Journal of Biological Chemistry. 2001;276(27):24690–6. (NIH/PubMed)
+1. Sumi H, et al. *"[A novel fibrinolytic enzyme (nattokinase) in the vegetable cheese Natto; a typical and popular soybean food in the Japanese diet.](https://pubmed.ncbi.nlm.nih.gov/3478223/)"* Experientia. 1987;43(10):1110–1. (NIH/PubMed)
+2. Fujita M, et al. *"[Thrombolytic effect of nattokinase on a chemically induced thrombosis model in rat.](https://pubmed.ncbi.nlm.nih.gov/8593442/)"* Biological and Pharmaceutical Bulletin. 1995;18(10):1387–91. (NIH/PubMed)
+3. Urano T, et al. *"[The profibrinolytic enzyme subtilisin NAT purified from Bacillus subtilis cleaves and inactivates plasminogen activator inhibitor type 1.](https://pubmed.ncbi.nlm.nih.gov/11325965/)"* Journal of Biological Chemistry. 2001;276(27):24690–6. (NIH/PubMed)
 4. Kim JY, et al. *"[Effects of nattokinase on blood pressure: a randomized, controlled trial.](https://pubmed.ncbi.nlm.nih.gov/18971533/)"* Hypertension Research. 2008;31(8):1583–8. (NIH/PubMed)
-5. Chen H, et al. *"[Nattokinase: a promising alternative in prevention and treatment of cardiovascular diseases.](https://pubmed.ncbi.nlm.nih.gov/29495770/)"* Biomarker Insights. 2018;13. (NIH/PMC)
+5. Chen H, et al. *"[Nattokinase: a promising alternative in prevention and treatment of cardiovascular diseases.](https://pubmed.ncbi.nlm.nih.gov/30013308/)"* Biomarker Insights. 2018;13. (NIH/PMC)
 6. Weng Y, et al. *"[Nattokinase-mediated regulation of tumor physical microenvironment to enhance chemotherapy, radiotherapy, and CAR-T therapy of solid tumor.](https://pubs.acs.org/doi/10.1021/acsnano.2c12644)"* ACS Nano. 2023;17(8):7475–7486. (ACS Publications)
-7. Chung SI, et al. *"[Nattokinase crude extract inhibits hepatocellular carcinoma growth in mice.](https://pubmed.ncbi.nlm.nih.gov/34475011/)"* Journal of Microbiology and Biotechnology. 2021;31(9):1281–1287. (NIH/PubMed)
+7. Chung SI, et al. *"[Nattokinase crude extract inhibits hepatocellular carcinoma growth in mice.](https://scholar.google.com/scholar?q=Chung+nattokinase+crude+extract+inhibits+hepatocellular+carcinoma+growth+mice)"* Journal of Microbiology and Biotechnology. 2021;31(9):1281–1287.
 8. El-Sayed SM, et al. *"[Nattokinase enhances the inhibitory effects of oxaliplatin on cancer cells through fibrin degradation and apoptosis induction.](https://www.sciencedirect.com/science/article/pii/S1878535222005093)"* Arabian Journal of Chemistry. 2022;15(12). (ScienceDirect)
-9. Nair SR, et al. *"[Serratiopeptidase and nattokinase in cancer — a review of fibrinolytic enzyme therapy.](https://link.springer.com/article/10.1007/s40452-025-07102-9)"* (Springer/NIH)
+9. Nair SR, et al. *"[Serratiopeptidase and nattokinase in cancer — a review of fibrinolytic enzyme therapy.](https://link.springer.com/article/10.1007/s40452-025-07102-9)"* (Springer)
 10. Tran HCM, et al. *"[The procoagulant signature of cancer cells drives fibrin network formation in tumor microenvironment.](https://pubmed.ncbi.nlm.nih.gov/38723522/)"* Blood (ASH Publications). 2024. (NIH/PubMed)
-11. Zheng J, et al. *"[Nattokinase-driven remodeling of tumor microenvironment improves the efficacy of MSLN-targeted CAR-T cell therapy in solid tumors.](https://pubmed.ncbi.nlm.nih.gov/39514146/)"* Cancer Immunology, Immunotherapy. 2025;74(1):10. (NIH/PubMed)
-12. Kurosawa Y, et al. *"[A single-dose of oral nattokinase potentiates thrombolysis and anti-coagulation profiles.](https://pubmed.ncbi.nlm.nih.gov/26084373/)"* Scientific Reports. 2015;5:11601. (NIH/PMC)
+11. Zheng J, et al. *"[Nattokinase-driven remodeling of tumor microenvironment improves the efficacy of MSLN-targeted CAR-T cell therapy in solid tumors.](https://scholar.google.com/scholar?q=Zheng+nattokinase+remodeling+tumor+microenvironment+MSLN+CAR-T+solid+tumors+2025)"* Cancer Immunology, Immunotherapy. 2025;74(1):10.
+12. Kurosawa Y, et al. *"[A single-dose of oral nattokinase potentiates thrombolysis and anti-coagulation profiles.](https://pubmed.ncbi.nlm.nih.gov/26109079/)"* Scientific Reports. 2015;5:11601. (NIH/PMC)
 
 ---
 

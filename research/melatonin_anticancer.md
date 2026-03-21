@@ -213,6 +213,8 @@ Simultaneously protects healthy tissue:
 > **However**, most of these trials studied melatonin **alongside chemotherapy or radiotherapy**. For patients **not receiving chemo**, the evidence is more limited but still supports 20 mg/day — Lissoni's brain metastases RCT (PMID 8299092) used 20 mg/day with supportive care alone (no chemo) and found significantly improved 1-year survival. The anti-cancer mechanisms (Warburg reversal, immune activation, apoptosis induction) are **intrinsic to melatonin** and do not depend on chemotherapy to function.
 >
 > **Bottom line:** 20 mg/day is reasonable with or without chemo. The mechanisms are independent of conventional treatment, but the strongest clinical survival data comes from chemo-adjuvant trials.
+>
+> **Colon cancer note:** No standalone RCT has tested 20 mg melatonin specifically in colon cancer without chemo. The non-chemo evidence (PMID 8299092) is from brain metastases patients. However, colon cancer relevance is supported by: (1) Lissoni's chemo-adjuvant trials included **mixed solid tumours including colorectal cancer** in their cohorts; (2) melatonin's anti-cancer mechanisms (Warburg reversal, NF-κB suppression, immune activation, apoptosis) are **cancer-type-agnostic** and well-demonstrated in colorectal cell lines; (3) the **HBOT + melatonin combination** has been specifically studied in colorectal cancer models with inhibitory results. The 20 mg dose is therefore extrapolated from cross-tumour-type clinical data and supported by colorectal-specific mechanistic evidence — not from a dedicated colon cancer monotherapy RCT.
 
 ### 11.2 Safety
 - **Exceptionally safe** — high safety margin with virtually no serious toxicity
