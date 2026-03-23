@@ -1,0 +1,6 @@
+protocol.html
+protocol.md
+*.pdf
+node_modules/
+.next/
+reference_check.md

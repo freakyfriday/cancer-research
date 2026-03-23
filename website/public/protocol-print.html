@@ -414,5 +414,22 @@
   Protocol compiled March 2026 · Based on 33 research documents · For medical professional review
 </div>
 
+<div class="no-print" style="text-align: center; margin: 20px 0 10px;">
+  <button onclick="window.print()" style="
+    background: #1a1a2e; color: #fff; border: none; padding: 10px 28px;
+    border-radius: 6px; font-family: inherit; font-size: 13px; font-weight: 600;
+    cursor: pointer; letter-spacing: 0.3px;
+  ">🖨️ Print / Save as PDF</button>
+</div>
+
+<script>
+  // Auto-trigger print when opened from the website's download button
+  if (window.location.search.includes('print=1')) {
+    window.addEventListener('load', function() {
+      setTimeout(function() { window.print(); }, 600);
+    });
+  }
+</script>
+
 </body>
 </html>

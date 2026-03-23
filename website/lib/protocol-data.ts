@@ -186,6 +186,12 @@ export const therapySteps: TherapyStep[] = [
     slugs: ["resistance-training-anticancer"],
   },
   {
+    name: "Melatonin 3–6 mg (pre-HBOT)",
+    why: "Protects healthy cells from HBOT oxidative stress while leaving cancer vulnerable. Peak plasma at ~30 min.",
+    duration: "30 min before HBOT",
+    slugs: ["melatonin_anticancer", "hbot-hyperbaric-oxygen-therapy-cancer"],
+  },
+  {
     name: "HBOT",
     why: "Flood exposed tumour with O₂ (Serrapeptase stripped fibrin shield). Hospital-grade, 100% O₂.",
     duration: "30–60 min at 3 ATA",
@@ -309,9 +315,9 @@ export const nightMWF: Supplement[] = [
     badge: { type: "moved", label: "★ CHANGED" },
   },
   {
-    name: "Melatonin 20 mg",
+    name: "Melatonin 3–6 mg",
     action: "Suppress tumour",
-    notes: "Lissoni RCT dose (with and without chemo). Take with evening Mg Citrate.",
+    notes: "Nightly dose. Take with evening Mg Citrate. Separate from pre-HBOT dose.",
     slugs: ["melatonin_anticancer"],
   },
 ];
@@ -358,9 +364,9 @@ export const nightTTS: Supplement[] = [
     badge: { type: "moved", label: "★ CHANGED" },
   },
   {
-    name: "Melatonin 20 mg",
+    name: "Melatonin 3–6 mg",
     action: "Suppress tumour",
-    notes: "Lissoni RCT dose (with and without chemo). Take with evening Mg Citrate.",
+    notes: "Nightly dose. Take with evening Mg Citrate. Separate from pre-HBOT dose.",
     slugs: ["melatonin_anticancer"],
   },
 ];
@@ -442,7 +448,7 @@ export const synergies: Synergy[] = [
   { pair: "MB → Red Light", mechanism: "MB absorbs 665 nm → singlet oxygen → photodynamic kill", timing: "MB 30 min before RLT", slugs: ["methylene_blue_red_light_mitochondria"] },
   { pair: "Serrapeptase → HBOT", mechanism: "Strip fibrin shield → O₂ floods exposed tumour", timing: "Waking → mid-morning", slugs: ["serrapeptase-serratia-cancer", "hbot-hyperbaric-oxygen-therapy-cancer"] },
   { pair: "RLT → HBOT", mechanism: "Red light primes mitochondria → HBOT maximises ROS", timing: "RLT before HBOT", slugs: ["red_light_therapy_anticancer", "hbot-hyperbaric-oxygen-therapy-cancer"] },
-  { pair: "HBOT + Melatonin", mechanism: "Combo studied in colorectal cancer — inhibitory", timing: "Melatonin at night", slugs: ["hbot-hyperbaric-oxygen-therapy-cancer", "melatonin_anticancer"] },
+  { pair: "HBOT + Melatonin", mechanism: "Melatonin selectively protects healthy cells from HBOT ROS; cancer cells remain vulnerable. Combo studied in CRC.", timing: "3–6 mg 30 min pre-HBOT + 3–6 mg nightly", slugs: ["hbot-hyperbaric-oxygen-therapy-cancer", "melatonin_anticancer"] },
   { pair: "Chlorella → Sauna", mechanism: "Chlorella binds toxins mobilised by sweating", timing: "Chlorella 30 min before", slugs: ["chlorella-spirulina-cancer-research", "sauna-therapy-cancer-detox"] },
   { pair: "EGCG + Vit C", mechanism: "Vitamin C stabilises EGCG → better absorption", timing: "Same meal (lunch)", slugs: ["egcg_green_tea_anticancer", "vitamin-c-cancer"] },
   { pair: "Quercetin + EGCG", mechanism: "Quercetin inhibits COMT → ↑ intracellular EGCG", timing: "Same meal (lunch)", slugs: ["quercetin-cancer-metabolism", "egcg_green_tea_anticancer"] },
@@ -490,7 +496,7 @@ export const monitoringItems: MonitoringItem[] = [
   { item: "EGCG ≥600 mg/day", monitor: "Monitor liver enzymes." },
   { item: "Molybdenum", monitor: "May lower copper — beneficial but monitor." },
   { item: "Ivermectin 120 mg/day", monitor: "Above standard dose. Fat essential. Medical supervision required." },
-  { item: "Melatonin 20 mg", monitor: "Lissoni RCT dose (with and without chemo). May cause vivid dreams or morning grogginess initially — usually resolves within a week." },
+  { item: "Melatonin 3–6 mg (×2/day on HBOT days)", monitor: "Pre-HBOT dose (30 min before) + nightly dose. May cause vivid dreams or morning grogginess initially — usually resolves within a week." },
   { item: "Serrapeptase + Drugs", monitor: "May ↑ blood levels of co-administered drugs." },
   { item: "Resveratrol >1 g/day", monitor: "GI discomfort; CYP3A4 effects increase." },
   { item: "D-serine", monitor: "Renally excreted — monitor creatinine + eGFR. If eGFR < 60, reduce or stop. Ramp: 1 g wk 1 → 2.5 g wk 3." },

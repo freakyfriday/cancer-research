@@ -119,12 +119,19 @@ export default function ProtocolPage() {
 
   return (
     <main className="site-container">
-      {/* HERO */}
       <section className="hero">
         <h1>Cancer Protocol</h1>
         <p className="subtitle">
-          Weekly Schedule · Updated March 2026 · Based on 32 research documents
+          Weekly Schedule · Updated March 2026 · Based on 33 research documents
         </p>
+        <a
+          href="/protocol-print.html?print=1"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="download-pdf-btn"
+        >
+          🖨️ Download PDF
+        </a>
       </section>
 
       {/* LOCKED MEDICATIONS */}

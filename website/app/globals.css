@@ -254,6 +254,29 @@ a:hover {
   font-weight: 400;
 }
 
+.download-pdf-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: var(--space-md);
+  padding: var(--space-sm) var(--space-lg);
+  background: var(--bg-card);
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.25s ease;
+}
+
+.download-pdf-btn:hover {
+  color: var(--accent-light);
+  border-color: var(--border-active);
+  background: var(--bg-card-hover);
+  box-shadow: 0 0 16px var(--accent-glow);
+  text-shadow: none;
+}
+
 /* ==================== SECTIONS ==================== */
 .protocol-section {
   margin-bottom: var(--space-3xl);
