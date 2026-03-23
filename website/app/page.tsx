@@ -125,7 +125,7 @@ export default function ProtocolPage() {
           Weekly Schedule · Updated March 2026 · Based on 33 research documents
         </p>
         <a
-          href="/protocol-print.html?print=1"
+          href="/protocol-print"
           target="_blank"
           rel="noopener noreferrer"
           className="download-pdf-btn"
